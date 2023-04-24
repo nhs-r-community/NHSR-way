@@ -2,9 +2,9 @@
 
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R.
 
-Documentation is important in coding to show methodology as well as intention so the NHS-R Way, inspired from [The Turing Way](https://the-turing-way.netlify.app/index.html#), is our attempt to write about the Community.
+Documentation is important in coding to show methodology as well as intention so the NHS-R Community Way, inspired from [The Turing Way](https://the-turing-way.netlify.app/index.html#), is our attempt to write about the Community.
 
-The NHS-R Way reflects our:
+The NHS-R Community Way reflects our:
 
 * values
 * activities
