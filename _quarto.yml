@@ -1,0 +1,24 @@
+project:
+  type: book
+book:
+  title: "NHSR-way"
+  author: "NHS-R Community"
+  date: "24/04/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+  page-footer:
+    left: |
+      NHS-R Way by the NHS-R Community
+      
+      NHS-R Community makes all of their materials publicly available under open source licenses
+    right: |
+      This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
