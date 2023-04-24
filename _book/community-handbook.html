@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.335">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>NHSR-way - Community Handbook</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./references.html" rel="next">
+<link href="./code-of-conduct.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Community Handbook</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">NHSR-way</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Welcome</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./code-of-conduct.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Code of Conduct</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./community-handbook.html" class="sidebar-item-text sidebar-link active">Community Handbook</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#book-style-guide" id="toc-book-style-guide" class="nav-link active" data-scroll-target="#book-style-guide">Book Style Guide</a>
+  <ul class="collapse">
+  <li><a href="#write-each-sentence-in-a-new-line-line-breaks" id="toc-write-each-sentence-in-a-new-line-line-breaks" class="nav-link" data-scroll-target="#write-each-sentence-in-a-new-line-line-breaks">Write each sentence in a new line (line breaks)</a></li>
+  <li><a href="#opinions-are-welcome-but" id="toc-opinions-are-welcome-but" class="nav-link" data-scroll-target="#opinions-are-welcome-but">Opinions are welcome, but …</a></li>
+  <li><a href="#avoid-latin-abbreviation" id="toc-avoid-latin-abbreviation" class="nav-link" data-scroll-target="#avoid-latin-abbreviation">Avoid Latin Abbreviation</a></li>
+  <li><a href="#explain-acronyms" id="toc-explain-acronyms" class="nav-link" data-scroll-target="#explain-acronyms">Explain acronyms</a></li>
+  <li><a href="#use-capitals-wisely" id="toc-use-capitals-wisely" class="nav-link" data-scroll-target="#use-capitals-wisely">Use capitals wisely</a></li>
+  <li><a href="#external-links" id="toc-external-links" class="nav-link" data-scroll-target="#external-links">External links</a></li>
+  <li><a href="#chunks-with-code-or-special-text" id="toc-chunks-with-code-or-special-text" class="nav-link" data-scroll-target="#chunks-with-code-or-special-text">Chunks with code or special text</a></li>
+  </ul></li>
+  <li><a href="#social-media" id="toc-social-media" class="nav-link" data-scroll-target="#social-media">Social Media</a>
+  <ul class="collapse">
+  <li><a href="#nhs-r-slack" id="toc-nhs-r-slack" class="nav-link" data-scroll-target="#nhs-r-slack">NHS-R Slack</a>
+  <ul class="collapse">
+  <li><a href="#accessing-the-slack" id="toc-accessing-the-slack" class="nav-link" data-scroll-target="#accessing-the-slack">Accessing the Slack</a></li>
+  <li><a href="#deletion-of-accounts-on-slack" id="toc-deletion-of-accounts-on-slack" class="nav-link" data-scroll-target="#deletion-of-accounts-on-slack">Deletion of accounts on Slack</a></li>
+  <li><a href="#slack-security" id="toc-slack-security" class="nav-link" data-scroll-target="#slack-security">Slack security</a></li>
+  </ul></li>
+  <li><a href="#weekly-office-hours" id="toc-weekly-office-hours" class="nav-link" data-scroll-target="#weekly-office-hours">Weekly office hours</a></li>
+  <li><a href="#twitter" id="toc-twitter" class="nav-link" data-scroll-target="#twitter">Twitter</a></li>
+  <li><a href="#fosstodon-server-on-mastodon" id="toc-fosstodon-server-on-mastodon" class="nav-link" data-scroll-target="#fosstodon-server-on-mastodon">Fosstodon server on Mastodon</a></li>
+  <li><a href="#website" id="toc-website" class="nav-link" data-scroll-target="#website">Website</a></li>
+  <li><a href="#mailing-list" id="toc-mailing-list" class="nav-link" data-scroll-target="#mailing-list">Mailing list</a></li>
+  </ul></li>
+  <li><a href="#video-recording" id="toc-video-recording" class="nav-link" data-scroll-target="#video-recording">Video Recording</a>
+  <ul class="collapse">
+  <li><a href="#youtube" id="toc-youtube" class="nav-link" data-scroll-target="#youtube">YouTube</a></li>
+  </ul></li>
+  <li><a href="#blogs" id="toc-blogs" class="nav-link" data-scroll-target="#blogs">Blogs</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Community Handbook</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="book-style-guide" class="level1 unnumbered">
+<h1 class="unnumbered">Book Style Guide</h1>
+<p>To ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.</p>
+<p>We follow the <a href="https://www.gov.uk/guidance/content-design/writing-for-gov-uk">GOV.UK guidance</a> to improve accessibility of the resources in <em>The Turing Way</em>.</p>
+<section id="write-each-sentence-in-a-new-line-line-breaks" class="level2">
+<h2 class="anchored" data-anchor-id="write-each-sentence-in-a-new-line-line-breaks">Write each sentence in a new line (line breaks)</h2>
+<p>Please write all sentences in the markdown file on separate lines. Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>Today you are you, that is truer than true.</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>There is no one alive who is youer than you.</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Dr Seuss</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="opinions-are-welcome-but" class="level2">
+<h2 class="anchored" data-anchor-id="opinions-are-welcome-but">Opinions are welcome, but …</h2>
+<p><em>The NHS-R Community Way</em> book is intended to be only <em>lightly</em> opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol <code>&gt;</code>. Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; I will not eat them in a house,</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them with a mouse,</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them in a box i will not eat them with a fox,</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them here of there i will not eat them anywhere,</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; I do not like green eggs and ham i do not like them sam i am</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="avoid-latin-abbreviation" class="level2">
+<h2 class="anchored" data-anchor-id="avoid-latin-abbreviation">Avoid Latin Abbreviation</h2>
+<p>Please do not use Latin abbreviations. See the <a href="https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style">Gov.uk recommendations</a> for details.</p>
+<p>Some of these abbreviations are:</p>
+<ul>
+<li>exempli gratia (for example)</li>
+<li>et-cetera (so on) and</li>
+<li>id est (that is)</li>
+</ul>
+<p>These examples are not written out in their shortened form as the book can be set to fail to publish with Latin abbreviations through GitHub to enforce this style.</p>
+<p>Instead of the first abbreviation in the table for <em>exempli gratia</em>, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.</p>
+<p>Instead of the second abbreviation in the table for <em>et-cetera</em> to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.</p>
+<p>Instead of third abbreviation in the table for <em>id est</em> that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.</p>
+</section>
+<section id="explain-acronyms" class="level2">
+<h2 class="anchored" data-anchor-id="explain-acronyms">Explain acronyms</h2>
+<p>The NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like</p>
+<blockquote class="blockquote">
+<p>NHS Midland and Lancashire Commissioning Support Unit</p>
+</blockquote>
+<p>becomes MLCSU.</p>
+<p>Not everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use <code>NHS</code> as we rarely say National Health Service but do consider your audience as not everyone is familiar with it and what it does.</p>
+<p>For technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:</p>
+<blockquote class="blockquote">
+<p>Continuous Integration (CI)</p>
+</blockquote>
+<p>so that whenever CI is referenced later its full form is in the text.</p>
+</section>
+<section id="use-capitals-wisely" class="level2">
+<h2 class="anchored" data-anchor-id="use-capitals-wisely">Use capitals wisely</h2>
+<p>Screen readers will read capitals as if they are acronyms which works for things like NHS and MLCSU. Because a screen reader read each letter, using capitals for emphasis in text like:</p>
+<pre><code>DO NOT do this</code></pre>
+<p>could result in a screen reader spelling out the words do and not by individual letters. It’s also felt to be a bit like shouting in text so consider other ways of emphasis.</p>
+</section>
+<section id="external-links" class="level2">
+<h2 class="anchored" data-anchor-id="external-links">External links</h2>
+<p>Write external links using “http://” instead of “www”. This ensures they are correctly recognised as hyperlinks.</p>
+</section>
+<section id="chunks-with-code-or-special-text" class="level2">
+<h2 class="anchored" data-anchor-id="chunks-with-code-or-special-text">Chunks with code or special text</h2>
+<p>You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (<code>```</code> becomes <code>```R</code>).</p>
+<p>Markdown source:</p>
+<pre><code>    ```R
+    x &lt;- c(1:21)
+    ```</code></pre>
+<p>HTML output:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>x <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">21</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+</section>
+<section id="social-media" class="level1">
+<h1>Social Media</h1>
+<section id="nhs-r-slack" class="level2">
+<h2 class="anchored" data-anchor-id="nhs-r-slack">NHS-R Slack</h2>
+<p>The NHS-R Community use the free version of Slack to facilitate conversations between members. Many people join the Slack group and enjoy reading the conversations without ever joining in and that’s ok as this is the best place to find out what’s happening with the community and a lot can be learned from others’ conversations. Because this is a free account we don’t have a history of posts but they would be available if we moved to a paid account.</p>
+<section id="accessing-the-slack" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-slack">Accessing the Slack</h3>
+<p>Some organisations’ emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email <a href="nhs.rcommunity@nhs.net">nhs.rcommunity@nhs.net</a> for the link. Links that are shared are only available for several days.</p>
+<p>It’s best to use an organisational email for the group, but not necessary, and you are also able to change the email once you’ve joined.</p>
+</section>
+<section id="deletion-of-accounts-on-slack" class="level3">
+<h3 class="anchored" data-anchor-id="deletion-of-accounts-on-slack">Deletion of accounts on Slack</h3>
+<p>Unfortunately with the free account we are unable to change email addresses which has affected some people when they move to a new organisation and require a password reset or use the Slack system of emailing a joining link. However, we can delete any old account to avoid confusion to others on the Slack so they will only tag or direct message the active account.</p>
+<p>Other than this situation, we would only ever delete an account due to <a href="code-of-conduct.html"><span>Chapter&nbsp;2</span></a> issues.</p>
+</section>
+<section id="slack-security" class="level3">
+<h3 class="anchored" data-anchor-id="slack-security">Slack security</h3>
+<p>Administrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators.</p>
+<p>In line with good security principles we strongly suggest using two factor authentication for the Slack group and note that you will need this for each Slack workspace that you have joined.</p>
+</section>
+</section>
+<section id="weekly-office-hours" class="level2">
+<h2 class="anchored" data-anchor-id="weekly-office-hours">Weekly office hours</h2>
+<p>In order to support people and manage the time we can dedicate to that support, we have office hours which are currently on a Monday from 3pm-4pm GMT through a Microsoft Teams link that is shared in the #announcements channel in the NHS-R Slack group. The meeting is moved to a Tuesday when England has a <a href="https://www.gov.uk/bank-holidays">public holiday</a> on the Monday and these changes are announced in the Slack group. The weekly office hours are for anyone to come along, without needing to schedule, with any issues with R or RStudio as part of the NHS-R Community. The meetings are run by Chris Beeley, Zoë Turner and Tom Jemmett on a rotating basis and is open to anyone who wishes to support this in the community. We keep a record of the upcoming meetings in a <a href="https://docs.google.com/spreadsheets/d/1PaRbNqwUhqQSmYj6tRoBgvaNefIGkTiDkyW75ZSbmeg/edit?usp=sharing">Google sheet</a>.</p>
+<p>You are also free to come for a chat!</p>
+</section>
+<section id="twitter" class="level2">
+<h2 class="anchored" data-anchor-id="twitter">Twitter</h2>
+<p>The account for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. During events like the conference we extend this account access to interested NHS-R Community members who’d like to tweet from the account. We encourage retweeting and the use of hashtags during the conference which usually are often in the format #NHSRConf23.</p>
+<p>The Twitter account is used to promote NHS-R Community activities and any other #RStats related content that will be of interest to a wide audience.</p>
+</section>
+<section id="fosstodon-server-on-mastodon" class="level2">
+<h2 class="anchored" data-anchor-id="fosstodon-server-on-mastodon">Fosstodon server on Mastodon</h2>
+<p>With the change in ownership to Twitter and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon. This account, like for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.</p>
+</section>
+<section id="website" class="level2">
+<h2 class="anchored" data-anchor-id="website">Website</h2>
+<p>The NHS-R Community website is built using WordPress and managed through <a href="https://vergelabs.co.uk/">VergeLabs</a>. We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events. Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs and also Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.</p>
+</section>
+<section id="mailing-list" class="level2">
+<h2 class="anchored" data-anchor-id="mailing-list">Mailing list</h2>
+<p>Currently the NHS-R Community does not hold a mailing list as we will have to ensure strict compliance with GDPR. It is advised to sign up to any system related to NHS-R Community with a work address but where a private address is used we will try to ensure that this is not shared.</p>
+</section>
+</section>
+<section id="video-recording" class="level1">
+<h1>Video Recording</h1>
+<p>NHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars. Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.</p>
+<p>In terms of recording, Zoom and Microsoft Teams Events only record the person speaking and their shared screen. Microsoft Teams which is used by many NHS and Local Authorities for meetings, however, shows the videos and names of attenders which may be an issue for attenders.</p>
+<section id="youtube" class="level2">
+<h2 class="anchored" data-anchor-id="youtube">YouTube</h2>
+<p>We always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings. We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.</p>
+<p>YouTube applies automatic subtitles after a period of time of uploading but at the moment we don’t amend those subtitles given the time it requires. However, this is something that we would like to do in the future and this may mean we get support from a community member.</p>
+</section>
+</section>
+<section id="blogs" class="level1">
+<h1>Blogs</h1>
+<p>We host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can’t publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.</p>
+<p>Submissions for blogs can be in any format but need to be easily copied and pasted to <a href="mailto:nhs.rcommunity@nhs.net">nhs.rcommunity@nhs.net</a>. For this reason pdf formats are not necessarily the easiest to share content.</p>
+<p>Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility. This includes any pictures used for visual impact and not necessarily to add to the content directly.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./code-of-conduct.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Code of Conduct</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./references.html" class="pagination-link">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <div class="footer-contents">NHS-R Way by the NHS-R Community
+NHS-R Community makes all of their materials publicly available under open source licenses
+</div>  
+    </div>   
+    <div class="nav-footer-right">This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.</div>
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -3,11 +3,11 @@ project:
 book:
   title: "NHSR-way"
   author: "NHS-R Community"
-  date: "24/04/2023"
+  date: "2023-04-24"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - code-of-conduct.qmd
+    - community-handbook.qmd
     - references.qmd
   page-footer:
     left: |

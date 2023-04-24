@@ -10,26 +10,7 @@ We are particularly motivated to support new and/or anxious collaborators, peopl
 
 To make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.
 
-* [1 Introduction](#1-introduction)
-* [2 Code of Conduct](#2-code-of-conduct)
-  * [2.1 Expected Behaviour](#21-expected-behaviour)
-  * [2.2 Unacceptable Behaviour](#22-unacceptable-behaviour)
-  * [2.3 Consequences of Unacceptable Behaviour](#23-consequences-of-unacceptable-behaviour)
-  * [2.4 Feedback](#24-feedback)
-* [3 Incident Reporting Guidelines](#3-incident-reporting-guidelines)
-  * [3.1 Contact points](#31-contact-points)
-  * [3.2 Alternate contact points](#32-alternate-contact-points)
-  * [3.3 What to do if someone is in physical danger](#33-what-to-do-if-someone-is-in-physical-danger)
-  * [3.4 Code of Conduct Enforcement](#34-code-of-conduct-enforcement)
-* [4 Enforcement Manual](#4-enforcement-manual)
-  * [4.1 The Code of Conduct Committee](#41-the-code-of-conduct-committee)
-  * [4.2 Urgent Situations: Acting Unilaterally](#42-urgent-situations-acting-unilaterally)
-  * [4.3 Less-Urgent Situations](#43-less-urgent-situations)
-  * [4.4 Resolutions](#44-resolutions)
-  * [4.5 Conflicts of Interest](#45-conflicts-of-interest)
-* [5 Acknowledgements](#5-acknowledgements)
-
-## 1 Introduction
+# Introduction {#sec-conduct}
 
 The NHS-R Community Way is a community-oriented and -led project, although supported through the NHS it is not exclusively open to just NHS employees and, as such, we have members from other public sector organisations, academia, charities, the voluntary sector as well as individuals who have an interest in healthcare data and data science.
 We value the involvement of everyone in the community.
@@ -42,13 +23,11 @@ This Code of Conduct applies to all spaces managed by the NHS-R Community includ
 The NHS-R Community has a core development team which consists of:
 
 * [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct
-* [Chris Beeley](mailto:chris1.beeley@nhs.net)
+* [Chris Beeley](mailto:chris1.beeley@nhs.net) - who leads the NHS-R Community
 
 The central email [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) is accessed by Chris Beeley, Zoë Turner and administrative/support staff in the Strategy Unit.
 
 Both Chris Beeley and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Strategy Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within the Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
-
-## 2 Code of Conduct
 
 The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
@@ -58,7 +37,7 @@ Everyone who participates in the NHS-R Community activities is required to confo
 This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in person focus groups and workshops, and communications online via GitHub and the NHS-R Slack group.
 By participating, contributors indicate their acceptance of the procedures by which the NHS-R Community resolves any Code of Conduct incidents, which may include storage and processing of their personal information as well as sharing of that information with organisations.
 
-### 2.1 Expected Behaviour
+## Expected Behaviour
 
 We are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications.
 The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:
@@ -74,7 +53,7 @@ The following bullet points set out explicitly what we hope you will consider to
 All interactions should be professional regardless of platform: either online or in-person.
 See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actuallys, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
 
-### 2.2 Unacceptable Behaviour
+## Unacceptable Behaviour
 
 Examples of unacceptable behaviour by the NHS-R community members at any project event or platform include:
 
@@ -92,7 +71,7 @@ Examples of unacceptable behaviour by the NHS-R community members at any project
 * continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 * publication of private communication without consent
 
-### 2.3 Consequences of Unacceptable Behaviour
+## Consequences of Unacceptable Behaviour
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all NHS-R Community events and platforms, either online or in-person.
@@ -100,37 +79,37 @@ If a participant engages in behaviour that violates this Code of Conduct, any me
 
 It may be that behaviour deemed unacceptable within the NHS-R Community does not necessarily correspond to regulations or policies from hosting organisations to an event or to the organisation (where applicable) that a person is representing. Under these circumstances we expect that any missing behaviours from either organisation or group are respected but that the NHS-R Community Code of Conduct is adhered to and amended to include any missing behaviours as soon as possible. 
 
-### 2.4 Feedback
+## Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
 Rather, you are invited to make suggestions for updates or clarifications by contacting Zoë Turner at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net) or by making a pull request to this document on GitHub.
 
-## 3 Incident Reporting Guidelines
+# Incident Reporting Guidelines
 
-### 3.1 Contact points
+## Contact points
 
 If you feel able to, please contact Zoë Turner by email at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net).
 
-### 3.2 Alternate contact points
+## Alternate contact points
 
 If you do not feel comfortable contacting Zoë Turner, please report an incident to Chris Beeley by email at [chris.beeley1@nhs.net](mailto:chris.beeley1@nhs.net).
 
 If you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within the Strategy Unit (NHS Midlands and Lancashire Commissioning Strategy Unit) through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
-### 3.3 What to do if someone is in physical danger
+## What to do if someone is in physical danger
 
 If you believe someone is in physical danger, please contact the appropriate emergency responders.
 
-### 3.4 Code of Conduct Enforcement
+## Code of Conduct Enforcement
 
 A detailed enforcement policy is available in the Enforcement Manual below.
 
-## 4 Enforcement Manual
+# Enforcement Manual
 
 This enforcement manual is used when we respond to an issue to make sure we're consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-### 4.1 The Code of Conduct Committee
+## The Code of Conduct Committee
 
 The Code of Conduct committee is:
 
@@ -139,7 +118,7 @@ The Code of Conduct committee is:
 
 We will always seek to build a larger committee including members outside of the core development team.
 
-### 4.2 Urgent Situations: Acting Unilaterally
+## Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the NHS-R Community.
@@ -151,7 +130,7 @@ In situations where an individual community member acts unilaterally, they must 
 
 It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Strategy Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
-### 4.3 Less-Urgent Situations
+## Less-Urgent Situations
 
 Upon receiving a report of an incident, the Code of Conduct committee will review the incident and determine, to the best of their ability:
 
@@ -170,7 +149,7 @@ The "de-anonymising key" will be kept in a separate file and only accessed to li
 The Code of Conduct committee will aim to have a resolution agreed upon within 5 working days.
 In the event that a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution.
 
-### 4.4 Resolutions
+## Resolutions
 
 The Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question.
 If the committee cannot reach consensus and deadlocks for over a week, Zoë Turner, as lead investigator of the NHS-R Community Way project, will break the tie.
@@ -198,11 +177,11 @@ Once a resolution is agreed upon, but before it is enacted, a member of the Code
 The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record.
 However, the Code of Conduct committee is not required to act on this feedback.
 
-### 4.5 Conflicts of Interest
+## Conflicts of Interest
 
 In the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within NHS Midland and Lancashire Commissioning Support Unit.
 
-## 5 Acknowledgements
+# Acknowledgements
 
 This code is adapted from [The Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) under the creative commons attribution license.
 
