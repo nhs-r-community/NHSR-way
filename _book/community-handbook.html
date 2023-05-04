@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.340">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,9 +17,10 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
@@ -46,43 +47,13 @@ pre.numberSource code > span > a:first-child::before
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
     padding: 0 4px; width: 4em;
-    color: #aaaaaa;
   }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
 div.sourceCode
   {   }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { color: #008000; } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { color: #008000; font-weight: bold; } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
 
@@ -131,11 +102,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Community Handbook</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./community-handbook.html">Community Handbook</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -143,42 +119,47 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">NHSR-way</a> 
     </div>
       </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Welcome</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./code-of-conduct.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Code of Conduct</span></a>
+  <a href="./code-of-conduct.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Code of Conduct</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./community-handbook.html" class="sidebar-item-text sidebar-link active">Community Handbook</a>
+  <a href="./community-handbook.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Community Handbook</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -214,6 +195,31 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#youtube" id="toc-youtube" class="nav-link" data-scroll-target="#youtube">YouTube</a></li>
   </ul></li>
   <li><a href="#blogs" id="toc-blogs" class="nav-link" data-scroll-target="#blogs">Blogs</a></li>
+  <li><a href="#training" id="toc-training" class="nav-link" data-scroll-target="#training">Training</a>
+  <ul class="collapse">
+  <li><a href="#posit-cloud" id="toc-posit-cloud" class="nav-link" data-scroll-target="#posit-cloud">Posit Cloud</a>
+  <ul class="collapse">
+  <li><a href="#posit-cloud-terminology" id="toc-posit-cloud-terminology" class="nav-link" data-scroll-target="#posit-cloud-terminology">Posit Cloud terminology</a></li>
+  </ul></li>
+  <li><a href="#deletion-of-posit-workspaces-and-projects" id="toc-deletion-of-posit-workspaces-and-projects" class="nav-link" data-scroll-target="#deletion-of-posit-workspaces-and-projects">Deletion of Posit workspaces and projects</a>
+  <ul class="collapse">
+  <li><a href="#actively-used-workspaces" id="toc-actively-used-workspaces" class="nav-link" data-scroll-target="#actively-used-workspaces">Actively used workspaces</a></li>
+  <li><a href="#one-off-workspaces" id="toc-one-off-workspaces" class="nav-link" data-scroll-target="#one-off-workspaces">One off workspaces</a></li>
+  </ul></li>
+  <li><a href="#prework-for-attendees" id="toc-prework-for-attendees" class="nav-link" data-scroll-target="#prework-for-attendees">Prework for attendees</a>
+  <ul class="collapse">
+  <li><a href="#equipment---screens" id="toc-equipment---screens" class="nav-link" data-scroll-target="#equipment---screens">Equipment - screens</a></li>
+  <li><a href="#set-up-posit-cloud" id="toc-set-up-posit-cloud" class="nav-link" data-scroll-target="#set-up-posit-cloud">Set up Posit Cloud</a></li>
+  <li><a href="#difference-between-nhs-r-workspaces-and-your-own" id="toc-difference-between-nhs-r-workspaces-and-your-own" class="nav-link" data-scroll-target="#difference-between-nhs-r-workspaces-and-your-own">Difference between NHS-R workspaces and your own</a></li>
+  <li><a href="#taking-the-scripts-to-your-own-workspace" id="toc-taking-the-scripts-to-your-own-workspace" class="nav-link" data-scroll-target="#taking-the-scripts-to-your-own-workspace">Taking the scripts to your own workspace</a></li>
+  <li><a href="#using-your-own-laptopcomputer" id="toc-using-your-own-laptopcomputer" class="nav-link" data-scroll-target="#using-your-own-laptopcomputer">Using your own laptop/computer</a></li>
+  <li><a href="#installing-packages" id="toc-installing-packages" class="nav-link" data-scroll-target="#installing-packages">Installing packages</a></li>
+  <li><a href="#course-materials" id="toc-course-materials" class="nav-link" data-scroll-target="#course-materials">Course materials</a></li>
+  <li><a href="#introduction-to-r-and-rstudio-course-materials" id="toc-introduction-to-r-and-rstudio-course-materials" class="nav-link" data-scroll-target="#introduction-to-r-and-rstudio-course-materials">Introduction to R and RStudio course materials</a></li>
+  <li><a href="#workshop-confirmation-emails" id="toc-workshop-confirmation-emails" class="nav-link" data-scroll-target="#workshop-confirmation-emails">Workshop confirmation emails</a></li>
+  <li><a href="#modern-desktop-users-nhs-england" id="toc-modern-desktop-users-nhs-england" class="nav-link" data-scroll-target="#modern-desktop-users-nhs-england">Modern desktop users (NHS England)</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -222,7 +228,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Community Handbook</h1>
+<h1 class="title">Community Handbook</h1>
 </div>
 
 
@@ -252,7 +258,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </section>
 <section id="opinions-are-welcome-but" class="level2">
 <h2 class="anchored" data-anchor-id="opinions-are-welcome-but">Opinions are welcome, but …</h2>
-<p><em>The NHS-R Community Way</em> book is intended to be only <em>lightly</em> opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol <code>&gt;</code>. Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.</p>
+<p><em>The NHS-R Community Way</em> book is intended to be only <em>lightly</em> opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol <code>&gt;</code>. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; I will not eat them in a house,</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them with a mouse,</span></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them in a box i will not eat them with a fox,</span></span>
@@ -312,6 +318,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h1>Social Media</h1>
 <section id="nhs-r-slack" class="level2">
 <h2 class="anchored" data-anchor-id="nhs-r-slack">NHS-R Slack</h2>
+<p><a href="https://nhsrcommunity.slack.com/">https://nhsrcommunity.slack.com/</a></p>
 <p>The NHS-R Community use the free version of Slack to facilitate conversations between members. Many people join the Slack group and enjoy reading the conversations without ever joining in and that’s ok as this is the best place to find out what’s happening with the community and a lot can be learned from others’ conversations. Because this is a free account we don’t have a history of posts but they would be available if we moved to a paid account.</p>
 <section id="accessing-the-slack" class="level3">
 <h3 class="anchored" data-anchor-id="accessing-the-slack">Accessing the Slack</h3>
@@ -326,7 +333,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <section id="slack-security" class="level3">
 <h3 class="anchored" data-anchor-id="slack-security">Slack security</h3>
 <p>Administrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators.</p>
-<p>In line with good security principles we strongly suggest using two factor authentication for the Slack group and note that you will need this for each Slack workspace that you have joined.</p>
+<p>In line with good security principles we strongly suggest using two factor authentication for the Slack group.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You will need this for each Slack workspace that you have joined.</p>
+</div>
+</div>
 </section>
 </section>
 <section id="weekly-office-hours" class="level2">
@@ -367,8 +387,159 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>We host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can’t publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.</p>
 <p>Submissions for blogs can be in any format but need to be easily copied and pasted to <a href="mailto:nhs.rcommunity@nhs.net">nhs.rcommunity@nhs.net</a>. For this reason pdf formats are not necessarily the easiest to share content.</p>
 <p>Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility. This includes any pictures used for visual impact and not necessarily to add to the content directly.</p>
+</section>
+<section id="training" class="level1">
+<h1>Training</h1>
+<section id="posit-cloud" class="level2">
+<h2 class="anchored" data-anchor-id="posit-cloud">Posit Cloud</h2>
+<p>NHS-R Community pay for an account to use workspaces and projects for training/workshops. These mean that people can have projects that are set up with all the packages they require, have access to the latest version of R and RStudio and projects can be preloaded with any scripts or data. As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to <em>never use the Cloud for analysis of any sensitive data</em>.</p>
+<p>The Posit Cloud account is monitored and maintained by admins who have access to all projects and individual’s projects in the workspaces. Admins are:</p>
+<ul>
+<li><a href="mailto:zoe.turner3@nhs.net">Zoë Turner</a></li>
+<li><a href="thomas.jemmett@nhs.net">Tom Jemmett</a></li>
+<li><a href="chris.beeley1@nhs.net">Chris Beeley</a></li>
+<li><a href="nhs.rcommunity@nhs.net">NHSR Administration</a></li>
+</ul>
+<section id="posit-cloud-terminology" class="level3">
+<h3 class="anchored" data-anchor-id="posit-cloud-terminology">Posit Cloud terminology</h3>
+<p>The <em>workspace</em> is the overall work area that is managed by a person for a training session or workshop. The <em>projects</em> are set up within the workspace and are set to duplicate for individual’s to also join the workspace.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Administrators for workspaces can see everyone’s project and can enter them if required.</p>
+<p>Only one person at a time can be in a project.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="deletion-of-posit-workspaces-and-projects" class="level2">
+<h2 class="anchored" data-anchor-id="deletion-of-posit-workspaces-and-projects">Deletion of Posit workspaces and projects</h2>
+<p>To ensure that the Cloud is manageable and being used appropriately, projects can be moved by their creator to their own personal workspace.</p>
+<section id="actively-used-workspaces" class="level3">
+<h3 class="anchored" data-anchor-id="actively-used-workspaces">Actively used workspaces</h3>
+<p>Projects in active workspaces, like the Introduction to R and R Studio workshop, will be archived after 3 months which means the project isn’t counted in the Cloud usage but is still retrievable.</p>
+</section>
+<section id="one-off-workspaces" class="level3">
+<h3 class="anchored" data-anchor-id="one-off-workspaces">One off workspaces</h3>
+<p>Workspaces for one off events like at conferences will be archived after 3 months and deleted after 6 months.</p>
+</section>
+</section>
+<section id="prework-for-attendees" class="level2">
+<h2 class="anchored" data-anchor-id="prework-for-attendees">Prework for attendees</h2>
+<section id="equipment---screens" class="level3">
+<h3 class="anchored" data-anchor-id="equipment---screens">Equipment - screens</h3>
+<p>Many of the course and workshop formats expect a “code along” approach which is best done with 2 screens for comfort of moving between the demonstration and using RStudio on your computer.</p>
+<p>Where users use two separate computers to enable having 2 screens, this may cause issues with sharing code in the chat functions and it will not be possible to share the coding screen for debugging support. If the person is using a Posit Cloud workspace and the course leader is an administrator then the course leader can access the project to debug.</p>
+</section>
+<section id="set-up-posit-cloud" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-posit-cloud">Set up Posit Cloud</h3>
+<p>Sign up for a free Posit Cloud account at https://posit.cloud/ before the workshop. Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.</p>
+<p>NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link.</p>
+<p>All the files and necessary packages are pre-loaded to the Cloud work space.</p>
+<p>When you first log in with the link shared in the email it will take you to an Posit Cloud screen that says about Joining a space. Click on the blue button for Join Space:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/rstudio-cloud.PNG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Screenshot of the work space view in R Studio Cloud</figcaption>
+</figure>
+</div>
+<p>The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that, in this example, is called <code>Intro_R_RStudio</code>. When this is selected the project gets copied so you will see both the original <code>Intro_R_RStudio</code> and your own new one called <code>Untitled</code>. Although the word <code>continue</code> appears next to the original screen you will open your copy.</p>
+</section>
+<section id="difference-between-nhs-r-workspaces-and-your-own" class="level3">
+<h3 class="anchored" data-anchor-id="difference-between-nhs-r-workspaces-and-your-own">Difference between NHS-R workspaces and your own</h3>
+<p>You will be restricted to a certain <a href="https://posit.cloud/plans">number of hours a month</a> on the free account which should be enough for the purpose of a day workshop, however, the NHS-R work space doesn’t, currently, have that restriction.</p>
+</section>
+<section id="taking-the-scripts-to-your-own-workspace" class="level3">
+<h3 class="anchored" data-anchor-id="taking-the-scripts-to-your-own-workspace">Taking the scripts to your own workspace</h3>
+<p>To move the project you’ve created to your own work space (which is available with the account you set up) select the moving trolley icon:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/select-icon-to-move.PNG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Screenshot of the project name and to the right 4 icons, the bin for delete, moving trolley, the down arrow to download and three dots in a circle</figcaption>
+</figure>
+</div>
+<p>Then select <code>Your work space</code>. If you’ve been invited to any other work space you will also see them in the same Move Content screen:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/move-content-menu.PNG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Screenshot of the Move Content wizard with 3 options, Your work space and two others from NHS-R</figcaption>
+</figure>
+</div>
+<p>It’s possible to download your files instead by using the down arrow by the Project.</p>
+</section>
+<section id="using-your-own-laptopcomputer" class="level3">
+<h3 class="anchored" data-anchor-id="using-your-own-laptopcomputer">Using your own laptop/computer</h3>
+<p>Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.</p>
+<p>If that is the case please ensure you have the <strong>latest</strong> <a href="https://www.r-project.org/">R</a> and <a href="https://rstudio.com/products/rstudio/download/">RStudio</a> installed.</p>
+<p>It is important to have the latest R installed as older versions of R have had issues when installing {tidyverse} packages. Errors say that packages like <code>broom</code> or <code>readr</code> cannot be installed but even when this has been installed separately there continue to be other errors. Some of the <a href="https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7">answers</a> in this post from Posit community may help.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.</p>
+</div>
+</div>
+</section>
+<section id="installing-packages" class="level3">
+<h3 class="anchored" data-anchor-id="installing-packages">Installing packages</h3>
+<p>If a course expects an introductory understanding of R then package requirements to be loaded will be shared. Courses like the Introduction to R and RStudio will install packages as part of the course.</p>
+</section>
+<section id="course-materials" class="level3">
+<h3 class="anchored" data-anchor-id="course-materials">Course materials</h3>
+<p>Materials produced by and for NHSR Community will be available through <a href="https://github.com/nhs-r-community">GitHub</a>. However, some workshops are provided with course material available through Posit Cloud only so contact <a href="mailto:nhs.rcommunity@nhs.net">nhs.rcommunity@nhs.net</a> to request materials.</p>
+</section>
+<section id="introduction-to-r-and-rstudio-course-materials" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-r-and-rstudio-course-materials">Introduction to R and RStudio course materials</h3>
+<p>The Introduction to R and RStudio workshop materials can be found in a specific <a href="https://github.com/nhs-r-community/intro_r_data">module</a>. Click on the green <kdb>Code button</kdb></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/github-download-files.PNG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted</figcaption>
+</figure>
+</div>
+<p>The zip includes the data files which will be used in the workshop.</p>
+<p>The following code can be run from the Console in RStudio to download the same files:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"usethis"</span>)</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>usethis<span class="sc">::</span><span class="fu">use_course</span>(<span class="st">"nhs-r-community/intro_r_data"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<section id="downloading-slides" class="level4">
+<h4 class="anchored" data-anchor-id="downloading-slides">Downloading slides</h4>
+<p>If you want to have the slides on your computer, they can be downloaded from the same repository as the <code>intro-r</code> files but on a branch called <a href="https://github.com/nhs-r-community/intro_r/tree/gh-pages">gh-pages</a>. Using the same process as for <code>Downloading files</code> above you can download these to your computer by clicking on the green button and selecting the zip download.</p>
+</section>
+</section>
+<section id="workshop-confirmation-emails" class="level3">
+<h3 class="anchored" data-anchor-id="workshop-confirmation-emails">Workshop confirmation emails</h3>
+<p>The NHS-R Community confirmation email will include:</p>
+<ul>
+<li>the link to the workshop</li>
+<li>the Posit Cloud specific workspace url and</li>
+<li>a calendar invitation</li>
+</ul>
+<p>If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by <a href="mailto:nhs.rcommunity@nhs.net">nhs.rcommunity@nhs.net</a>.</p>
+</section>
+<section id="modern-desktop-users-nhs-england" class="level3">
+<h3 class="anchored" data-anchor-id="modern-desktop-users-nhs-england">Modern desktop users (NHS England)</h3>
+<p>Some organisations are using a modern desktop system, please note that project do not appear to work with Projects/<code>setwd</code> and files like RMarkdown and Quarto don’t appear to work, giving the error:</p>
+<blockquote class="blockquote">
+<p>Warning message: In options(stringsAsFactors = TRUE) : ‘options(stringsAsFactors = TRUE)’ is deprecated and will be disabled Error in setwd(“C:/R/WorkingDir”) : cannot change working directory Execution halted</p>
+</blockquote>
+<p>Currently, the way around this is to create the missing folder “C:/R/WorkingDir” (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts <code>.rmd</code> and <code>.qmd</code> will work. The other recommendation is currently to work through UDAL if there is access.</p>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -399,9 +570,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -466,6 +651,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -525,6 +796,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 NHS-R Community makes all of their materials publicly available under open source licenses
 </div>  
     </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>

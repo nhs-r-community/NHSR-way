@@ -31,7 +31,7 @@ _The NHS-R Community Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
 The best way to do this is by displaying it in a quote box.
 This can be done by either prefixing every line with the greater than symbol `>`.
-Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
+Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.
 
 ```markdown
 > I will not eat them in a house,
@@ -117,13 +117,16 @@ x <- c(1:21)
 
 ## NHS-R Slack
 
+[https://nhsrcommunity.slack.com/](https://nhsrcommunity.slack.com/)
+
 The NHS-R Community use the free version of Slack to facilitate conversations between members.
 Many people join the Slack group and enjoy reading the conversations without ever joining in and that's ok as this is the best place to find out what's happening with the community and a lot can be learned from others' conversations.
 Because this is a free account we don't have a history of posts but they would be available if we moved to a paid account.
 
 ### Accessing the Slack
 
-Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) for the link. Links that are shared are only available for several days.
+Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) for the link. 
+Links that are shared are only available for several days.
 
 It's best to use an organisational email for the group, but not necessary, and you are also able to change the email once you've joined.
 
@@ -138,7 +141,11 @@ Other than this situation, we would only ever delete an account due to @sec-cond
 
 Administrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators. 
 
-In line with good security principles we strongly suggest using two factor authentication for the Slack group and note that you will need this for each Slack workspace that you have joined.
+In line with good security principles we strongly suggest using two factor authentication for the Slack group.
+
+::: {.callout-note}
+You will need this for each Slack workspace that you have joined.
+:::
 
 ## Weekly office hours
 
@@ -203,3 +210,151 @@ For this reason pdf formats are not necessarily the easiest to share content.
 Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility.
 This includes any pictures used for visual impact and not necessarily to add to the content directly.
 
+# Training
+
+## Posit Cloud
+
+NHS-R Community pay for an account to use workspaces and projects for training/workshops.
+These mean that people can have projects that are set up with all the packages they require, have access to the latest version of R and RStudio and projects can be preloaded with any scripts or data.
+As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to *never use the Cloud for analysis of any sensitive data*.
+
+The Posit Cloud account is monitored and maintained by admins who have access to all projects and individual's projects in the workspaces.
+Admins are:
+
+* [Zoë Turner](mailto:zoe.turner3@nhs.net)
+* [Tom Jemmett](thomas.jemmett@nhs.net)
+* [Chris Beeley](chris.beeley1@nhs.net)
+* [NHSR Administration](nhs.rcommunity@nhs.net)
+
+### Posit Cloud terminology
+
+The *workspace* is the overall work area that is managed by a person for a training session or workshop.
+The *projects* are set up within the workspace and are set to duplicate for individual's to also join the workspace.
+
+::: {.callout-note}
+Administrators for workspaces can see everyone's project and can enter them if required.
+
+Only one person at a time can be in a project.
+:::
+
+## Deletion of Posit workspaces and projects
+
+To ensure that the Cloud is manageable and being used appropriately, projects can be moved by their creator to their own personal workspace.
+
+### Actively used workspaces
+
+Projects in active workspaces, like the Introduction to R and R Studio workshop, will be archived after 3 months which means the project isn't counted in the Cloud usage but is still retrievable.
+
+### One off workspaces
+
+Workspaces for one off events like at conferences will be archived after 3 months and deleted after 6 months.
+
+## Prework for attendees
+
+### Equipment - screens
+
+Many of the course and workshop formats expect a "code along" approach which is best done with 2 screens for comfort of moving between the demonstration and using RStudio on your computer. 
+
+Where users use two separate computers to enable having 2 screens, this may cause issues with sharing code in the chat functions and it will not be possible to share the coding screen for debugging support. 
+If the person is using a Posit Cloud workspace and the course leader is an administrator then the course leader can access the project to debug.
+
+### Set up Posit Cloud
+
+Sign up for a free Posit Cloud account at https://posit.cloud/ before the workshop. 
+Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.
+
+NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link. 
+
+All the files and necessary packages are pre-loaded to the Cloud work space.
+
+When you first log in with the link shared in the email it will take you to an Posit Cloud screen that says about Joining a space. 
+Click on the blue button for Join Space:
+
+![Screenshot of the work space view in R Studio Cloud](img/rstudio-cloud.PNG)
+
+The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that, in this example, is called `Intro_R_RStudio`. 
+When this is selected the project gets copied so you will see both the original `Intro_R_RStudio` and your own new one called `Untitled`. 
+Although the word `continue` appears next to the original screen you will open your copy.
+
+### Difference between NHS-R workspaces and your own
+
+You will be restricted to a certain [number of hours a month](https://posit.cloud/plans) on the free account which should be enough for the purpose of a day workshop, however, the NHS-R work space doesn't, currently, have that restriction. 
+
+### Taking the scripts to your own workspace
+
+To move the project you've created to your own work space (which is available with the account you set up) select the moving trolley icon:
+
+![Screenshot of the project name and to the right 4 icons, the bin for delete, moving trolley, the down arrow to download and three dots in a circle](img/select-icon-to-move.PNG)
+
+Then select `Your work space`. If you've been invited to any other work space you will also see them in the same Move Content screen:
+
+![Screenshot of the Move Content wizard with 3 options, Your work space and two others from NHS-R](img/move-content-menu.PNG)
+
+It's possible to download your files instead by using the down arrow by the Project.
+
+### Using your own laptop/computer
+
+Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. 
+VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.
+
+If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
+
+It is important to have the latest R installed as older versions of R have had issues when installing {tidyverse} packages. 
+Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from Posit community may help. 
+
+::: {.callout-warning}
+If you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.
+:::
+
+### Installing packages
+
+If a course expects an introductory understanding of R then package requirements to be loaded will be shared.
+Courses like the Introduction to R and RStudio will install packages as part of the course.
+
+### Course materials
+
+Materials produced by and for NHSR Community will be available through [GitHub](https://github.com/nhs-r-community).
+However, some workshops are provided with course material available through Posit Cloud only so contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) to request materials.
+
+### Introduction to R and RStudio course materials
+
+The Introduction to R and RStudio workshop materials can be found in a specific [module](https://github.com/nhs-r-community/intro_r_data).
+Click on the green <kdb>Code</kbd> button
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+  
+The zip includes the data files which will be used in the workshop. 
+
+The following code can be run from the Console in RStudio to download the same files:
+  
+``` r
+install.packages("usethis")
+usethis::use_course("nhs-r-community/intro_r_data")
+```
+#### Downloading slides
+
+If you want to have the slides on your computer, they can be downloaded from the same repository as the `intro-r` files but on a branch called [gh-pages](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
+Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+### Workshop confirmation emails
+
+The NHS-R Community confirmation email will include: 
+
+* the link to the workshop
+* the Posit Cloud specific workspace url and 
+* a calendar invitation
+
+If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+
+### Modern desktop users (NHS England)
+
+Some organisations are using a modern desktop system, please note that project do not appear to work with Projects/`setwd` and files like RMarkdown and Quarto don't appear to work, giving the error:
+
+>Warning message:
+>In options(stringsAsFactors = TRUE) :
+>  'options(stringsAsFactors = TRUE)' is deprecated and will be disabled
+>Error in setwd("C:/R/WorkingDir") : cannot change working directory
+>Execution halted
+
+Currently, the way around this is to create the missing folder "C:/R/WorkingDir" (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts `.rmd` and `.qmd` will work. 
+The other recommendation is currently to work through UDAL if there is access.
