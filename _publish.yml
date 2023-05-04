@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 21cc5dd5-fe98-4cf5-8bb4-58d6ddd35949
+      url: 'https://nhsr-way.netlify.app/'
