@@ -6,7 +6,7 @@ We are called NHS-R Community but our contributors come from Local Authorities, 
 Our goal is to promote R - extended to data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences. 
 
 ::: {.callout-tip title="Where to start?"}
-This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct [TODO] as soon as you can which is linked to the GitHub repository and not in the book itself. 
+This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
 :::
 
 # Our Community {.unnumbered}
