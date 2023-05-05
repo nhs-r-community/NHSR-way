@@ -16,6 +16,11 @@ book:
       NHS-R Community makes all of their materials publicly available under open source licenses
     right: |
       This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-url: https://github.com/nhs-r-community/NHSR-way/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  site-url: https://github.com/nhs-r-community/NHSR-way/
+
 
 bibliography: references.bib
 
