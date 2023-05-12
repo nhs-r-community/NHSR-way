@@ -32,7 +32,7 @@ Write and issue, do a pull request or even [NHS-R Community](mailto:nhs.rcommuni
 
 The NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. 
 There is no restriction to who you work for, what your background is or what skills you have as we are the sum of all our parts and the more diverse and varied we are, the better our work together will be. 
-The NHS-R Community is now hosted by the Strategy Unit, part of NHS Lancashire Midlands and Lancashire Commissioning Support Unit, which includes some administrative support, the hosting of an @nhs.net email and two data scientists roles with NHS-R Community in their job descriptions. 
+The NHS-R Community is now hosted by the Strategy Unit, part of NHS Lancashire Midlands and Lancashire Commissioning Support Unit, which includes some administrative support, the hosting of an nhs.net email and two data scientists roles with NHS-R Community in their job descriptions. 
 Over the years the NHS-R Community has been involved in many activities from blogs to podcasts. 
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience. 
