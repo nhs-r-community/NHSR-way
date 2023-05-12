@@ -65,7 +65,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./references.html" rel="next">
-<link href="./code-of-conduct.html" rel="prev">
+<link href="./style-guides.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -149,6 +149,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./style-guides.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Style Guides</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./community-handbook.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Community Handbook</span></a>
   </div>
@@ -169,17 +175,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#book-style-guide" id="toc-book-style-guide" class="nav-link active" data-scroll-target="#book-style-guide">Book Style Guide</a>
-  <ul class="collapse">
-  <li><a href="#write-each-sentence-in-a-new-line-line-breaks" id="toc-write-each-sentence-in-a-new-line-line-breaks" class="nav-link" data-scroll-target="#write-each-sentence-in-a-new-line-line-breaks">Write each sentence in a new line (line breaks)</a></li>
-  <li><a href="#opinions-are-welcome-but" id="toc-opinions-are-welcome-but" class="nav-link" data-scroll-target="#opinions-are-welcome-but">Opinions are welcome, but …</a></li>
-  <li><a href="#avoid-latin-abbreviation" id="toc-avoid-latin-abbreviation" class="nav-link" data-scroll-target="#avoid-latin-abbreviation">Avoid Latin Abbreviation</a></li>
-  <li><a href="#explain-acronyms" id="toc-explain-acronyms" class="nav-link" data-scroll-target="#explain-acronyms">Explain acronyms</a></li>
-  <li><a href="#use-capitals-wisely" id="toc-use-capitals-wisely" class="nav-link" data-scroll-target="#use-capitals-wisely">Use capitals wisely</a></li>
-  <li><a href="#external-links" id="toc-external-links" class="nav-link" data-scroll-target="#external-links">External links</a></li>
-  <li><a href="#chunks-with-code-or-special-text" id="toc-chunks-with-code-or-special-text" class="nav-link" data-scroll-target="#chunks-with-code-or-special-text">Chunks with code or special text</a></li>
-  </ul></li>
-  <li><a href="#social-media" id="toc-social-media" class="nav-link" data-scroll-target="#social-media">Social Media</a>
+  <li><a href="#social-media" id="toc-social-media" class="nav-link active" data-scroll-target="#social-media">Social Media</a>
   <ul class="collapse">
   <li><a href="#nhs-r-slack" id="toc-nhs-r-slack" class="nav-link" data-scroll-target="#nhs-r-slack">NHS-R Slack</a>
   <ul class="collapse">
@@ -246,77 +242,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<section id="book-style-guide" class="level1 unnumbered">
-<h1 class="unnumbered">Book Style Guide</h1>
-<p>To ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.</p>
-<p>We follow the <a href="https://www.gov.uk/guidance/content-design/writing-for-gov-uk">GOV.UK guidance</a> to improve accessibility of the resources in <em>The Turing Way</em>.</p>
-<section id="write-each-sentence-in-a-new-line-line-breaks" class="level2">
-<h2 class="anchored" data-anchor-id="write-each-sentence-in-a-new-line-line-breaks">Write each sentence in a new line (line breaks)</h2>
-<p>Please write all sentences in the markdown file on separate lines. Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>Today you are you, that is truer than true.</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>There is no one alive who is youer than you.</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Dr Seuss</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-<section id="opinions-are-welcome-but" class="level2">
-<h2 class="anchored" data-anchor-id="opinions-are-welcome-but">Opinions are welcome, but …</h2>
-<p><em>The NHS-R Community Way</em> book is intended to be only <em>lightly</em> opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol <code>&gt;</code>. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; I will not eat them in a house,</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them with a mouse,</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them in a box i will not eat them with a fox,</span></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; i will not eat them here of there i will not eat them anywhere,</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; I do not like green eggs and ham i do not like them sam i am</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-<section id="avoid-latin-abbreviation" class="level2">
-<h2 class="anchored" data-anchor-id="avoid-latin-abbreviation">Avoid Latin Abbreviation</h2>
-<p>Please do not use Latin abbreviations. See the <a href="https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style">Gov.uk recommendations</a> for details.</p>
-<p>Some of these abbreviations are:</p>
-<ul>
-<li>exempli gratia (for example)</li>
-<li>et-cetera (so on) and</li>
-<li>id est (that is)</li>
-</ul>
-<p>These examples are not written out in their shortened form as the book can be set to fail to publish with Latin abbreviations through GitHub to enforce this style.</p>
-<p>Instead of the first abbreviation in the table for <em>exempli gratia</em>, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.</p>
-<p>Instead of the second abbreviation in the table for <em>et-cetera</em> to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.</p>
-<p>Instead of third abbreviation in the table for <em>id est</em> that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.</p>
-</section>
-<section id="explain-acronyms" class="level2">
-<h2 class="anchored" data-anchor-id="explain-acronyms">Explain acronyms</h2>
-<p>The NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like</p>
-<blockquote class="blockquote">
-<p>NHS Midland and Lancashire Commissioning Support Unit</p>
-</blockquote>
-<p>becomes MLCSU.</p>
-<p>Not everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use <code>NHS</code> as we rarely say National Health Service but do consider your audience as not everyone is familiar with it and what it does.</p>
-<p>For technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:</p>
-<blockquote class="blockquote">
-<p>Continuous Integration (CI)</p>
-</blockquote>
-<p>so that whenever CI is referenced later its full form is in the text.</p>
-</section>
-<section id="use-capitals-wisely" class="level2">
-<h2 class="anchored" data-anchor-id="use-capitals-wisely">Use capitals wisely</h2>
-<p>Screen readers will read capitals as if they are acronyms which works for things like NHS and MLCSU. Because a screen reader read each letter, using capitals for emphasis in text like:</p>
-<pre><code>DO NOT do this</code></pre>
-<p>could result in a screen reader spelling out the words do and not by individual letters. It’s also felt to be a bit like shouting in text so consider other ways of emphasis.</p>
-</section>
-<section id="external-links" class="level2">
-<h2 class="anchored" data-anchor-id="external-links">External links</h2>
-<p>Write external links using “http://” instead of “www”. This ensures they are correctly recognised as hyperlinks.</p>
-</section>
-<section id="chunks-with-code-or-special-text" class="level2">
-<h2 class="anchored" data-anchor-id="chunks-with-code-or-special-text">Chunks with code or special text</h2>
-<p>You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (<code>```</code> becomes <code>```R</code>).</p>
-<p>Markdown source:</p>
-<pre><code>    ```R
-    x &lt;- c(1:21)
-    ```</code></pre>
-<p>HTML output:</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>x <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">21</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-</section>
 <section id="social-media" class="level1">
 <h1>Social Media</h1>
 <section id="nhs-r-slack" class="level2">
@@ -515,8 +440,8 @@ Warning
 </div>
 <p>The zip includes the data files which will be used in the workshop.</p>
 <p>The following code can be run from the Console in RStudio to download the same files:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"usethis"</span>)</span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>usethis<span class="sc">::</span><span class="fu">use_course</span>(<span class="st">"nhs-r-community/intro_r_data"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"usethis"</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>usethis<span class="sc">::</span><span class="fu">use_course</span>(<span class="st">"nhs-r-community/intro_r_data"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <section id="downloading-slides" class="level4">
 <h4 class="anchored" data-anchor-id="downloading-slides">Downloading slides</h4>
 <p>If you want to have the slides on your computer, they can be downloaded from the same repository as the <code>intro-r</code> files but on a branch called <a href="https://github.com/nhs-r-community/intro_r/tree/gh-pages">gh-pages</a>. Using the same process as for <code>Downloading files</code> above you can download these to your computer by clicking on the green button and selecting the zip download.</p>
@@ -781,8 +706,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./code-of-conduct.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Code of Conduct</span></span>
+      <a href="./style-guides.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Style Guides</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

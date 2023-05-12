@@ -7,6 +7,7 @@ book:
   chapters:
     - index.qmd
     - code-of-conduct.qmd
+    - style-guides.qmd
     - community-handbook.qmd
     - references.qmd
   page-footer:
