@@ -3,7 +3,7 @@ project:
 book:
   title: "NHSR-way"
   author: "NHS-R Community"
-  date: "2023-04-24"
+  date: last-modified
   chapters:
     - index.qmd
     - code-of-conduct.qmd
