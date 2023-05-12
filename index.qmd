@@ -9,6 +9,10 @@ Our goal is to promote R - extended to data science tools - and to do this in an
 This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
 :::
 
+::: {.callout-tip title="Published in two ways"}
+The NHS-R Way is published on [GitHub](https://nhs-r-community.github.io/NHSR-way/) and on [Netlify](https://nhsr-way.netlify.app/) because some organisations block one or the other through their Virtual Private Networks. 
+:::
+
 # Our Community {.unnumbered}
 
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. 
