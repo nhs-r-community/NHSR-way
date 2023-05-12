@@ -105,60 +105,67 @@
     "text": "4.5 Conflicts of Interest\nIn the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within NHS Midland and Lancashire Commissioning Support Unit."
   },
   {
-    "objectID": "community-handbook.html",
-    "href": "community-handbook.html",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html",
+    "href": "style-guides.html",
+    "title": "Style Guides",
     "section": "",
-    "text": "Book Style Guide\nTo ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.\nWe follow the GOV.UK guidance to improve accessibility of the resources in The Turing Way.\nNHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars. Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.\nIn terms of recording, Zoom and Microsoft Teams Events only record the person speaking and their shared screen. Microsoft Teams which is used by many NHS and Local Authorities for meetings, however, shows the videos and names of attenders which may be an issue for attenders.\nWe host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can’t publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.\nSubmissions for blogs can be in any format but need to be easily copied and pasted to nhs.rcommunity@nhs.net. For this reason pdf formats are not necessarily the easiest to share content.\nPictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility. This includes any pictures used for visual impact and not necessarily to add to the content directly."
+    "text": "Style Guide for text\nTo ensure that text like books, websites and blogs can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style.\nAs recommended in the The Turing Way we follow the GOV.UK guidance to improve accessibility."
   },
   {
-    "objectID": "community-handbook.html#write-each-sentence-in-a-new-line-line-breaks",
-    "href": "community-handbook.html#write-each-sentence-in-a-new-line-line-breaks",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
+    "href": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
+    "title": "Style Guides",
     "section": "Write each sentence in a new line (line breaks)",
     "text": "Write each sentence in a new line (line breaks)\nPlease write all sentences in the markdown file on separate lines. Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.\nToday you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss\nA pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.\nToday you are you, that is truer than true.\nThere is no one alive who is youer than you.\n- Dr Seuss"
   },
   {
-    "objectID": "community-handbook.html#opinions-are-welcome-but",
-    "href": "community-handbook.html#opinions-are-welcome-but",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#opinions-are-welcome-but",
+    "href": "style-guides.html#opinions-are-welcome-but",
+    "title": "Style Guides",
     "section": "Opinions are welcome, but …",
-    "text": "Opinions are welcome, but …\nThe NHS-R Community Way book is intended to be only lightly opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol &gt;. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.\n&gt; I will not eat them in a house,\n&gt; i will not eat them with a mouse,\n&gt; i will not eat them in a box i will not eat them with a fox,\n&gt; i will not eat them here of there i will not eat them anywhere,\n&gt; I do not like green eggs and ham i do not like them sam i am"
+    "text": "Opinions are welcome, but …\nThe NHS-R Community Way book is intended to be only lightly opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol &gt;. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.\n&gt; I will not eat them in a house,\n&gt; i will not eat them with a mouse,\n&gt; i will not eat them in a box i will not eat them with a fox,\n&gt; i will not eat them here of there i will not eat them anywhere,\n&gt; I do not like green eggs and ham i do not like them sam i am\nQuarto also allows for call out boxes for further and specific emphasis including notes, warnings, important, tips and caution."
   },
   {
-    "objectID": "community-handbook.html#avoid-latin-abbreviation",
-    "href": "community-handbook.html#avoid-latin-abbreviation",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#avoid-latin-abbreviation",
+    "href": "style-guides.html#avoid-latin-abbreviation",
+    "title": "Style Guides",
     "section": "Avoid Latin Abbreviation",
     "text": "Avoid Latin Abbreviation\nPlease do not use Latin abbreviations. See the Gov.uk recommendations for details.\nSome of these abbreviations are:\n\nexempli gratia (for example)\net-cetera (so on) and\nid est (that is)\n\nThese examples are not written out in their shortened form as the book can be set to fail to publish with Latin abbreviations through GitHub to enforce this style.\nInstead of the first abbreviation in the table for exempli gratia, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.\nInstead of the second abbreviation in the table for et-cetera to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.\nInstead of third abbreviation in the table for id est that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’."
   },
   {
-    "objectID": "community-handbook.html#explain-acronyms",
-    "href": "community-handbook.html#explain-acronyms",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#explain-acronyms",
+    "href": "style-guides.html#explain-acronyms",
+    "title": "Style Guides",
     "section": "Explain acronyms",
-    "text": "Explain acronyms\nThe NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like\n\nNHS Midland and Lancashire Commissioning Support Unit\n\nbecomes MLCSU.\nNot everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use NHS as we rarely say National Health Service but do consider your audience as not everyone is familiar with it and what it does.\nFor technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:\n\nContinuous Integration (CI)\n\nso that whenever CI is referenced later its full form is in the text."
+    "text": "Explain acronyms\nThe NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like\n\nNHS Midland and Lancashire Commissioning Support Unit\n\nbecomes MLCSU.\nNot everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use NHS as we rarely say National Health Service but do consider your audience as not everyone is familiar with the NHS and what it does (and doesn’t do).\nFor technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:\n\nContinuous Integration (CI)\n\nso that whenever CI is referenced later its full form is in the text."
   },
   {
-    "objectID": "community-handbook.html#use-capitals-wisely",
-    "href": "community-handbook.html#use-capitals-wisely",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#use-capitals-wisely",
+    "href": "style-guides.html#use-capitals-wisely",
+    "title": "Style Guides",
     "section": "Use capitals wisely",
     "text": "Use capitals wisely\nScreen readers will read capitals as if they are acronyms which works for things like NHS and MLCSU. Because a screen reader read each letter, using capitals for emphasis in text like:\nDO NOT do this\ncould result in a screen reader spelling out the words do and not by individual letters. It’s also felt to be a bit like shouting in text so consider other ways of emphasis."
   },
   {
-    "objectID": "community-handbook.html#external-links",
-    "href": "community-handbook.html#external-links",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#external-links",
+    "href": "style-guides.html#external-links",
+    "title": "Style Guides",
     "section": "External links",
     "text": "External links\nWrite external links using “http://” instead of “www”. This ensures they are correctly recognised as hyperlinks."
   },
   {
-    "objectID": "community-handbook.html#chunks-with-code-or-special-text",
-    "href": "community-handbook.html#chunks-with-code-or-special-text",
-    "title": "Community Handbook",
+    "objectID": "style-guides.html#chunks-with-code-or-special-text",
+    "href": "style-guides.html#chunks-with-code-or-special-text",
+    "title": "Style Guides",
     "section": "Chunks with code or special text",
     "text": "Chunks with code or special text\nYou can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (``` becomes ```R).\nMarkdown source:\n    ```R\n    x &lt;- c(1:21)\n    ```\nHTML output:\nx &lt;- c(1:21)"
+  },
+  {
+    "objectID": "community-handbook.html",
+    "href": "community-handbook.html",
+    "title": "Community Handbook",
+    "section": "",
+    "text": "Social Media\nNHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars. Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.\nIn terms of recording, Zoom and Microsoft Teams Events only record the person speaking and their shared screen. Microsoft Teams which is used by many NHS and Local Authorities for meetings, however, shows the videos and names of attenders which may be an issue for attenders.\nWe host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can’t publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.\nSubmissions for blogs can be in any format but need to be easily copied and pasted to nhs.rcommunity@nhs.net. For this reason pdf formats are not necessarily the easiest to share content.\nPictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility. This includes any pictures used for visual impact and not necessarily to add to the content directly."
   },
   {
     "objectID": "community-handbook.html#nhs-r-slack",
