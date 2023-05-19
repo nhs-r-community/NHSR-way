@@ -114,3 +114,29 @@ HTML output:
 ```R
 x <- c(1:21)
 ```
+
+# Style Guide for code
+
+## Licences/licenses
+
+Further information on the types of licences and how to get the text required for projects can be found on the [Statement on Tools book](https://nhs-r-community.github.io/statements-on-tools/open-code-in-the-nhs.html#licenceslicenses) 
+
+## Language
+
+Following the [GDS Way](https://gds-way.cloudapps.digital/manuals/licensing.html#language) the NHS-R Community Way will:
+
+>When using a proper name, use the appropriate spelling for that thing (e.g. the MIT License.)
+
+and:
+
+> Each repository should include a licence file. This should be called LICENCE or LICENCE.md.
+
+## Licences to use
+
+NHS-R Community repositories are licenced under [MIT](https://pitt.libguides.com/openlicensing/MIT#:~:text=Like%20the%20Apache%202.0%2C%20and,sell%20copies%20of%20the%20software.) for code based projects like Shiny apps and packages:
+
+>the MIT License is a permissive software license that places few restrictions of reuse. Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.
+
+and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for text based projects like training and books (like this):
+
+>allows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share.
