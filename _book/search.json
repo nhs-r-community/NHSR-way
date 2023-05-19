@@ -161,6 +161,27 @@
     "text": "Chunks with code or special text\nYou can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (``` becomes ```R).\nMarkdown source:\n    ```R\n    x &lt;- c(1:21)\n    ```\nHTML output:\nx &lt;- c(1:21)"
   },
   {
+    "objectID": "style-guides.html#licenceslicenses",
+    "href": "style-guides.html#licenceslicenses",
+    "title": "Style Guides",
+    "section": "Licences/licenses",
+    "text": "Licences/licenses\nFurther information on the types of licences and how to get the text required for projects can be found on the Statement on Tools book"
+  },
+  {
+    "objectID": "style-guides.html#language",
+    "href": "style-guides.html#language",
+    "title": "Style Guides",
+    "section": "Language",
+    "text": "Language\nFollowing the GDS Way the NHS-R Community Way will:\n\nWhen using a proper name, use the appropriate spelling for that thing (e.g. the MIT License.)\n\nand:\n\nEach repository should include a licence file. This should be called LICENCE or LICENCE.md."
+  },
+  {
+    "objectID": "style-guides.html#licences-to-use",
+    "href": "style-guides.html#licences-to-use",
+    "title": "Style Guides",
+    "section": "Licences to use",
+    "text": "Licences to use\nNHS-R Community repositories are licenced under MIT for code based projects like Shiny apps and packages:\n\nthe MIT License is a permissive software license that places few restrictions of reuse. Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.\n\nand CC0 for text based projects like training and books (like this):\n\nallows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share."
+  },
+  {
     "objectID": "community-handbook.html",
     "href": "community-handbook.html",
     "title": "Community Handbook",
