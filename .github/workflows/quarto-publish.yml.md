@@ -24,11 +24,11 @@ jobs:
       # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
       # the appropriate block below
       
-      # - name: Publish to Netlify (and render)
-      #   uses: quarto-dev/quarto-actions/publish@v2
-      #   with:
-      #     target: netlify
-      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+  - name: Publish to Netlify (and render)
+      uses: quarto-dev/quarto-actions/publish@v2
+       with:
+       target: netlify
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         
       # - name: Publish to RStudio Connect (and render)
       #   uses: quarto-dev/quarto-actions/publish@v2
