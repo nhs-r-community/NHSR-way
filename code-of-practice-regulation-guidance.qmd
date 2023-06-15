@@ -1,0 +1,58 @@
+# Codes of Practice, regulation, and guidance
+
+## General
+
+[Code of conduct for data-driven health and care technology](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology) (2018) - The code of conduct contains a set of principles that set out what we expect from suppliers and users of data-driven technologies.
+
+[Data saves lives](https://www.gov.uk/government/publications/data-saves-lives-reshaping-health-and-social-care-with-data-draft/data-saves-lives-reshaping-health-and-social-care-with-data-draft)
+
+[NHS digital, data and technology standards framework](https://digital.nhs.uk/about-nhs-digital/our-work/nhs-digital-data-and-technology-standards/framework#the-nhs-digital-data-and-technology-standards) (2018) - This framework outlines the key standards for clinical safety, the use of data, interoperability and design interactions.
+
+## Analysis and evidence
+
+[Government Analysis Functional Standard](https://www.gov.uk/government/publications/government-analysis-functional-standard--2) - “The purpose of the Government Analysis Functional Standard is to set expectations for the planning and undertaking of analysis across government”
+
+[Guidance - PHE Data and Analysis Tools A-Z](https://www.gov.uk/government/publications/phe-data-and-analysis-tools-a-to-z/phe-data-and-analysis-tools-a-to-z) - Data and analysis tools from across Public Health England (previously known as the 'Data and knowledge gateway').
+
+[NICE Evidence Standards Framework for Digital Health Technologies (2019)](https://www.nice.org.uk/Media/Default/About/what-we-do/our-programmes/evidence-standards-framework/digital-evidence-standards-framework.pdf) - The framework describes standards for the evidence that should be available, or developed, for DHTs to demonstrate their value in the UK health and care system. Intended for use by technology developers to inform their evidence development plans, and by decision makers who are considering whether to commission a DHT.
+
+Office for Statistics Regulation: [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/)
+
+[The UK Government's National Data Strategy](https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy)- ”This document is a framework for the action this government will take on data. It is not the final answer, but part of a conversation about the way that we support the use of data in the UK. We lay out the opportunities that we want to realise, the pillars that we have identified as core to unlocking the power of data for the UK, and the missions that we must prioritise now.”
+
+[The future of healthcare: our vision for digital, data and technology in health and care (2018) - ](https://www.gov.uk/government/publications/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care) This document sets out the government’s vision for the use of technology, digital and data within health and care, to meet the needs of all our users.
+
+[The Topol Review: An independent report on behalf of the Secretary of State for Health and Social Care ](https://topol.hee.nhs.uk/wp-content/uploads/HEE-Topol-Review-2019.pdf)(2019) - The Review makes recommendations that will enable NHS staff to make the most of innovative technologies such as genomics, digital medicine, artificial intelligence and robotics. Clear argument made that there is a need to develop a continuous pipeline of robotics engineers, data scientists and other technical specialists, who can then be attracted into the NHS to create the new technological solutions that will improve care and productivity.
+
+## Open and collaboration
+
+[Draft NHSX guidance on open code](https://github.com/nhsx/open-source-policy)
+
+[Health foundations blog on open analytics](https://towardsdatascience.com/towards-open-health-analytics-our-guide-to-sharing-code-safely-on-github-5d1e018897cb)
+
+## Data
+
+[Code of Practice on Confidential Information](http://static.ukcgc.uk/docs/code.pdf) (2014) - Good practice guidance for organisations collecting, analysing, publishing or otherwise disseminating confidential information concerning, or connected with, the provision of health services or adult social care in England.
+
+[Confidentiality: NHS Code of Practice](https://www.gov.uk/government/publications/confidentiality-nhs-code-of-practice) (2003) - Sets out standards required for NHS organisations concerning patient confidentiality.
+
+[Data Protection Act (2018)](http://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) - The Act makes provision about the processing of personal data
+
+[Data Sharing Code of Practice](https://ico.org.uk/media/for-organisations/documents/1068/data_sharing_code_of_practice.pdf) - Note, this is in the process of being updated in light of the Data Protection Act (2018).  This code explains how the Data Protection Act 1998 (DPA) applies to the sharing of personal data. It also provides good practice advice that will be relevant to all organisations that share personal data.
+
+[EU General Data Protection Regulation (GDPR) ](https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en)(2016) - GDPR regulates the processing by an individual, a company or an organisation of personal data relating to individuals in the EU.
+
+[General Practice Extraction Service (GPES) Data for pandemic planning and research: a guide for analysts and users of the data](https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning-and-research/guide-for-analysts-and-users-of-the-data) -  This guidance provides an overview of the dataset for analysts and other users of the General Practice Extraction Service (GPES) Data for Pandemic Planning and Research (GDPPR) that will provide information for coronavirus (COVID-19) planning and research.
+
+[HSCIC Guide to Confidentiality (2013)](http://static.ukcgc.uk/docs/HSCIC-guide-to-confidentiality.pdf) - Shows how health and care workers what they should do and why, to share information safely while following rules on confidentiality.
+
+[NHS information governance: legal and professional obligations (2007)](https://www.gov.uk/government/publications/nhs-information-governance-legal-and-professional-obligations) - Sets out legal responsibilities for the management of information in NHS organisations.
+
+[Information Security Management: NHS Code of Practice (2007)](https://www.gov.uk/government/publications/information-security-management-nhs-code-of-practice) - Sets out standards for the management of information in NHS organisations.
+
+[The Health Service (Control of Patient Information) Regulations 2002](http://www.legislation.gov.uk/uksi/2002/1438/contents/made) - These Regulations make provision for the processing of patient information, including confidential patient information.
+
+[Records Management Code of Practice for Health and Social Care 2016](https://digital.nhs.uk/binaries/content/assets/legacy/pdf/n/b/records-management-cop-hsc-2016.pdf) - Sets out what people working with or in NHS organisations in England need to do to manage records correctly. It's based on current legal requirements and professional best practice and was published on 20 July 2016 by the Information Governance Alliance (IGA).
+
+[The Health Service (Control of Patient Information) Regulations 2002](https://www.legislation.gov.uk/uksi/2002/1438/contents/made) - To note that The Secretary of State for Health and Social Care has issued a Notice under Regulation 3(4) of the National Health Service (Control of Patient Information Regulations) 2002 (COPI) to require relevant organisations to share confidential patient information with organisations entitled to process this under COPI for COVID-19 purposes.
+

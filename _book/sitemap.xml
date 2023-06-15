@@ -2,22 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/nhs-r-community/NHSR-way/index.html</loc>
-    <lastmod>2023-05-25T14:02:14.645Z</lastmod>
+    <lastmod>2023-06-15T10:37:02.966Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/nhs-r-community/NHSR-way/code-of-conduct.html</loc>
-    <lastmod>2023-05-25T14:02:14.647Z</lastmod>
+    <loc>https://github.com/nhs-r-community/NHSR-way/forum-groups.html</loc>
+    <lastmod>2023-06-15T10:34:25.196Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/nhs-r-community/NHSR-way/style-guides.html</loc>
-    <lastmod>2023-05-25T14:02:14.655Z</lastmod>
+    <loc>https://github.com/nhs-r-community/NHSR-way/accessibility.html</loc>
+    <lastmod>2023-06-15T10:34:25.202Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/nhs-r-community/NHSR-way/community-handbook.html</loc>
-    <lastmod>2023-05-25T14:02:14.659Z</lastmod>
+    <loc>https://github.com/nhs-r-community/NHSR-way/ethics.html</loc>
+    <lastmod>2023-06-15T10:34:25.208Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/nhs-r-community/NHSR-way/references.html</loc>
-    <lastmod>2023-05-25T14:02:14.667Z</lastmod>
+    <loc>https://github.com/nhs-r-community/NHSR-way/reproducible-analytical-pipelines.html</loc>
+    <lastmod>2023-06-15T10:34:25.215Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/tools.html</loc>
+    <lastmod>2023-06-15T10:34:25.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/training.html</loc>
+    <lastmod>2023-06-15T10:34:25.230Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/code-of-practice-regulation-guidance.html</loc>
+    <lastmod>2023-06-15T10:34:25.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/profession.html</loc>
+    <lastmod>2023-06-15T10:34:25.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/knowledge-resource.html</loc>
+    <lastmod>2023-06-15T10:34:25.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/projects.html</loc>
+    <lastmod>2023-06-15T10:34:25.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/covid-resources.html</loc>
+    <lastmod>2023-06-15T10:34:25.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nhs-r-community/NHSR-way/data-collection.html</loc>
+    <lastmod>2023-06-15T10:34:25.276Z</lastmod>
   </url>
 </urlset>

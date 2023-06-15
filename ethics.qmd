@@ -1,0 +1,10 @@
+# Ethics resources 
+
+[Government Digital Service - Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020) - “The Data Ethics Framework guides appropriate and responsible data use in government and the wider public sector. It helps public servants understand ethical considerations, address these within their projects, and encourages responsible innovation.”
+
+
+## Groups
+
+[Data Ethics Club](https://dataethicsclub.com/) and very open [GitHub](https://github.com/very-good-science/data-ethics-club) - is a fortnightly discussion group/"journal" club about doing data science ethically. "Journal" because we will also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all and is held virtually.
+
+UK Government Data Science [Data Ethics and Society Reading Group]( https://ukgovdatascience.github.io/data-ethics-and-society-reading-group/) - open to Government including NHS employees

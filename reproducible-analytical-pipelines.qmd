@@ -1,0 +1,11 @@
+# Reproducible Analytical Pipelines - RAP {#RAP}
+
+[Government Statistical Service](https://gss.civilservice.gov.uk/reproducible-analytical-pipelines/) is a comprehensive website detailing what RAP is, how it's good practice and links to other resources.
+
+[A technical communication document](https://github.com/ukgovdatascience/rap_companion) written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.
+
+NHS Digital [Community of Practice](https://github.com/NHSDigital/rap-community-of-practice) includes all analysts and data scientists who are interested in adopting the working practices included in reproducible analytical pipelines (RAP) at NHS Digital.
+
+### Python
+
+NHS Digital [Python RAP Package Template](https://github.com/NHSDigital/rap-package-template)

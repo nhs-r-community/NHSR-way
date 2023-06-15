@@ -1,0 +1,96 @@
+# Projects and organisations
+
+## UK {#UKProjects}
+
+* [Government Analysis Function](https://www.gov.uk/government/organisations/government-analysis-function) - “The Government Analysis Function is a cross-government network of around 17,000 people involved in the generation and dissemination of analysis.”
+
+* [HDRUK](https://www.hdruk.ac.uk/) - Health Data Research UK work with organisations that hold and manage datasets and support connections between these datasets to support access for research and innovation. See [funding](#funding) of degrees.
+
+* [Health Foundation (Improvement Analytics Unit)](https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit) - An innovative partnership between NHS England and NHS Improvement and the Health Foundation providing robust evaluation of complex changes in the NHS.
+
+* [Improvement Analytics Unit Statistical Analysis Protocols ](https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols)- A statistical analysis protocol (SAP) is a document intended to guide analytical processes. It includes the proposed evaluation design, statistical methods, and the limitations of the analysis, including how these should be considered when interpreting the results.
+
+* [My NHS (Open Data Beta)](https://opendata.nhs.uk/home) - Created to help developers, commissioners and the public get data in formats that are free and easy to re-use for their projects and products.
+
+* [NHS Digital](https://digital.nhs.uk/data-and-information) - NHS Digital has responsibility for standardising, collecting and publishing data and information from across the health and social care system in England. Has over 1,000 datasets. 
+
+* [NHSX](https://www.nhsx.nhs.uk/) - NHSX brings teams from the Department of Health and Social Care, NHS England and NHS Improvement together into one unit to drive digital transformation and lead policy, implementation and change in England.
+
+* [Open Prescribing](https://openprescribing.net/) -  OpenPrescribing is one of a range of projects built by the EBM DataLab at the University of Oxford, to help make complex medical and scientific data more accessible and more impactful in the real world. It provides a search interface onto the raw prescribing data files published by NHS BSA.
+
+* [Technology Reference Data Update Distribution (TRUD)](https://isd.digital.nhs.uk/trud3/user/guest/group/0/home) - A website hosted by NHS Digital. It provides a mechanism for NHS Digital to license and distribute reference data to interested parties. This is the preferred terminology distribution method of NHS Digital.
+
+* [UK Data Service (Health and Health Behaviour)](https://www.ukdataservice.ac.uk/get-data/themes/health/key-data.aspx) - Funded by the Economic and Social Research Council (ESRC) to meet the data needs of researchers, students and teachers from all sectors, including academia, central and local government, charities and foundations, independent research centres, think tanks, and business consultants and the commercial sector.
+
+* [Office for Statistics Regulation](https://osr.statisticsauthority.gov.uk/) - The Office for Statistics Regulation vision is simple: Statistics should serve the public good. “As regulators, it is our role to support confidence in statistics by addressing harms and making sure that statistics serve the public good.”
+
+
+## South West UK
+
+* [One Care](https://onecare.org.uk/) is a GP-led organisation that represents and supports practices in Bristol, North Somerset and South Gloucestershire (BNSSG). It is a Community Interest Company that provides accurate data and business intelligence to support population health management, patient risk management, and continuity of care. 
+* The Clinical Commissioning Group and wider Sustainability and Transformation Partnership (STP) is undertaking work on how advanced analytics and AI can support the local health service; and is developing local population health analytics function with development of a BNSSG population dataset. 
+* Patient and public 'digital critical friends’. These are members of the public who have participated in training developed by People in Health West of England (PHWE) and Bristol Health Partners, on digital health and the uses of data. The aim of this work is to create a group of public contributors who can meaningfully contribute to discussions about digital health and data use.
+* An emerging local ‘Citizen Panel’, [Healthier Together STP](https://bnssghealthiertogether.org.uk/), is engaging 1,000 people from across Bristol, North Somerset and South Gloucestershire to participate in patient and public involvement for commissioning decisions. Bristol Health Partners are working with People in Health West of England to pilot Digital Health training for Patient and Public representatives to gain insight into technology, data and specifically AI in health and care. 
+* As part of the ‘Using Data Better’ strategic programme, the Bristol Health Partners have developed the [Local Digital Health Research and Development Group](http://www.bristolhealthpartners.org.uk/about-us/local-digital-health-research-development-group/) (since 2016). Work includes the development of an [inventory of health-related data sources](http://www.bristolhealthpartners.org.uk/latest-news/2017/06/08/using-data-to-improve-health-care-and-services-through-research/883) in the region - supported by the [Elizabeth Blackwell Institute](http://www.bristol.ac.uk/blackwell/) at the University of Bristol 
+* Staff from the local Clinical Commissioning Group and Sustainability and Transformation Partnership Business intelligence services are developing an intelligence network; 
+* The local Clinical Commissioning Group has created one of the only CCG data modelling teams in the country; 
+* The [West of England Local Enterprise Partnershi](http://westofenglandlep.co.uk/)p (LEP) are reviewing the local digital health industry landscape and the [West of England Academic Health Science Network](https://www.weahsn.net/) provide advice and support on how to best evaluate digital healthcare innovations and how to bring them into practice; 
+* Bristol, North Somerset and South Gloucestershire benefits from the pioneering [Connecting Care Programme](https://bnssgccg.nhs.uk/about-us/how-we-use-your-information/connecting-care/) - sharing local health records; 
+* The University of Bristol is home to the data focused [Jean Golding Institute](http://www.bristol.ac.uk/golding/), and the [Intelligent Systems Lab](https://intelligentsystems.bristol.ac.uk/). Bristol University has partnered with the Alan Turing Institute. The University of West of England hosts the [Artificial Intelligence Group](https://www1.uwe.ac.uk/newsandevents/expertsdirectory/artificialintelligence.aspx) with high profile national and international projects; and, 
+* A range of other research activities are being conducted under the auspices of [National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West (NIHR CLAHRC West)](https://clahrc-west.nihr.ac.uk/). For example, their study on the[ impact of digital tools in primary care](http://www.bristol.ac.uk/primaryhealthcare/news/2018/impact-of-digital-health-tools-in-primary-care.html). 
+* [The West of England Academic Health Science Network](https://www.weahsn.net/our-work/connecting-data/) are joining up the health services across the West of England through the[ Connecting Data for Patient Benefit ](https://www.weahsn.net/our-work/connecting-data/case-study-connecting-data-for-patient-benefit/)programme. This is helping to make sure that health and community care professionals are fully informed, productivity and efficiency is maximised, patients’ safety is optimised and the best possible care is provided to our service users.
+
+## International
+
+* [IEEE](https://www.ieee.org/) - The world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Also a standard setting body in areas like mobile health technologies. 
+* [Global Health Data Exchange](http://ghdx.healthdata.org/) - A catalog of global health and demographic data. The goal to help people locate data by cataloging information about data including the topics covered, by providing links to data providers or explaining how to acquire the data, and in cases where we have permission, providing the data directly for download. 
+
+
+# Featured projects
+
+* [OpenSAFELY](https://opensafely.org/) - a secure analytics platform for electronic health records in the NHS, created to deliver urgent results during the global COVID-19 emergency. It is now successfully delivering analyses across more than 24 million patients’ full pseudonymised primary care NHS records, with more to follow shortly. All our analytic software is open for security review, scientific review, and re-use. 
+The Platform's [GitHub repository](https://github.com/opensafely-core) is different to the OpenSafely studies [GitHub repository](https://github.com/opensafely)
+
+* [Care and Health Information Exchange](https://careandhealthinformationexchange.org.uk/) - The Care and Health Information Exchange (CHIE) is a secure system which shares health and social care information from GP surgeries, hospitals, community and mental health, social services and others. CHIE helps professionals across Hampshire, the Isle of Wight and surrounding areas provide safer and faster treatment.
+* [Kent Integrated Dataset ](https://www.kpho.org.uk/__data/assets/pdf_file/0004/74146/Kent-Integrated-Dataset-August-2017.pdf) - The Kent Integrated Dataset (KID) is a relatively mature exemplar of a population-level linked dataset. It comprises of routine administrative datasets from more than 200 local health and care organisations. The KID includes data from April 2014 and is updated on a monthly basis.
+* [Sail Databank](https://saildatabank.com/) - Allows for the sourcing, accessing, linking and analysing health and population data all within a governed infrastructure that is safe and secure. Researchers can access a broad range of routinely collected data spanning up to 20 years from an entire population. It  provides linkable, anonymised datasets ready for analysis that can be accessed remotely via the SAIL Gateway platform, complete with analysis tools.
+* [Understanding patient data](http://understandingpatientdata.org.uk/) - Understanding Patient Data supports better conversations about the uses of health information. Our aim is to explain how and why data can be used for care and research, what’s allowed and what’s not, and how personal information is kept safe. We work with patients, charities and healthcare professionals to champion responsible uses of data.
+* [Bristol, N Somerset and S Gloucestershire CCG Analytics](https://www.health.org.uk/improvement-projects/developing-a-versatile-tool-for-modelling-pathway-capacity-in-nhs-organisations): [PathSimR](https://www.health.org.uk/improvement-projects/developing-a-versatile-tool-for-modelling-pathway-capacity-in-nhs-organisations)
+
+    This project aimed to improve understanding of how care pathways are performing and enable ‘what if’ analysis to identify more effective and efficient service configurations.
+
+
+    A versatile pathway tool was developed allows NHS analysts and managers to understand and model patient flow. PathSimR has supported many projects & business cases within the CCG & further afield. As well as improving the evidence base for decision making, the tool opened the eyes of clinicians & managers to the benefits of advanced analytics.
+
+* Find the tool on GitHub [here](https://github.com/nhs-bnssg-analytics/PathSimR) and a Q&A with Dr Rich Wood about the tool [here](https://twitter.com/EllenCoughlan/status/1357648497223294976).
+
+    This project was funded by the Health Foundation, an independent charity, as part of its programme, Advancing Applied Analytics
+
+* [Cardiff and Vale University Health Board: Harnessing data analytics to maximise NHS learning from patient safety incident reports](https://www.health.org.uk/funding-and-partnerships/programmes/harnessing-data-analytics-to-maximise-nhs-learning-from-pati)
+
+    This project aimed to realise the synergy between data analysts, managers and clinicians for identifying and acting on learning from patient safety data.
+
+
+    Analytical strategies in the child health directorate were developed and tested to inform the design of quality improvement projects led by paediatric trainees. The team developed a ‘how to’ guide, summarising the concepts, challenges and resources required to introduce the new analytical approach – allowing other organisations to adopt the approach, if successful.
+
+* The following modules are available for further reading:
+    * [Module 1 - Using patient safety data to inform the planning of a QI project](https://www.icloud.com/iclouddrive/0W70p6V8hxW1yTwNjEoy7Qy0w#e-learning_-_Module_1_-_Using_patient_safety_data_to_inform_the_planning_of_a_QI_project)
+    * [Module 2 - Incident data analysis](https://www.icloud.com/iclouddrive/0_BzyszY5RFFcUpCp0jZJ0Zhg#e-learning_-_Module_2_-_Incident_data_analysis_v3)
+    * [Module 3 - Further analysis and other data sources](https://www.icloud.com/iclouddrive/08-zx3qTlRS3kSgbzTsv0pGdg#e-learning_-_Module_3_-_Further_analysis_and_other_data_sources_v3)
+    * [Module 4 - Permission to improve](https://www.icloud.com/iclouddrive/0dV6blmLjke69jx5Li5spz4Fw#e-learning_-_Module_4_-_Permission_to_improve_v3)
+
+    This project was funded by the Health Foundation, an independent charity, as part of its programme, Advancing Applied Analytics
+
+* [North East Quality Observatory Services: Can interactive data visualisation help clinicians improve patient care?](https://www.health.org.uk/improvement-projects/can-interactive-data-visualisation-help-clinicians-improve-patient-care)
+
+    This project aimed to improve the way in which interactive data visualisation is used by clinicians so that it can lead to improvements in quality of care. It is not always clear how useful data visualisation tools are to clinicians or whether they can in fact lead to actionable outcomes. This project by NEQOS explored clinician requirements for engaging with these tools and explored whether more bespoke DV or other data interfaces may be more in line with clinician requirements. A literature review was conducted and an options appraisal undertaken before producing four interactive data visualisation dashboards: hip, knee, maternity and mortality monitoring. These were produced following extensive interaction with clinicians to establish their requirements as the end users.
+
+* NEQOS have shared all outputs and made them available [here ](https://www.neqos.nhs.uk/article_page/health-foundation-advancing-applied-analytics-project/)including a webinar, slideset and standard operating procedures. These design principles for data visualisation in a healthcare setting were also described in a publication [here](https://towardsdatascience.com/design-principles-for-data-visualisation-in-a-healthcare-setting-ef9bf2954a58).
+
+    This project was funded by the Health Foundation, an independent charity, as part of its programme, Advancing Applied Analytics
+
+* [Health and Social Care N Ireland & Business Services Organisation: Pathways to cancer diagnosis: Monitoring variation in the patient journey across Northern Ireland](https://www.health.org.uk/improvement-projects/pathways-to-cancer-diagnosis-monitoring-variation-in-the-patient-journey-across)
+
+    This project was run by the Business Services Organisation Information Unit, with analytical support from Queen’s University Belfast. It aimed to improve understanding of the variation in routes-to-diagnosis (for example screen-detected, GP referral, emergency presentation) of cancer in Northern Ireland, in order to increase earlier diagnoses and treatment effectiveness. It produced estimates for routes-to-diagnosis at different health geographies down to GP practice level, and created an online tool for health service practitioners, informing national cancer strategy. 
+
+* The report can be found [here](http://www.hscbusiness.hscni.net/services/3102.htm) and the interactive tool can be found [here](http://www.hscbusiness.hscni.net/pdf/Pathways%20to%20a%20cancer%20diagnosis%202012_2016%20interactive%20tool.zip).

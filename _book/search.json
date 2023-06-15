@@ -2,239 +2,253 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NHSR-way",
+    "title": "Open Analytics Resources",
     "section": "",
-    "text": "Welcome\nWelcome to the NHS-R Community Way book to the NHS-R Community based on The Turing Way guides and Community Handbook. Like The Turing Way, this is an open source, open collaboration, and community-driven project. We are called NHS-R Community but our contributors come from Local Authorities, Civil Service, Public Sector, Academia, Voluntary Sector, Charities and as individuals with no organisational connection. Our goal is to promote R - extended to data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences.\n\n\n\n\n\n\nWhere to start?\n\n\n\nThis book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first.\n\n\n\n\n\n\n\n\nPublished in two ways\n\n\n\nThe NHS-R Way is published on GitHub and on Netlify because some organisations block one or the other through their Virtual Private Networks.\n\n\n\n\nOur Community\nThe NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R.\nDocumentation is important in coding to show methodology as well as intention so the NHS-R Community Way, inspired from The Turing Way, is our attempt to write about the Community.\nThe NHS-R Community Way reflects our:\n\nvalues\nactivities\nabove all the community\n\nEverything here is available for free under a CC-BY licence. Please use and re-use whatever you need, for any purpose and all the book is collaboratively written and open from the start. To make this book and the community truly accessible to everyone, we invite you to contribute your skills and bring your perspectives into this project. Write and issue, do a pull request or even NHS-R Community.\nThe NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. There is no restriction to who you work for, what your background is or what skills you have as we are the sum of all our parts and the more diverse and varied we are, the better our work together will be. The NHS-R Community is now hosted by the Strategy Unit, part of NHS Lancashire Midlands and Lancashire Commissioning Support Unit, which includes some administrative support, the hosting of an nhs.net email and two data scientists roles with NHS-R Community in their job descriptions. Over the years the NHS-R Community has been involved in many activities from blogs to podcasts.\nWe value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience. Accordingly, everyone who participates in the NHS-R Way project is expected to show respect and courtesy to other community members at all times. All contributions must abide by our code of conduct.\n\n\nHistory\nThis book is based on The Turing Way book which was started as a technical guide. Like the NHS-R Community projects we also have a need to pull together information on how to contribute to the projects but not all our projects are technical. As a community we have developed many channels of collaboration and communication through blogs, social media, podcasts and videos. This content needs a central point to promote it but also a way to explain how to get involved and contribute at whatever stage in your data science journey - hence the NHS-R Community way.\n\n\nCiting the NHS-R Community Way\nAll material produced and shared by the NHS-R Community is available under open licences for reuse and this book is available under a CC-BY 4.0 licence. We ask that you also read and, maybe, also refer to The Turing Way project in your work as it was immensely helpful in getting this project set up and is a great resource worthy of continued citation."
+    "text": "1 Open Analytics Resources for Health and Care\nOriginally a Google document is supported by the Association of Professional Healthcare Analysts (ApHA), This Equals and Keyah Consulting, in collaboration with the Health Foundation, released under a CC-BY-SA licence. Attributions to ApHA 2020. This document is still active.\nThis document is a resource for analysts and data scientists working in the health and care sectors primarily, but not exclusively, in the UK."
   },
   {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "1  Code of Conduct",
+    "objectID": "index.html#technical-notes",
+    "href": "index.html#technical-notes",
+    "title": "Open Analytics Resources",
+    "section": "1.1 Technical notes",
+    "text": "1.1 Technical notes\nThis {bookdown} is available for review, curation, comment and update from anyone who wishes to do a pull request or an issue. Using GitHub means this is version controlled, is backed up and is available to everyone.\nTranslation from the Google document was via a copy to a personal account and the use of the Google Add-On for turning docs to markdown."
+  },
+  {
+    "objectID": "forum-groups.html#slack",
+    "href": "forum-groups.html#slack",
+    "title": "2  Groups",
+    "section": "2.1 Slack",
+    "text": "2.1 Slack\nGovernment Data Science - requires a recognised email address and not every NHS/Local Authority is listed. However, nhs.net is acceptable.\nNHS-R Community - predominantly R related but many channels like Git, Python and Ethics. Membership is open for anyone interested in health and social care."
+  },
+  {
+    "objectID": "forum-groups.html#platforms",
+    "href": "forum-groups.html#platforms",
+    "title": "2  Groups",
+    "section": "2.2 Platforms",
+    "text": "2.2 Platforms\nFutureNHS - The FutureNHS Collaboration Platform is the only virtual collaboration platform from the NHS that supports people working in health and social care to make change, improve and transform across organisations, places and professions."
+  },
+  {
+    "objectID": "forum-groups.html#community-groups",
+    "href": "forum-groups.html#community-groups",
+    "title": "2  Groups",
+    "section": "2.3 Community groups",
+    "text": "2.3 Community groups\n\n2.3.1 NHS and Public Sector groups\nNHS-R Community - The NHS-R community aims to support the learning, application and exploitation of R in the NHS through workshops, video tutorials and providing a platform for discussion and sharing of developing best practice solutions to NHS problems.\nNHS Pycom - is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.\n\n\n2.3.2 Global community groups\nR-girls a worldwide network to promote the use of R - a leading data science programming language - in secondary schools for girls.\nMiR is a Slack-based community started in March 2020 to support the professional development and well-being of historically underrepresented minorities that use R.\nR Ladies Global is an organization that promotes gender diversity in the community of users of the R statistical programming language."
+  },
+  {
+    "objectID": "forum-groups.html#south-west-local",
+    "href": "forum-groups.html#south-west-local",
+    "title": "2  Groups",
+    "section": "2.4 South West Local",
+    "text": "2.4 South West Local\nBristol Data Scientists Meetup - The aim of this meetup is to promote discussion, learning and interaction around Data Science in the South West. This is a group for statisticians, mathematicians, programmers, data scientists, data alchemists and anyone interested in using data for analytics. Aim to run meetings on a quarterly basis\nBristol Project Data Analytics Meetup - Meetup to share best practise on leveraging data within a project, programme and portfolio environment. This meetup will explore some of the challenges at the intersection of data analysis and project, programme and portfolio management and discuss how practitioners are working to resolve them,\nSouthwest Data Meetup - The Bristol-based holistic data group that is all things to do with managing, handling, analysing and delivering data in the mild mild South West.\nElizabeth Blackwell Institute Health Data Science Research Strand - A University of Bristol group of academics with an interest in making better use of routinely collected data.\nLocal Digital Health Research and Development Group - Bristol Health Partners convenes a Local Digital Health Research and Development Group, bringing together academics, NHS organisations and local authorities in Bristol, North Somerset and South Gloucestershire (BNSSG)."
+  },
+  {
+    "objectID": "forum-groups.html#midlands",
+    "href": "forum-groups.html#midlands",
+    "title": "2  Groups",
+    "section": "2.5 Midlands",
+    "text": "2.5 Midlands\nThe Strategy Unit - The Strategy Unit is a specialist NHS team, based in Midlands and Lancashire Commissioning Support Unit. They provide high-quality, multi-disciplinary analytical work as well as host the Midlands Analyst Network which is a fornightly virtual MS Teams meeting which is open to Network members.\nBirmingham R User Group Meetup\nNottinghamR R Users Group Meetup\nWomen in Tech Nottingham and Tech Nottingham - monthly meetups open to everyone."
+  },
+  {
+    "objectID": "accessibility.html#spreadsheets",
+    "href": "accessibility.html#spreadsheets",
+    "title": "3  Accessibility",
+    "section": "3.1 Spreadsheets",
+    "text": "3.1 Spreadsheets\nMaking spreadsheets accessible a checklist of the basics which is also talked about in this YouTube video.\nReleasing statistics in spreadsheets best practice from Government Statistical Service."
+  },
+  {
+    "objectID": "accessibility.html#data-visualisations",
+    "href": "accessibility.html#data-visualisations",
+    "title": "3  Accessibility",
+    "section": "3.2 Data Visualisations",
+    "text": "3.2 Data Visualisations\nRStudio webinar on Data Visualisation Accessibility on YouTube."
+  },
+  {
+    "objectID": "ethics.html#groups",
+    "href": "ethics.html#groups",
+    "title": "4  Ethics resources",
+    "section": "4.1 Groups",
+    "text": "4.1 Groups\nData Ethics Club and very open GitHub - is a fortnightly discussion group/“journal” club about doing data science ethically. “Journal” because we will also read blog posts, (parts of) books, or watch videos. The organisers are based in Bristol, but the club is open to all and is held virtually.\nUK Government Data Science Data Ethics and Society Reading Group - open to Government including NHS employees"
+  },
+  {
+    "objectID": "reproducible-analytical-pipelines.html",
+    "href": "reproducible-analytical-pipelines.html",
+    "title": "5  Reproducible Analytical Pipelines - RAP",
     "section": "",
-    "text": "2 Introduction\nThe NHS-R Community Way is a community-oriented and -led project, although supported through the NHS it is not exclusively open to just NHS employees and, as such, we have members from other public sector organisations, academia, charities, the voluntary sector as well as individuals who have an interest in healthcare data and data science. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.\nTo make clear what is expected, everyone participating in activities associated with the NHS-R Community and the NHS-R Community Way project is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in-person meetings, conferences, workshops, and communications online via GitHub and the NHS-R Community Slack.\nPresentation slides and posters should not contain material that does not follow this Code of Conduct, for example, anything offensive or sexualised. If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted in the abstract and, in the case of oral contributions, at the start of the talk or session. If the slides are shared or hosted by NHS-R Community, these should also contain a covering slide and details in the README to highlight the inclusion of this content.\nThe NHS-R Community has a core development team which consists of:\nThe central email nhs.rcommunity@nhs.net is accessed by Chris Beeley, Zoë Turner and administrative/support staff in the Strategy Unit.\nBoth Chris Beeley and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Strategy Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within the Strategy Unit in the same organisation through strategy.unit@nhs.net which neither have access to.\nThe NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, class or experience level.\nEveryone who participates in the NHS-R Community activities is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in person focus groups and workshops, and communications online via GitHub and the NHS-R Slack group. By participating, contributors indicate their acceptance of the procedures by which the NHS-R Community resolves any Code of Conduct incidents, which may include storage and processing of their personal information as well as sharing of that information with organisations.\nThis enforcement manual is used when we respond to an issue to make sure we’re consistent and fair. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.\nThe majority of this Code of Conduct code is adapted from The Turing Way Code of Conduct under the creative commons attribution license.\nSome parts have been added from the Code of Conduct that was originally list on the NHS-R Community website and had acknowledgements: SRCCON This code of conduct was based on that developed for useR! 2018 which was a revision of the code of conduct used at previous useR!s and also drew from rOpenSci’s code of conduct.. Exact text added can be found related to issue 11 on the GitHub.\nWe really appreciate the work that all of the communities that helped build The Turing Way, with credit particularly to Kirstie Whitaker. The Turing Way acknowledged many communities in their work and we also extend our appreciation to those groups and individuals (listed below). The ease of producing this comprehensive Code of Conduct is because of the acknowledged work being published under the Creative Commons Attribution 4.0 International (CC BY 4.0 CA). This too is released under the same licence which means you are free to share and adapt the work so long as the attribution to and the NHS-R Community is retained, along with the attribution to The Turing Way, the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources."
+    "text": "Government Statistical Service is a comprehensive website detailing what RAP is, how it’s good practice and links to other resources.\nA technical communication document written using bookdown intended to give assistance to people developing a Reproducible Analytical Pipeline.\nNHS Digital Community of Practice includes all analysts and data scientists who are interested in adopting the working practices included in reproducible analytical pipelines (RAP) at NHS Digital.\n\n5.0.1 Python\nNHS Digital Python RAP Package Template"
   },
   {
-    "objectID": "code-of-conduct.html#expected-behaviour",
-    "href": "code-of-conduct.html#expected-behaviour",
-    "title": "1  Code of Conduct",
-    "section": "2.1 Expected Behaviour",
-    "text": "2.1 Expected Behaviour\nWe are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications. The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:\n\nBe respectful of different viewpoints and experiences. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.\nUse welcoming and inclusive language. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.\nDo not harass people. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.\nRespect the privacy and safety of others. Do not take photographs or screen shares of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent (“doxing”) is a form of harassment.\nBe considerate of others’ participation. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.\nDon’t be a bystander. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.\nAs an overriding general rule, please be intentional in your actions and humble in your mistakes.\n\nAll interactions should be professional regardless of platform: either online or in-person. See this explanation of the four social rules - no feigning surprise, no well-actuallys, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours."
+    "objectID": "tools.html#software",
+    "href": "tools.html#software",
+    "title": "6  Tools and Resources",
+    "section": "6.1 Software",
+    "text": "6.1 Software\n\nJupyter notebooks: Supporting open-source software, open-standards, and services for interactive computing across dozens of programming languages. See also: Jupyter Cheat Sheet\nGithub / GitLab: GitHub is a development platform where you can host and review code, manage projects, and build software alongside 36 million developers. GitLab is a complete DevOps platform, delivered as a single application. From project planning and source code management to CI/CD, monitoring, and security. See also: GIT Cheat Sheet\n\nNHS Connect\nNHSEI Analytics\nNHS-R Community\nNHSX\nSHERE HyperStream\nIBM Streams Health\nJupyter Server\n\nCloud: To use Cloud storage to share data.\nR and Python cheat sheets\nTriangular Irregular Networks (TIN): These digital data structures are used in a variety of applications including Geographic Information Systems.\nQGIS: A Free and Open Source Geographic Information System\nShiny by RStudio: Shiny is an open source R package that provides a web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.\nVisualisation type guides -Financial times guide"
   },
   {
-    "objectID": "code-of-conduct.html#unacceptable-behaviour",
-    "href": "code-of-conduct.html#unacceptable-behaviour",
-    "title": "1  Code of Conduct",
-    "section": "2.2 Unacceptable Behaviour",
-    "text": "2.2 Unacceptable Behaviour\nExamples of unacceptable behaviour by the NHS-R community members at any project event or platform include:\n\nwritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group\ncausing someone to fear for their safety, such as through stalking, following, or intimidation\nviolent threats or language directed against another person\nthe display of sexual or violent images\nunwelcome sexual attention\nnonconsensual or unwelcome physical contact\nsustained disruption of talks, events or communications\ninsults or put downs\nsexist, racist, homophobic, transphobic, ableist, or exclusionary jokes\nexcessive swearing\nincitement to violence, suicide, or self-harm\ncontinuing to initiate interaction (including photography or recording) with someone after being asked to stop\npublication of private communication without consent"
+    "objectID": "tools.html#data",
+    "href": "tools.html#data",
+    "title": "6  Tools and Resources",
+    "section": "6.2 Data",
+    "text": "6.2 Data\n\nData Access Request Service"
   },
   {
-    "objectID": "code-of-conduct.html#consequences-of-unacceptable-behaviour",
-    "href": "code-of-conduct.html#consequences-of-unacceptable-behaviour",
-    "title": "1  Code of Conduct",
-    "section": "2.3 Consequences of Unacceptable Behaviour",
-    "text": "2.3 Consequences of Unacceptable Behaviour\nParticipants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to all NHS-R Community events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund if a cost has been incurred), or impose any other appropriate sanctions (see the enforcement manual for details).\nIt may be that behaviour deemed unacceptable within the NHS-R Community does not necessarily correspond to regulations or policies from hosting organisations to an event or to the organisation (where applicable) that a person is representing. Under these circumstances we expect that any missing behaviours from either organisation or group are respected but that the NHS-R Community Code of Conduct is adhered to and amended to include any missing behaviours as soon as possible."
+    "objectID": "training.html#public-sector-resources",
+    "href": "training.html#public-sector-resources",
+    "title": "7  Training and development opportunities",
+    "section": "7.1 Public Sector Resources",
+    "text": "7.1 Public Sector Resources\n\n7.1.1 NHS-R Community\nNHS-R Community - record all webinars and have conference talks and workshops from 2020 onwards found through the website which links to YouTube. Introduction to R and R Studio training is being provided by volunteers each month with more training always encouraged and listed on the website.\n\n\n7.1.2 Government\n\nUK GOV- Government Analysis Function - Learning Curriculum - “Whether you’re an experienced government analyst looking to refresh or develop your skills, or brand new to your role, a member of one (or more) of the analytical professions or not, the AF Learning Curriculum has something for everyone.”\nGovernment Statistical Service online training open to Government (check but expect this includes NHS employees).\nAlso see online Reproducible Analytical Training from NHS Digital for Git and Python languages but also includes training on publishing code in the open."
   },
   {
-    "objectID": "code-of-conduct.html#feedback",
-    "href": "code-of-conduct.html#feedback",
-    "title": "1  Code of Conduct",
-    "section": "2.4 Feedback",
-    "text": "2.4 Feedback\nThis Code of Conduct is not intended as a static set of rules by which everyone must abide. Rather, you are invited to make suggestions for updates or clarifications by contacting Zoë Turner at zoe.turner3@nhs.net or by making a pull request to this document on GitHub."
+    "objectID": "training.html#mooc-massive-open-online-course",
+    "href": "training.html#mooc-massive-open-online-course",
+    "title": "7  Training and development opportunities",
+    "section": "7.2 MOOC (Massive Open Online Course",
+    "text": "7.2 MOOC (Massive Open Online Course\n) ### Future Learn * Data Science for Healthcare: Using Real World Evidence * Health data analytics * Quality Improvement in Healthcare: the Case for Change"
   },
   {
-    "objectID": "code-of-conduct.html#contact-points",
-    "href": "code-of-conduct.html#contact-points",
-    "title": "1  Code of Conduct",
-    "section": "3.1 Contact points",
-    "text": "3.1 Contact points\nIf you feel able to, please contact Zoë Turner by email at zoe.turner3@nhs.net."
+    "objectID": "training.html#university",
+    "href": "training.html#university",
+    "title": "7  Training and development opportunities",
+    "section": "7.3 University",
+    "text": "7.3 University\n\n7.3.1 University of Bristol\n\nData Linkage\nImproving your Stata: data management, publication-quality outputs, and automating tasks\nIntroduction to R\nIntroduction to Stat\n\n\n\n7.3.2 University of West of England\n\nBig Data\nIntroduction to R\nIntroduction to SPSS\nLinked, Open data\nMachine Learning and Predictive Analytics"
   },
   {
-    "objectID": "code-of-conduct.html#alternate-contact-points",
-    "href": "code-of-conduct.html#alternate-contact-points",
-    "title": "1  Code of Conduct",
-    "section": "3.2 Alternate contact points",
-    "text": "3.2 Alternate contact points\nIf you do not feel comfortable contacting Zoë Turner, please report an incident to Chris Beeley by email at chris.beeley1@nhs.net.\nIf you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within the Strategy Unit (NHS Midlands and Lancashire Commissioning Strategy Unit) through strategy.unit@nhs.net which neither have access to."
+    "objectID": "training.html#funding",
+    "href": "training.html#funding",
+    "title": "7  Training and development opportunities",
+    "section": "7.4 Funding",
+    "text": "7.4 Funding\nHDRUK fund Masters Courses at particular Universities."
   },
   {
-    "objectID": "code-of-conduct.html#what-to-do-if-someone-is-in-physical-danger",
-    "href": "code-of-conduct.html#what-to-do-if-someone-is-in-physical-danger",
-    "title": "1  Code of Conduct",
-    "section": "3.3 What to do if someone is in physical danger",
-    "text": "3.3 What to do if someone is in physical danger\nIf you believe someone is in physical danger, please contact the appropriate emergency responders."
+    "objectID": "training.html#training-apprenticeship-schemes",
+    "href": "training.html#training-apprenticeship-schemes",
+    "title": "7  Training and development opportunities",
+    "section": "7.5 Training / Apprenticeship Schemes",
+    "text": "7.5 Training / Apprenticeship Schemes\n\nNHS Graduate Management Training Scheme: Health Analysis\nApprenticeships: Level 4 Data Analyst\nApprenticeships: Level 6 (Integrated degree) Data Scientist"
   },
   {
-    "objectID": "code-of-conduct.html#code-of-conduct-enforcement",
-    "href": "code-of-conduct.html#code-of-conduct-enforcement",
-    "title": "1  Code of Conduct",
-    "section": "3.4 Code of Conduct Enforcement",
-    "text": "3.4 Code of Conduct Enforcement\nA detailed enforcement policy is available in the Enforcement Manual below."
+    "objectID": "training.html#specific-software",
+    "href": "training.html#specific-software",
+    "title": "7  Training and development opportunities",
+    "section": "7.6 Specific software",
+    "text": "7.6 Specific software\n\n7.6.1 SQL\nFree SQL training can be found on MOOCs and a particularly good one that has been split into smaller “mini-courses” is by Stanford University via the Edx platform.\n\n\n7.6.2 Git\nFreeGit course on the FutureLearn MOOC platform"
   },
   {
-    "objectID": "code-of-conduct.html#the-code-of-conduct-committee",
-    "href": "code-of-conduct.html#the-code-of-conduct-committee",
-    "title": "1  Code of Conduct",
-    "section": "4.1 The Code of Conduct Committee",
-    "text": "4.1 The Code of Conduct Committee\nThe Code of Conduct committee is:\n\nChris Beeley: chris.beeley1@nhs.net\nZoë Turner: zoe.turner3@nhs.net\n\nWe will always seek to build a larger committee including members outside of the core development team."
+    "objectID": "code-of-practice-regulation-guidance.html#general",
+    "href": "code-of-practice-regulation-guidance.html#general",
+    "title": "8  Codes of Practice, regulation, and guidance",
+    "section": "8.1 General",
+    "text": "8.1 General\nCode of conduct for data-driven health and care technology (2018) - The code of conduct contains a set of principles that set out what we expect from suppliers and users of data-driven technologies.\nData saves lives\nNHS digital, data and technology standards framework (2018) - This framework outlines the key standards for clinical safety, the use of data, interoperability and design interactions."
   },
   {
-    "objectID": "code-of-conduct.html#urgent-situations-acting-unilaterally",
-    "href": "code-of-conduct.html#urgent-situations-acting-unilaterally",
-    "title": "1  Code of Conduct",
-    "section": "4.2 Urgent Situations: Acting Unilaterally",
-    "text": "4.2 Urgent Situations: Acting Unilaterally\nIf the incident involves physical danger, or involves a threat to anyone’s safety (e.g. threats of violence), any member of the community may – and should – act unilaterally to protect the safety of any community member. This can include contacting law enforcement (or other local personnel) and speaking on behalf of the NHS-R Community.\nIf the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.\nIn situations where an individual community member acts unilaterally, they must inform nhs.rcommunity@nhs.net as a central point of contact as soon as possible, and report their actions for review within 24 hours.\nIt is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Strategy Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with nhs.rcommunity@nhs.net."
+    "objectID": "code-of-practice-regulation-guidance.html#analysis-and-evidence",
+    "href": "code-of-practice-regulation-guidance.html#analysis-and-evidence",
+    "title": "8  Codes of Practice, regulation, and guidance",
+    "section": "8.2 Analysis and evidence",
+    "text": "8.2 Analysis and evidence\nGovernment Analysis Functional Standard - “The purpose of the Government Analysis Functional Standard is to set expectations for the planning and undertaking of analysis across government”\nGuidance - PHE Data and Analysis Tools A-Z - Data and analysis tools from across Public Health England (previously known as the ‘Data and knowledge gateway’).\nNICE Evidence Standards Framework for Digital Health Technologies (2019) - The framework describes standards for the evidence that should be available, or developed, for DHTs to demonstrate their value in the UK health and care system. Intended for use by technology developers to inform their evidence development plans, and by decision makers who are considering whether to commission a DHT.\nOffice for Statistics Regulation: Code of Practice for Statistics\nThe UK Government’s National Data Strategy- ”This document is a framework for the action this government will take on data. It is not the final answer, but part of a conversation about the way that we support the use of data in the UK. We lay out the opportunities that we want to realise, the pillars that we have identified as core to unlocking the power of data for the UK, and the missions that we must prioritise now.”\nThe future of healthcare: our vision for digital, data and technology in health and care (2018) - This document sets out the government’s vision for the use of technology, digital and data within health and care, to meet the needs of all our users.\nThe Topol Review: An independent report on behalf of the Secretary of State for Health and Social Care(2019) - The Review makes recommendations that will enable NHS staff to make the most of innovative technologies such as genomics, digital medicine, artificial intelligence and robotics. Clear argument made that there is a need to develop a continuous pipeline of robotics engineers, data scientists and other technical specialists, who can then be attracted into the NHS to create the new technological solutions that will improve care and productivity."
   },
   {
-    "objectID": "code-of-conduct.html#less-urgent-situations",
-    "href": "code-of-conduct.html#less-urgent-situations",
-    "title": "1  Code of Conduct",
-    "section": "4.3 Less-Urgent Situations",
-    "text": "4.3 Less-Urgent Situations\nUpon receiving a report of an incident, the Code of Conduct committee will review the incident and determine, to the best of their ability:\n\nwhether this is an ongoing situation\nwhether there is a threat to anyone’s physical safety\nwhat happened\nwhether this event constitutes a Code of Conduct violation\nwho, if anyone, was the bad actor\nwhat action, if any, needs to be taken with organisations\n\nThis information will be collected either in person or in writing. The Code of Conduct committee will provide a written summary of the information surrounding the incident. All participants will be anonymised in the summary report, referred to as “Community Member 1”, “Community Member 2”, or “Research Team Member 1”. The “de-anonymising key” will be kept in a separate file and only accessed to link repeated reports against the same person over time.\nThe Code of Conduct committee will aim to have a resolution agreed upon within 5 working days. In the event that a resolution can’t be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution."
+    "objectID": "code-of-practice-regulation-guidance.html#open-and-collaboration",
+    "href": "code-of-practice-regulation-guidance.html#open-and-collaboration",
+    "title": "8  Codes of Practice, regulation, and guidance",
+    "section": "8.3 Open and collaboration",
+    "text": "8.3 Open and collaboration\nDraft NHSX guidance on open code\nHealth foundations blog on open analytics"
   },
   {
-    "objectID": "code-of-conduct.html#resolutions",
-    "href": "code-of-conduct.html#resolutions",
-    "title": "1  Code of Conduct",
-    "section": "4.4 Resolutions",
-    "text": "4.4 Resolutions\nThe Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question. If the committee cannot reach consensus and deadlocks for over a week, Zoë Turner, as lead investigator of the NHS-R Community Way project, will break the tie. If Zoë Turner is unable to take part in the discussion due to a conflict of interest, Chris Beeley, as a second member of the Code of Conduct committee, will make the decision.\nPossible responses may include:\n\nA mediated conversation or agreement between the impacted community members.\nA request for a verbal or written apology, public or private, from a community member.\nA public announcement clarifying community responsibilities under the Code of Conduct.\nNothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.\nA private in-person conversation between a member of the team and the individual(s) involved. In this case, the person who has the conversation will provide a written summary for record keeping.\nA private written reprimand from a member of the research team to the individual(s) involved. In this case, the research team member will deliver that reprimand to the individual(s) over email, cc’ing nhs.rcommunity@nhs.net for record keeping.\nA public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.). The committee may choose to publish this message elsewhere for posterity.\nAn imposed “time out” from online spaces. Zoë Turner and Chris Beeley will communicate this “time out” to the individual(s) involved.\nA permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events etc). The research team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained. If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.\n\nOnce a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution. The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record. However, the Code of Conduct committee is not required to act on this feedback."
+    "objectID": "code-of-practice-regulation-guidance.html#data",
+    "href": "code-of-practice-regulation-guidance.html#data",
+    "title": "8  Codes of Practice, regulation, and guidance",
+    "section": "8.4 Data",
+    "text": "8.4 Data\nCode of Practice on Confidential Information (2014) - Good practice guidance for organisations collecting, analysing, publishing or otherwise disseminating confidential information concerning, or connected with, the provision of health services or adult social care in England.\nConfidentiality: NHS Code of Practice (2003) - Sets out standards required for NHS organisations concerning patient confidentiality.\nData Protection Act (2018) - The Act makes provision about the processing of personal data\nData Sharing Code of Practice - Note, this is in the process of being updated in light of the Data Protection Act (2018). This code explains how the Data Protection Act 1998 (DPA) applies to the sharing of personal data. It also provides good practice advice that will be relevant to all organisations that share personal data.\nEU General Data Protection Regulation (GDPR)(2016) - GDPR regulates the processing by an individual, a company or an organisation of personal data relating to individuals in the EU.\nGeneral Practice Extraction Service (GPES) Data for pandemic planning and research: a guide for analysts and users of the data - This guidance provides an overview of the dataset for analysts and other users of the General Practice Extraction Service (GPES) Data for Pandemic Planning and Research (GDPPR) that will provide information for coronavirus (COVID-19) planning and research.\nHSCIC Guide to Confidentiality (2013) - Shows how health and care workers what they should do and why, to share information safely while following rules on confidentiality.\nNHS information governance: legal and professional obligations (2007) - Sets out legal responsibilities for the management of information in NHS organisations.\nInformation Security Management: NHS Code of Practice (2007) - Sets out standards for the management of information in NHS organisations.\nThe Health Service (Control of Patient Information) Regulations 2002 - These Regulations make provision for the processing of patient information, including confidential patient information.\nRecords Management Code of Practice for Health and Social Care 2016 - Sets out what people working with or in NHS organisations in England need to do to manage records correctly. It’s based on current legal requirements and professional best practice and was published on 20 July 2016 by the Information Governance Alliance (IGA).\nThe Health Service (Control of Patient Information) Regulations 2002 - To note that The Secretary of State for Health and Social Care has issued a Notice under Regulation 3(4) of the National Health Service (Control of Patient Information Regulations) 2002 (COPI) to require relevant organisations to share confidential patient information with organisations entitled to process this under COPI for COVID-19 purposes."
   },
   {
-    "objectID": "code-of-conduct.html#conflicts-of-interest",
-    "href": "code-of-conduct.html#conflicts-of-interest",
-    "title": "1  Code of Conduct",
-    "section": "4.5 Conflicts of Interest",
-    "text": "4.5 Conflicts of Interest\nIn the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within NHS Midland and Lancashire Commissioning Support Unit."
+    "objectID": "profession.html#job-profiles",
+    "href": "profession.html#job-profiles",
+    "title": "9  Professional links",
+    "section": "9.1 Job profiles",
+    "text": "9.1 Job profiles\nThe NHS National Job profiles have a particular section for information analysts which many analysts jobs are based on to be assessed through AfC (Agenda for Change)."
   },
   {
-    "objectID": "style-guides.html",
-    "href": "style-guides.html",
-    "title": "Style Guides",
+    "objectID": "profession.html#professional-bodies",
+    "href": "profession.html#professional-bodies",
+    "title": "9  Professional links",
+    "section": "9.2 Professional bodies",
+    "text": "9.2 Professional bodies\n\nAssociation of Professional Healthcare Analysts (AphA) - Aims to raise the profile of healthcare analysts and provide a professional support network. Membership organisation.\nRoyal Statistical Society - The Data Science Section is a newly formed section of the Royal Statistical Society that was established in 2017. The Section includes representatives from business, industry, government and academia and was formed to address emerging topics that will impact the long term success of data science as a profession.\nOpen Data Leaders Network - The Open Data Institute (ODI) has developed the Open Data Leaders Network – a global peer network of public sector open data leaders at different levels (city, regional and national) – to promote peer-learning and knowledge exchange.\nBCS - The Chartered Institute of IT - Champions the interests of IT professionals through sharing expertise, providing CPD and qualifications, and setting industry standards. BCS does not specialise in supporting those working in health and social care, however the range of IT professionals and service areas it supports is wide; from technical and systems development, to information sharing and data analysis.\nInstitute of Health Records and Information Management (IHRIM) - Provides members with information on legislation, best practice and current affairs for people working in health records, clinical coding or information governance. IHRIM also offers qualifications for health records and health information professionals."
+  },
+  {
+    "objectID": "knowledge-resource.html#bringing-nhs-data-analysis-into-the-21st-century",
+    "href": "knowledge-resource.html#bringing-nhs-data-analysis-into-the-21st-century",
+    "title": "10  Knowledge resources",
+    "section": "10.1 Bringing NHS data analysis into the 21st century",
+    "text": "10.1 Bringing NHS data analysis into the 21st century\nBen Goldacre, Martin Bardsley, Tim Benson, Kate Cheema, Roger Chinn, Ellen Coughlan, Sarah Dougan, Marc Farr, Loraine Hawkins, Adrian Jonas, Andy Kinnear, Morag Mcinnes, Mohammed Amin Mohammed, Caroline Morton, Rahul Pasumarthy, Neil Pettinger, Ben Rowland, Neil Sebire, Paul Stroner, Jeni Tennison, Samantha Warnakula, Oliver Watson, Emma Wright, Hamish Young, Jessica Morley\n\n&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. (Back to top)(Next alert)&gt;&gt;&gt;&gt;&gt; \n\n [2021] Journal of the Royal Society of Medicine. Avaialble at https://journals.sagepub.com/doi/full/10.1177/0141076820930666 [Accessed 20 March 2021]\nInformation Commissioner’s Office. (2020). Guidance on the AI auditing framework - Draft guidance for consultation. Available at: https://ico.org.uk/media/about-the-ico/consultations/2617219/guidance-on-the-ai-auditing-framework-draft-for-consultation.pdf [Accessed: 27 April 2020]\nKhamassi A. (2014). _Building An Analytical Roadmap : A Real Life Example. _WIPRO. Available at: https://www.sas.com/content/dam/SAS/en_my/doc/other2/building-analytical-roadmap.pdf [Accessed: 3 July 2019]\nMunir K, de Ramón-Fernández A, Iqbal, S, & Javaid, N. (2019). Neuroscience patient identification using big data and fuzzy logic–An Alzheimer’s disease case study. Expert Systems with Applications, 136, 410-425. Available at: https://doi.org/10.1016/j.eswa.2019.06.049 [Accessed 27 April 2020]\nNoveck BS. 8 Feb. 2017. ‘Another NHS crisis looms – an inability to analyse data.’ The Guardian. Available at: https://www.theguardian.com/science/political-science/2017/feb/08/another-nhs-crisis-looms-an-inability-to-analyse-data [Accessed: 26 June 2019]\nNoveck BS, Verhulst S, Young A, Hermosilla M, Dinesh A, McMurran, J. (2017). _Smarter State: Boosting analytical capacity in the NHS. _GovLab (with support from NHS England). Available at: https://www.thegovlab.org/static/files/publications/nhs-health-report.pdf [Accessed: 27 June 2019]\nOffice for Statistics Regulation (2021) Statistical leadership: Making Analytical Insight Count Available at Statistical leadership: Making analytical insight count – Office for Statistics Regulation (statisticsauthority.gov.uk) [Accessed 20 March 2021]\nRoyal Society. (2019). _Dynamics of Data Science Skills: How can all sectors benefit from data science talent? _Available at: https://royalsociety.org/-/media/policy/projects/dynamics-of-data-science/dynamics-of-data-science-skills-report.pdf [Accessed: 1 July 2018]\n\nSee also - Dynamics of data science skills: What data professionals say about data science – career stories\nSee also - Dynamics of Data Science: Models and mechanisms\n\nSollazzo G, Miller D. (2017). Open data in the health sector - Users, stories, products and recommendations. Open Health Care UK. Available at: https://openhealthcare.org.uk/open-data-in-the-health-sector/ [Accessed: 28 June 2019]\nScott PJ, Dunscombe R, Evans D, Mukherjee M, Wyatt J. (2018). ‘Learning health systems need to bridge the ‘two cultures’ of clinical informatics and data science.’ Journal of Innovation in Health Informatics. 25(2):126–131. Available at: https://researchportal.port.ac.uk/portal/files/10925808/Learning_health_systems_need.pdf [Accessed: 26 June 2019]\nTaysom S. (2018). ‘Event write-up - AI in Health and Care: how do we get it right?’ Available at:\nhttp://www.bristolhealthpartners.org.uk/uploads/documents/2018-12-12/1544615586-ai-in-health-and-care-event-write-up-final.pdf [Accessed: 31 July 2019]\nTaysom S, Kellas, J. (2018). ‘AI in Health and Care: how do we get it right?’ Available at: http://www.bristolhealthpartners.org.uk/uploads/documents/2018-11-27/1543315533-ai-in-health-and-care-pre-brief.pdf [Accessed: 31 July 2019]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "11  Projects and organisations",
     "section": "",
-    "text": "Style Guide for text\nTo ensure that text like books, websites and blogs can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style.\nAs recommended in the The Turing Way we follow the GOV.UK guidance to improve accessibility."
+    "text": "12 Featured projects"
   },
   {
-    "objectID": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
-    "href": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
-    "title": "Style Guides",
-    "section": "Write each sentence in a new line (line breaks)",
-    "text": "Write each sentence in a new line (line breaks)\nPlease write all sentences in the markdown file on separate lines. Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.\nToday you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss\nA pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.\nToday you are you, that is truer than true.\nThere is no one alive who is youer than you.\n- Dr Seuss"
+    "objectID": "projects.html#UKProjects",
+    "href": "projects.html#UKProjects",
+    "title": "11  Projects and organisations",
+    "section": "11.1 UK",
+    "text": "11.1 UK\n\nGovernment Analysis Function - “The Government Analysis Function is a cross-government network of around 17,000 people involved in the generation and dissemination of analysis.”\nHDRUK - Health Data Research UK work with organisations that hold and manage datasets and support connections between these datasets to support access for research and innovation. See funding of degrees.\nHealth Foundation (Improvement Analytics Unit) - An innovative partnership between NHS England and NHS Improvement and the Health Foundation providing robust evaluation of complex changes in the NHS.\nImprovement Analytics Unit Statistical Analysis Protocols- A statistical analysis protocol (SAP) is a document intended to guide analytical processes. It includes the proposed evaluation design, statistical methods, and the limitations of the analysis, including how these should be considered when interpreting the results.\nMy NHS (Open Data Beta) - Created to help developers, commissioners and the public get data in formats that are free and easy to re-use for their projects and products.\nNHS Digital - NHS Digital has responsibility for standardising, collecting and publishing data and information from across the health and social care system in England. Has over 1,000 datasets.\nNHSX - NHSX brings teams from the Department of Health and Social Care, NHS England and NHS Improvement together into one unit to drive digital transformation and lead policy, implementation and change in England.\nOpen Prescribing - OpenPrescribing is one of a range of projects built by the EBM DataLab at the University of Oxford, to help make complex medical and scientific data more accessible and more impactful in the real world. It provides a search interface onto the raw prescribing data files published by NHS BSA.\nTechnology Reference Data Update Distribution (TRUD) - A website hosted by NHS Digital. It provides a mechanism for NHS Digital to license and distribute reference data to interested parties. This is the preferred terminology distribution method of NHS Digital.\nUK Data Service (Health and Health Behaviour) - Funded by the Economic and Social Research Council (ESRC) to meet the data needs of researchers, students and teachers from all sectors, including academia, central and local government, charities and foundations, independent research centres, think tanks, and business consultants and the commercial sector.\nOffice for Statistics Regulation - The Office for Statistics Regulation vision is simple: Statistics should serve the public good. “As regulators, it is our role to support confidence in statistics by addressing harms and making sure that statistics serve the public good.”"
   },
   {
-    "objectID": "style-guides.html#opinions-are-welcome-but",
-    "href": "style-guides.html#opinions-are-welcome-but",
-    "title": "Style Guides",
-    "section": "Opinions are welcome, but …",
-    "text": "Opinions are welcome, but …\nThe NHS-R Community Way book is intended to be only lightly opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol &gt;. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.\n&gt; I will not eat them in a house,\n&gt; i will not eat them with a mouse,\n&gt; i will not eat them in a box i will not eat them with a fox,\n&gt; i will not eat them here of there i will not eat them anywhere,\n&gt; I do not like green eggs and ham i do not like them sam i am\nQuarto also allows for call out boxes for further and specific emphasis including notes, warnings, important, tips and caution."
+    "objectID": "projects.html#south-west-uk",
+    "href": "projects.html#south-west-uk",
+    "title": "11  Projects and organisations",
+    "section": "11.2 South West UK",
+    "text": "11.2 South West UK\n\nOne Care is a GP-led organisation that represents and supports practices in Bristol, North Somerset and South Gloucestershire (BNSSG). It is a Community Interest Company that provides accurate data and business intelligence to support population health management, patient risk management, and continuity of care.\nThe Clinical Commissioning Group and wider Sustainability and Transformation Partnership (STP) is undertaking work on how advanced analytics and AI can support the local health service; and is developing local population health analytics function with development of a BNSSG population dataset.\nPatient and public ‘digital critical friends’. These are members of the public who have participated in training developed by People in Health West of England (PHWE) and Bristol Health Partners, on digital health and the uses of data. The aim of this work is to create a group of public contributors who can meaningfully contribute to discussions about digital health and data use.\nAn emerging local ‘Citizen Panel’, Healthier Together STP, is engaging 1,000 people from across Bristol, North Somerset and South Gloucestershire to participate in patient and public involvement for commissioning decisions. Bristol Health Partners are working with People in Health West of England to pilot Digital Health training for Patient and Public representatives to gain insight into technology, data and specifically AI in health and care.\nAs part of the ‘Using Data Better’ strategic programme, the Bristol Health Partners have developed the Local Digital Health Research and Development Group (since 2016). Work includes the development of an inventory of health-related data sources in the region - supported by the Elizabeth Blackwell Institute at the University of Bristol\nStaff from the local Clinical Commissioning Group and Sustainability and Transformation Partnership Business intelligence services are developing an intelligence network;\nThe local Clinical Commissioning Group has created one of the only CCG data modelling teams in the country;\nThe West of England Local Enterprise Partnership (LEP) are reviewing the local digital health industry landscape and the West of England Academic Health Science Network provide advice and support on how to best evaluate digital healthcare innovations and how to bring them into practice;\nBristol, North Somerset and South Gloucestershire benefits from the pioneering Connecting Care Programme - sharing local health records;\nThe University of Bristol is home to the data focused Jean Golding Institute, and the Intelligent Systems Lab. Bristol University has partnered with the Alan Turing Institute. The University of West of England hosts the Artificial Intelligence Group with high profile national and international projects; and,\nA range of other research activities are being conducted under the auspices of National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West (NIHR CLAHRC West). For example, their study on theimpact of digital tools in primary care.\nThe West of England Academic Health Science Network are joining up the health services across the West of England through theConnecting Data for Patient Benefitprogramme. This is helping to make sure that health and community care professionals are fully informed, productivity and efficiency is maximised, patients’ safety is optimised and the best possible care is provided to our service users."
   },
   {
-    "objectID": "style-guides.html#avoid-latin-abbreviation",
-    "href": "style-guides.html#avoid-latin-abbreviation",
-    "title": "Style Guides",
-    "section": "Avoid Latin Abbreviation",
-    "text": "Avoid Latin Abbreviation\nPlease do not use Latin abbreviations. See the Gov.uk recommendations for details.\nSome of these abbreviations are:\n\nexempli gratia (for example)\net-cetera (so on) and\nid est (that is)\n\nThese examples are not written out in their shortened form as the book can be set to fail to publish with Latin abbreviations through GitHub to enforce this style.\nInstead of the first abbreviation in the table for exempli gratia, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.\nInstead of the second abbreviation in the table for et-cetera to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.\nInstead of third abbreviation in the table for id est that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’."
+    "objectID": "projects.html#international",
+    "href": "projects.html#international",
+    "title": "11  Projects and organisations",
+    "section": "11.3 International",
+    "text": "11.3 International\n\nIEEE - The world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Also a standard setting body in areas like mobile health technologies.\nGlobal Health Data Exchange - A catalog of global health and demographic data. The goal to help people locate data by cataloging information about data including the topics covered, by providing links to data providers or explaining how to acquire the data, and in cases where we have permission, providing the data directly for download."
   },
   {
-    "objectID": "style-guides.html#explain-acronyms",
-    "href": "style-guides.html#explain-acronyms",
-    "title": "Style Guides",
-    "section": "Explain acronyms",
-    "text": "Explain acronyms\nThe NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like\n\nNHS Midland and Lancashire Commissioning Support Unit\n\nbecomes MLCSU.\nNot everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use NHS as we rarely say National Health Service but do consider your audience as not everyone is familiar with the NHS and what it does (and doesn’t do).\nFor technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:\n\nContinuous Integration (CI)\n\nso that whenever CI is referenced later its full form is in the text."
+    "objectID": "covid-resources.html#software-algorithms---github",
+    "href": "covid-resources.html#software-algorithms---github",
+    "title": "12  Covid-19 specific resources",
+    "section": "12.1 Software (/algorithms) - Github",
+    "text": "12.1 Software (/algorithms) - Github\n\nBNSSG Analytics - Required Beds Projection\nCovid-19 SAS\nEMB Data Lab\nHealth Foundation Analytics Lab\nHF Analytics Lab - COVID-19 resources - Analytics Communities and Events\nFolding at home\nNHS-R Community - Covid-19\nNHSX Chest Imaging Database\nODI Leeds\nOpenSAFELY\nSD epidemiology models: https://sheetless.io/@kimwarren/the-covid-19-infection-system/app\nhttp://vensim.com/coronavirus/\nSimul8 ICU planner"
   },
   {
-    "objectID": "style-guides.html#use-capitals-wisely",
-    "href": "style-guides.html#use-capitals-wisely",
-    "title": "Style Guides",
-    "section": "Use capitals wisely",
-    "text": "Use capitals wisely\nScreen readers will read capitals as if they are acronyms which works for things like NHS and MLCSU. Because a screen reader read each letter, using capitals for emphasis in text like:\nDO NOT do this\ncould result in a screen reader spelling out the words do and not by individual letters. It’s also felt to be a bit like shouting in text so consider other ways of emphasis."
+    "objectID": "covid-resources.html#data",
+    "href": "covid-resources.html#data",
+    "title": "12  Covid-19 specific resources",
+    "section": "12.2 Data",
+    "text": "12.2 Data\n\nEmergency Care Data Set - ECDS latest update\nGov.UK - Coronavirus (COVID-19) in the UK\nNPC - Interactive COVID-19 Data for Charities and Funders\nPHE - Wider Impacts of COVID-19 on Health (WICH) monitoring tool\nPotential Coronavirus (COVID-19) symptoms reported through NHS Pathways and 111 online\nShielded patients methodology: https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology/annexes (England)\nhttps://nwis.nhs.wales/news/latest-news/identifying-vulnerable-patient-lists/ (Wales)"
   },
   {
-    "objectID": "style-guides.html#external-links",
-    "href": "style-guides.html#external-links",
-    "title": "Style Guides",
-    "section": "External links",
-    "text": "External links\nWrite external links using “http://” instead of “www”. This ensures they are correctly recognised as hyperlinks."
+    "objectID": "covid-resources.html#other",
+    "href": "covid-resources.html#other",
+    "title": "12  Covid-19 specific resources",
+    "section": "12.3 Other",
+    "text": "12.3 Other\n\nHealth Foundation - Covid-19 Policy Tracker: A timeline of national policy and health system responses to COVID-19 in England\nHDRUK Covid-19\n\nSlack Channel Sign ups\n\nHEE Knowledge for Healthcare\nNational Institutes for Health (US) - Open-Access Data and Computational Resources to Address COVID-19\nNHS-R Community - Covid-19 Modelling Webinar\nOpenSAFELY - Secure analytics platform for electronic health records in the NHS, created to deliver urgent results during the global COVID-19 emergency. Analyses across more than 24 million patients’ full pseudonymised primary care NHS records, with more to follow."
   },
   {
-    "objectID": "style-guides.html#chunks-with-code-or-special-text",
-    "href": "style-guides.html#chunks-with-code-or-special-text",
-    "title": "Style Guides",
-    "section": "Chunks with code or special text",
-    "text": "Chunks with code or special text\nYou can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (``` becomes ```R).\nMarkdown source:\n    ```R\n    x &lt;- c(1:21)\n    ```\nHTML output:\nx &lt;- c(1:21)"
+    "objectID": "covid-resources.html#learning-the-lessons",
+    "href": "covid-resources.html#learning-the-lessons",
+    "title": "12  Covid-19 specific resources",
+    "section": "12.4 Learning the Lessons",
+    "text": "12.4 Learning the Lessons\n\nHouse of Commons: Eighth Report - Government transparency and accountability during Covid 19: The data underpinning decisions\nRSS - Statistics, Data and Covid - “Ten statistical lessons the government can learn from the past year “\nKey policy documents"
   },
   {
-    "objectID": "style-guides.html#licenceslicenses",
-    "href": "style-guides.html#licenceslicenses",
-    "title": "Style Guides",
-    "section": "Licences/licenses",
-    "text": "Licences/licenses\nFurther information on the types of licences and how to get the text required for projects can be found on the Statement on Tools book"
+    "objectID": "data-collection.html#gender-and-transgender",
+    "href": "data-collection.html#gender-and-transgender",
+    "title": "13  Data collection resources",
+    "section": "13.1 Gender and Transgender",
+    "text": "13.1 Gender and Transgender\nGuidance on collecting and submitting data for the data items on gender within the Mental Health Services Data Set (MHSDS) is a useful resource for information on these protected characteristics."
   },
   {
-    "objectID": "style-guides.html#language",
-    "href": "style-guides.html#language",
-    "title": "Style Guides",
-    "section": "Language",
-    "text": "Language\nFollowing the GDS Way the NHS-R Community Way will:\n\nWhen using a proper name, use the appropriate spelling for that thing (e.g. the MIT License.)\n\nand:\n\nEach repository should include a licence file. This should be called LICENCE or LICENCE.md."
-  },
-  {
-    "objectID": "style-guides.html#licences-to-use",
-    "href": "style-guides.html#licences-to-use",
-    "title": "Style Guides",
-    "section": "Licences to use",
-    "text": "Licences to use\nNHS-R Community repositories are licenced under MIT for code based projects like Shiny apps and packages:\n\nthe MIT License is a permissive software license that places few restrictions of reuse. Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.\n\nand CC0 for text based projects like training and books (like this):\n\nallows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share."
-  },
-  {
-    "objectID": "community-handbook.html",
-    "href": "community-handbook.html",
-    "title": "Community Handbook",
-    "section": "",
-    "text": "Social Media\nNHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars. Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.\nIn terms of recording, Zoom and Microsoft Teams Events only record the person speaking and their shared screen. Microsoft Teams which is used by many NHS and Local Authorities for meetings, however, shows the videos and names of attenders which may be an issue for attenders.\nWe host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can’t publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.\nSubmissions for blogs can be in any format but need to be easily copied and pasted to nhs.rcommunity@nhs.net. For this reason pdf formats are not necessarily the easiest to share content.\nPictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility. This includes any pictures used for visual impact and not necessarily to add to the content directly."
-  },
-  {
-    "objectID": "community-handbook.html#nhs-r-slack",
-    "href": "community-handbook.html#nhs-r-slack",
-    "title": "Community Handbook",
-    "section": "NHS-R Slack",
-    "text": "NHS-R Slack\nhttps://nhsrcommunity.slack.com/\nThe NHS-R Community use the free version of Slack to facilitate conversations between members. Many people join the Slack group and enjoy reading the conversations without ever joining in and that’s ok as this is the best place to find out what’s happening with the community and a lot can be learned from others’ conversations. Because this is a free account we don’t have a history of posts but they would be available if we moved to a paid account.\n\nAccessing the Slack\nSome organisations’ emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email nhs.rcommunity@nhs.net for the link. Links that are shared are only available for several days.\nIt’s best to use an organisational email for the group, but not necessary, and you are also able to change the email once you’ve joined.\n\n\nDeletion of accounts on Slack\nUnfortunately with the free account we are unable to change email addresses which has affected some people when they move to a new organisation and require a password reset or use the Slack system of emailing a joining link. However, we can delete any old account to avoid confusion to others on the Slack so they will only tag or direct message the active account.\nOther than this situation, we would only ever delete an account due to Chapter 2 issues.\n\n\nSlack security\nAdministrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators.\nIn line with good security principles we strongly suggest using two factor authentication for the Slack group.\n\n\n\n\n\n\nNote\n\n\n\nYou will need this for each Slack workspace that you have joined."
-  },
-  {
-    "objectID": "community-handbook.html#weekly-office-hours",
-    "href": "community-handbook.html#weekly-office-hours",
-    "title": "Community Handbook",
-    "section": "Weekly office hours",
-    "text": "Weekly office hours\nIn order to support people and manage the time we can dedicate to that support, we have office hours which are currently on a Monday from 3pm-4pm GMT through a Microsoft Teams link that is shared in the #announcements channel in the NHS-R Slack group. The meeting is moved to a Tuesday when England has a public holiday on the Monday and these changes are announced in the Slack group. The weekly office hours are for anyone to come along, without needing to schedule, with any issues with R or RStudio as part of the NHS-R Community. The meetings are run by Chris Beeley, Zoë Turner and Tom Jemmett on a rotating basis and is open to anyone who wishes to support this in the community. We keep a record of the upcoming meetings in a Google sheet.\nYou are also free to come for a chat!"
-  },
-  {
-    "objectID": "community-handbook.html#twitter",
-    "href": "community-handbook.html#twitter",
-    "title": "Community Handbook",
-    "section": "Twitter",
-    "text": "Twitter\nThe account for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. During events like the conference we extend this account access to interested NHS-R Community members who’d like to tweet from the account. We encourage retweeting and the use of hashtags during the conference which usually are often in the format #NHSRConf23.\nThe Twitter account is used to promote NHS-R Community activities and any other #RStats related content that will be of interest to a wide audience."
-  },
-  {
-    "objectID": "community-handbook.html#fosstodon-server-on-mastodon",
-    "href": "community-handbook.html#fosstodon-server-on-mastodon",
-    "title": "Community Handbook",
-    "section": "Fosstodon server on Mastodon",
-    "text": "Fosstodon server on Mastodon\nWith the change in ownership to Twitter and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon. This account, like for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community."
-  },
-  {
-    "objectID": "community-handbook.html#website",
-    "href": "community-handbook.html#website",
-    "title": "Community Handbook",
-    "section": "Website",
-    "text": "Website\nThe NHS-R Community website is built using WordPress and managed through VergeLabs. We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events.\n\nJoining the website\nSigning up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs and also Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.\nAccess to register events is based on the membership level and the default is fringe member. Core memberships is available to all NHS, public sector and civil servants and allows registration to all workshops and webinars. We restrict the numbers to workshops and so restrict places to just Core members. Webinars though, don’t have the same restrictions and so are open to both Core and Fringe members to attend the live event. The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at nhs.rcommunity@nhs.net.\nIf you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) please contact nhs.rcommunity@nhs.net with details of your situation."
-  },
-  {
-    "objectID": "community-handbook.html#mailing-list",
-    "href": "community-handbook.html#mailing-list",
-    "title": "Community Handbook",
-    "section": "Mailing list",
-    "text": "Mailing list\nCurrently the NHS-R Community does not hold a mailing list as we will have to ensure strict compliance with GDPR. It is advised to sign up to any system related to NHS-R Community with a work address but where a private address is used we will try to ensure that this is not shared."
-  },
-  {
-    "objectID": "community-handbook.html#youtube",
-    "href": "community-handbook.html#youtube",
-    "title": "Community Handbook",
-    "section": "YouTube",
-    "text": "YouTube\nWe always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings. We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.\nYouTube applies automatic subtitles after a period of time of uploading but at the moment we don’t amend those subtitles given the time it requires. However, this is something that we would like to do in the future and this may mean we get support from a community member."
+    "objectID": "data-collection.html#nhs-data-dictionary",
+    "href": "data-collection.html#nhs-data-dictionary",
+    "title": "13  Data collection resources",
+    "section": "13.2 NHS Data Dictionary",
+    "text": "13.2 NHS Data Dictionary\nThe NHS Data Model and Dictionary has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS."
   }
 ]

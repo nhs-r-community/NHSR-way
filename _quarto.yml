@@ -1,29 +1,35 @@
 project:
   type: book
 book:
-  title: "NHSR-way"
+  title: "Open Analytics Resources"
   author: "NHS-R Community"
   date: last-modified
   chapters:
     - index.qmd
-    - code-of-conduct.qmd
-    - style-guides.qmd
-    - community-handbook.qmd
-    - references.qmd
+    - forum-groups.qmd
+    - accessibility.qmd
+    - ethics.qmd
+    - reproducible-analytical-pipelines.qmd
+    - tools.qmd
+    - training.qmd
+    - code-of-practice-regulation-guidance.qmd
+    - profession.qmd
+    - knowledge-resource.qmd
+    - projects.qmd
+    - covid-resources.qmd
+    - data-collection.qmd
   page-footer:
     left: |
-      NHS-R Way by the NHS-R Community
-      
-      NHS-R Community makes all of their materials publicly available under open source licenses
+      Open Analytics Resources originally compiled for AphA Analysts.
+      Recompiled by Zoë Turner.
+
     right: |
-      This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
   repo-url: https://github.com/nhs-r-community/NHSR-way/
   repo-branch: main
   repo-actions: [edit, issue]
   site-url: https://github.com/nhs-r-community/NHSR-way/
 
-
-bibliography: references.bib
 
 format:
   html:

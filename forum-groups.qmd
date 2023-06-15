@@ -1,0 +1,52 @@
+# Groups
+
+## Slack
+
+[Government Data Science](https://govdatascience.slack.com/#/) - requires a recognised email address and not every NHS/Local Authority is listed. However, `nhs.net` is acceptable. 
+
+[NHS-R Community](https://nhsrcommunity.slack.com) - predominantly R related but many channels like Git, Python and Ethics. Membership is open for anyone interested in health and social care.
+
+## Platforms
+
+[FutureNHS](https://future.nhs.uk/) - The FutureNHS Collaboration Platform is the only virtual collaboration platform from the NHS that supports people working in health and social care to make change, improve and transform across organisations, places and professions.
+
+## Community groups
+
+### NHS and Public Sector groups
+
+[NHS-R Community](https://nhsrcommunity.com/) - The NHS-R community aims to support the learning, application and exploitation of R in the NHS through workshops, video tutorials and providing a platform for discussion and sharing of developing best practice solutions to NHS problems.
+
+[NHS Pycom](https://nhs-pycom.net/) - is an open community of practice that champions the use of the python programming language and open code in the NHS and healthcare sector.
+
+### Global community groups
+
+[R-girls](https://rgirls.org.uk/) a worldwide network to promote the use of R - a leading data science programming language - in secondary schools for girls.
+
+[MiR](https://mircommunity.com/) is a Slack-based community started in March 2020 to support the professional development and well-being of historically underrepresented minorities that use R.
+
+[R Ladies Global](https://rladies.org/) is an organization that promotes gender diversity in the community of users of the R statistical programming language.
+
+
+## South West Local
+
+[Bristol Data Scientists Meetup](https://www.meetup.com/Bristol-Data-Scientists/) - The aim of this meetup is to promote discussion, learning and interaction around Data Science in the South West. This is a group for statisticians, mathematicians, programmers, data scientists, data alchemists and anyone interested in using data for analytics. Aim to run meetings on a quarterly basis
+
+[Bristol Project Data Analytics Meetup ](https://www.meetup.com/Bristol-Project-Data-Analytics-Meetup/) - Meetup to share best practise on leveraging data within a project, programme and portfolio environment. This meetup will explore some of the challenges at the intersection of data analysis and project, programme and portfolio management and discuss how practitioners are working to resolve them,
+
+[Southwest Data Meetup](https://www.meetup.com/south-west-data/) - The Bristol-based holistic data group that is all things to do with managing, handling, analysing and delivering data in the mild mild South West.
+
+[Elizabeth Blackwell Institute Health Data Science Research Strand](https://www.bristol.ac.uk/blackwell/health-research/research-strands/health-data-science/) - A University of Bristol group of academics with an interest in making better use of routinely collected data. 
+
+[Local Digital Health Research and Development Group](http://www.bristolhealthpartners.org.uk/about-us/local-digital-health-research-development-group/) - Bristol Health Partners convenes a Local Digital Health Research and Development Group, bringing together academics, NHS organisations and local authorities in Bristol, North Somerset and South Gloucestershire (BNSSG).
+
+## Midlands
+
+[The Strategy Unit ](https://www.strategyunitwm.nhs.uk/) - The Strategy Unit is a specialist NHS team, based in Midlands and Lancashire Commissioning Support Unit. They provide high-quality, multi-disciplinary analytical work as well as host the [Midlands Analyst Network](https://www.midlandsdecisionsupport.nhs.uk/communities-of-practice/midlands-analyst-network/) which is a fornightly virtual MS Teams meeting which is open to Network members.
+
+[Birmingham R User Group](https://www.meetup.com/BirminghamR/) Meetup
+
+[NottinghamR R Users Group](https://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) Meetup
+
+[Women in Tech Nottingham](https://www.technottingham.com/wit-notts) and [Tech Nottingham](https://www.technottingham.com/) - monthly meetups open to everyone.
+
+

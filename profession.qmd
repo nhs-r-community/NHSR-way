@@ -1,0 +1,14 @@
+# Professional links
+
+## Job profiles
+
+The NHS National Job profiles have a particular section for [information analysts](https://www.nhsemployers.org/sites/default/files/2021-06/information-management-tech-profiles.pdf) which many analysts jobs are based on to be assessed through AfC (Agenda for Change). 
+
+## Professional bodies
+
+* [Association of Professional Healthcare Analysts (AphA)](https://www.aphanalysts.org/) -  Aims to raise the profile of healthcare analysts and provide a professional support network. Membership organisation.
+* [Royal Statistical Society](https://www.rss.org.uk/RSS/Get_involved/Sections_and_study_groups/Data_Science/RSS/Get_involved/Sections/Data_Science_Section.aspx?hkey=81ae8d96-62d2-496c-b89c-3c8380313f61) - The Data Science Section is a newly formed section of the Royal Statistical Society that was established in 2017. The Section includes representatives from business, industry, government and academia and was formed to address emerging topics that will impact the long term success of data science as a profession.
+* [Open Data Leaders Network](https://theodi.org/project/open-data-leaders-network/) - The Open Data Institute (ODI) has developed the Open Data Leaders Network – a global peer network of public sector open data leaders at different levels (city, regional and national) – to promote peer-learning and knowledge exchange.
+* [BCS - The Chartered Institute of IT](https://www.bcs.org/) - Champions the interests of IT professionals through sharing expertise, providing CPD and qualifications, and setting industry standards. BCS does not specialise in supporting those working in health and social care, however the range of IT professionals and service areas it supports is wide; from technical and systems development, to information sharing and data analysis.
+* [Institute of Health Records and Information Management (IHRIM)](https://www.ihrim.co.uk/) - Provides members with information on legislation, best practice and current affairs for people working in health records, clinical coding or information governance. IHRIM also offers qualifications for health records and health information professionals.
+

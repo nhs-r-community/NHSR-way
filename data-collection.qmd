@@ -1,0 +1,10 @@
+# Data collection resources
+
+## Gender and Transgender
+
+[Guidance](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set/guidance-on-collecting-and-submitting-data-for-data-items-on-gender#data-items-on-gender-and-trans-status) on collecting and submitting data for the data items on gender within the Mental Health Services Data Set (MHSDS) is a useful resource for information on these protected characteristics.
+
+## NHS Data Dictionary
+
+The [NHS Data Model and Dictionary](https://www.datadictionary.nhs.uk/) has been developed for everyone who is actively involved in the collection of data and the management of information in the NHS.
+

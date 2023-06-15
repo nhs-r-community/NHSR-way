@@ -1,0 +1,15 @@
+# Accessibility
+
+[UK Government guidance](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps)
+
+[Equality and inclusion in NHS Digital products and services](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit#heading=h.ssskjtmeglh0) notes and blogs including a comprehensive [list of groups](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit#heading=h.2gcsosi4s7qj) who can experience bias.
+
+## Spreadsheets
+
+[Making spreadsheets accessible](https://gss.civilservice.gov.uk/policy-store/making-spreadsheets-accessible-a-brief-checklist-of-the-basics/) a checklist of the basics which is also talked about in this [YouTube video](https://www.youtube.com/watch?v=RlihILhpXoE).
+
+[Releasing statistics in spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/) best practice from Government Statistical Service.
+
+## Data Visualisations
+
+RStudio webinar on Data Visualisation Accessibility on [YouTube](https://www.youtube.com/watch?v=l_U3hQ6mm60).

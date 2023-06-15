@@ -1,0 +1,65 @@
+# Covid-19 specific resources
+
+The Corona Tech Handbook provides a good overview of information about Corona related technology. See the [coronavirustechhandbook.com](https://coronavirustechhandbook.com/science), or for more specific research tools:
+
+
+
+* [Coronavirus Tech Handbook Technical Tools & Resources](https://coronavirustechhandbook.com/science) page for more information
+
+<span style="text-decoration:underline;">, </span>
+
+
+## Software (/algorithms) - Github
+
+
+
+* [BNSSG Analytics - Required Beds Projection](https://github.com/nhs-bnssg-analytics/covid19-reqd-beds-projection)
+* [Covid-19 SAS](https://github.com/sassoftware/covid-19-sas)
+* [EMB Data Lab](https://github.com/ebmdatalab/)
+* [Health Foundation Analytics Lab](https://github.com/HFAnalyticsLab)
+* [HF Analytics Lab - COVID-19 resources - Analytics Communities and Events](https://github.com/HFAnalyticsLab/COVID19_Resources/blob/master/Communities_and_Events.md)
+* [Folding at home](https://github.com/FoldingAtHome)
+* [NHS-R Community - Covid-19](https://github.com/nhs-r-community/covid-19)
+* [NHSX Chest Imaging Database](https://github.com/nhsx/covid-chest-imaging-database)
+* [ODI Leeds](https://github.com/odileeds/covid-19)
+* [OpenSAFELY](https://github.com/ebmdatalab/opensafely-risk-factors-research/)
+* <span style="text-decoration:underline;">SD epidemiology models: [https://sheetless.io/@kimwarren/the-covid-19-infection-system/app](https://sheetless.io/@kimwarren/the-covid-19-infection-system/app)</span>
+
+    [http://vensim.com/coronavirus/](http://vensim.com/coronavirus/)
+
+* <span style="text-decoration:underline;">Simul8 ICU planner</span>
+
+
+## Data
+
+* Emergency Care Data Set - [ECDS latest update](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/emergency-care-data-set-ecds/ecds-latest-update)
+* Gov.UK - [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/)
+* NPC - [Interactive COVID-19 Data for Charities and Funders](https://www.thinknpc.org/resource-hub/update-interactive-covid-19-data-for-charities-and-funders/)
+* PHE - [Wider Impacts of COVID-19 on Health (WICH) monitoring tool](https://analytics.phe.gov.uk/apps/covid-19-indirect-effects/)
+* [Potential Coronavirus (COVID-19) symptoms reported through NHS Pathways and 111 online](https://digital.nhs.uk/coronavirus/nhs-111-online-coronavirus-services/potential-coronavirus-symptoms-reported-through-nhs-pathways-and-111-online)
+* <span style="text-decoration:underline;">Shielded patients methodology: [https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology/annexes](https://digital.nhs.uk/coronavirus/shielded-patient-list/methodology/annexes) (England)</span>
+
+    <span style="text-decoration:underline;">https://nwis.nhs.wales/news/latest-news/identifying-vulnerable-patient-lists/ (Wales)</span>
+
+
+
+## Other
+
+
+
+* Health Foundation - [Covid-19 Policy Tracker: A timeline of national policy and health system responses to COVID-19 in England](https://www.health.org.uk/news-and-comment/charts-and-infographics/covid-19-policy-tracker)
+* [HDRUK Covid-19 ](https://www.hdruk.ac.uk/covid-19/)
+    * [Slack Channel Sign ups](https://hdruk.us18.list-manage.com/subscribe?u=aebfef05d173a4888d1cde535&id=30d89c2c77)
+* [HEE Knowledge for Healthcare](https://kfh.libraryservices.nhs.uk/covid-19-coronavirus/evidence-sources/)
+* National Institutes for Health (US) - [Open-Access Data and Computational Resources to Address COVID-19](https://datascience.nih.gov/covid-19-open-access-resources)
+* NHS-R Community - [Covid-19 Modelling Webinar ](https://nhsrcommunity.com/learn-r/workshops/covid-19-modelling-webinar/)
+* [OpenSAFELY](https://opensafely.org/) - Secure analytics platform for electronic health records in the NHS, created to deliver urgent results during the global COVID-19 emergency. Analyses across more than 24 million patients’ full pseudonymised primary care NHS records, with more to follow. 
+
+
+## Learning the Lessons
+
+
+
+* House of Commons: [Eighth Report - Government transparency and accountability during Covid 19: The data underpinning decisions](https://committees.parliament.uk/work/570/data-transparency-and-accountability-covid-19/publications/)
+* [RSS - Statistics, Data and Covid -](https://rss.org.uk/statistics-data-and-covid/) “Ten statistical lessons the government can learn from the past year “
+* Key policy documents

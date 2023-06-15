@@ -1,6 +1,8 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata
+_publish.R
+_bookdown_files
+rsconnect
 
 /.quarto/

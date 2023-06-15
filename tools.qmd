@@ -1,0 +1,26 @@
+# Tools and Resources 
+
+[NHS-R Handbook](https://nhs-r-community.github.io/statements-on-tools/) is a collaborative effort by the community inspired initially from difficulties faced when installing free tools such as R and R Studio. 
+
+## Software 
+
+* [Jupyter notebooks](https://jupyter.org/): Supporting open-source software, open-standards, and services for interactive computing across dozens of programming languages. See also: [Jupyter Cheat Sheet](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.png)
+* [Github](https://github.com/) / [GitLab](https://about.gitlab.com/): GitHub is a development platform where you can host and review code, manage projects, and build software alongside 36 million developers. GitLab is a complete DevOps platform, delivered as a single application. From project planning and source code management to CI/CD, monitoring, and security. See also: [GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+    * [NHS Connect](https://github.com/nhsconnect/)
+    * [NHSEI Analytics](https://github.com/NHSEI-Analytics/nhs_rcode_ts_forecasting)
+    * [NHS-R Community](https://github.com/nhs-r-community)
+    * [NHSX ](https://github.com/NHSX)
+    * [SHERE HyperStream](https://github.com/IRC-SPHERE/Sphere-HyperStream)
+    * [IBM Streams Health](https://github.com/IBMStreams/streamsx.health)
+    * [Jupyter Server](https://github.com/jupyter/jupyter_server)
+* Cloud: To use Cloud storage to share data.
+* [R and Python cheat sheets ](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
+* [Triangular Irregular Networks (TIN)](https://en.wikipedia.org/wiki/Triangulated_irregular_network): These digital data structures are used in a variety of applications including Geographic Information Systems.
+* [QGIS](https://qgis.org/en/site/): A Free and Open Source Geographic Information System
+* [Shiny by RStudio](https://www.rstudio.com/products/shiny/): Shiny is an open source R package that provides a web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
+* Visualisation type guides -[ Financial times guide](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)   
+
+
+## Data
+
+* [Data Access Request Service](https://digital.nhs.uk/services/data-access-request-service-dars/dars-products-and-services) 
