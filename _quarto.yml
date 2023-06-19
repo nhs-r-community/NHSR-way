@@ -9,6 +9,7 @@ book:
     - code-of-conduct.qmd
     - style-guides.qmd
     - community-handbook.qmd
+    - training.qmd
     - references.qmd
   page-footer:
     left: |
