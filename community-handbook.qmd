@@ -73,7 +73,14 @@ We restrict the numbers to workshops and so restrict places to just Core members
 Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
 The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
-If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) with details of your situation.
+## Changes of emails on website
+
+As emails can be changed we will periodically go through and update personal emails to Fringe from Core, particularly around events like the conference.
+This is because tickets are restricted in number and we have to be mindful of people's work situations changing.
+
+## Confirming Core membership
+
+If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in prepartion for events like the conference please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) with details of your situation.
 
 ## Mailing list
 
