@@ -9,8 +9,12 @@ Our goal is to promote R - extended to data science tools - and to do this in an
 This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
 :::
 
-::: {.callout-tip title="Published in two ways"}
-The NHS-R Way is published on [GitHub](https://nhs-r-community.github.io/NHSR-way/) and on [Netlify](https://nhsr-way.netlify.app/) because some organisations block one or the other through their Virtual Private Networks. 
+::: {.callout-tip title="Other books!"}
+This is a book about the NHS-R Community, how it works and its values. 
+
+We have a book to help with technical resources and experiences getting started with open source programs called [Statement on Tools](https://tools.nhsrcommunity.com/) and a book for [Open Analytic Resource](https://resources.nhsrcommunity.com/) links started by AphA in 2020.
+
+The [training book](https://training.nhsrcommunity.com/) contains NHS-R Community training materials and [R4DS Unofficial Solutions](https://r4ds-solutions.nhsrcommunity.com/) is being written by the NHS-R Book club.
 :::
 
 # Our Community {.unnumbered}
