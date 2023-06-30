@@ -21,7 +21,7 @@ book:
   repo-url: https://github.com/nhs-r-community/NHSR-way/
   repo-branch: main
   repo-actions: [edit, issue]
-  site-url: https://github.com/nhs-r-community/NHSR-way/
+  site-url: https://nhsrway.nhsrcommunity.com/
 
 
 bibliography: references.bib
