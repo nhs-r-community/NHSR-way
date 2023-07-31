@@ -85,6 +85,18 @@ If you are in a situation where you would like a Core membership but can only ap
 ### Deletion of website membership
 
 Currently, as the accounts are only used for event subscriptions, account from organisations that are known to have been closed will be deleted unless there is some other work attributed to the account (for example blogs).
+Under these circumstances the accounts will be moved the Fringe.
+
+As of July 2023 the following accounts affected by this deletion are:
+
+- phe.gov.uk
+- nhsx.nhs.uk
+- england.nhs.uk
+
+Future deletions are expected for:
+
+- hee.nhs.uk
+
 
 ### Password resets
 
