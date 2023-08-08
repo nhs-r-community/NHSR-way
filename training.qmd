@@ -97,10 +97,12 @@ Errors say that packages like `broom` or `readr` cannot be installed but even wh
 If you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.
 :::
 
-### Installing packages
+### Introduction to Git and GitHub using R course programs
 
-If a course expects an introductory understanding of R then package requirements to be loaded will be shared.
-Courses like the Introduction to R and RStudio will install packages as part of the course.
+If you are attending the Introduction to Git and GitHub using R course you will need to have Git installed
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+and follow the slides published through [GitHub](https://intro-git-github.nhsrcommunity.com/session-prework.html#/title-slide).
 
 ### Course materials
 
@@ -122,10 +124,41 @@ The following code can be run from the Console in RStudio to download the same f
 install.packages("usethis")
 usethis::use_course("nhs-r-community/intro_r_data")
 ```
-#### Downloading slides
+### Downloading course slides only
 
 If you want to have the slides on your computer, they can be downloaded from the same repository as the `intro-r` files but on a branch called [gh-pages](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+### Installing packages
+
+Packages are installed as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
+
+Other packages mentioned in the course (but are also installed as part of the learning) are:
+
+``` r
+install.packages(c("beepr", "styler", "janitor", "stringr", "stringi"))
+```
+
+## Introduction to Git and GitHub using R course materials
+
+The Introduction to Git and GitHub using R workshop materials can be found on a published [GitHub page](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github).
+
+### Downloading all course material
+
+To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+
+### Installing packages
+
+The following [slide](https://intro-git-github.nhsrcommunity.com/session-prework.html#/install-packages) published through GitHub details the packages used in the course.
+
+### GitHub account
+
+To use GitHub you will need to:
+
+* register and account at [GitHub](https://github.com/) 
+* and set up [2FA (two factor authentication)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 
 ## Workshop confirmation emails
 
