@@ -15,7 +15,7 @@ Admins are:
 * [Zoë Turner](mailto:zoe.turner3@nhs.net)
 * [Tom Jemmett](thomas.jemmett@nhs.net)
 * [Chris Beeley](chris.beeley1@nhs.net)
-* [NHSR Administration](nhs.rcommunity@nhs.net)
+* [NHSR Administration](nhs.rcommunity@nhs.net) - access to this email is detailed in the [NHS-R Way](https://nhsrway.nhsrcommunity.com) book in the [Code of Conduct - Introduction](https://nhsrway.nhsrcommunity.com/code-of-conduct.html)
 
 ### Posit Cloud terminology
 
