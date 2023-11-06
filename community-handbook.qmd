@@ -10,6 +10,15 @@ The NHS-R Community use the free version of Slack to facilitate conversations be
 Many people join the Slack group and enjoy reading the conversations without ever joining in and that's ok as this is the best place to find out what's happening with the community and a lot can be learned from others' conversations.
 Because this is a free account we don't have a history of posts but they would be available if we moved to a paid account.
 
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Managing own Slack accounts
+- Because the Slack account is a free version people will need to manage their own accounts
+- This includes any password resets, two-factor authentication security and changes of emails
+- Where two accounts have been set up because of access loss, administrators can delete the unused account
+- Details of who is Slack admin can be found in the pinned notice in the #general channel
+:::
+
+
 ### Accessing the Slack
 
 Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) for the link. 
