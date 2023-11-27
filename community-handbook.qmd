@@ -43,18 +43,17 @@ In line with good security principles we strongly suggest using two factor authe
 You will need this for each Slack workspace that you have joined.
 :::
 
-## Twitter
+## X (formerly X)
 
-The account for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. 
-During events like the conference we extend this account access to interested NHS-R Community members who'd like to tweet from the account.
-We encourage retweeting and the use of hashtags during the conference which usually are often in the format #NHSRConf23.
+The account for X can be accessed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. 
+The X account is used to promote NHS-R Community activities and posts may be set up on a schedule.
 
-The Twitter account is used to promote NHS-R Community activities and any other #RStats related content that will be of interest to a wide audience.
+The account is no longer used to share #RStats content.
 
 ## Fosstodon server on Mastodon
 
-With the change in ownership to Twitter and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon.
-This account, like for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
+With the change in ownership to X and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon.
+This account, like for X is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
 
 ## Website
 
@@ -63,7 +62,7 @@ We use the website to promote the NHS-R Community but also as an event managemen
 
 ### Joining the website
 
-Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs and also Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
+Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
 We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.
 
 Access to register events is based on the membership level and the default is fringe member.
