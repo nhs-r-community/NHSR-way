@@ -43,16 +43,6 @@ In line with good security principles we strongly suggest using two factor authe
 You will need this for each Slack workspace that you have joined.
 :::
 
-## Weekly office hours
-
-In order to support people and manage the time we can dedicate to that support, we have office hours which are currently on a Monday from 3pm-4pm GMT through a Microsoft Teams link that is shared in the #announcements channel in the NHS-R Slack group. 
-The meeting is moved to a Tuesday when England has a [public holiday](https://www.gov.uk/bank-holidays) on the Monday and these changes are announced in the Slack group.
-The weekly office hours are for anyone to come along, without needing to schedule, with any issues with R or RStudio as part of the NHS-R Community.
-The meetings are run by Chris Beeley, Zoë Turner and Tom Jemmett on a rotating basis and is open to anyone who wishes to support this in the community.
-We keep a record of the upcoming meetings in a [Google sheet](https://docs.google.com/spreadsheets/d/1PaRbNqwUhqQSmYj6tRoBgvaNefIGkTiDkyW75ZSbmeg/edit?usp=sharing).
-
-You are also free to come for a chat!
-
 ## Twitter
 
 The account for Twitter is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. 
