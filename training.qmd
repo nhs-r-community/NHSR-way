@@ -13,9 +13,9 @@ The Posit Cloud account is monitored and maintained by admins who have access to
 Admins are:
 
 * [Zoë Turner](mailto:zoe.turner3@nhs.net)
-* [Tom Jemmett](thomas.jemmett@nhs.net)
-* [Chris Beeley](chris.beeley1@nhs.net)
-* [NHSR Administration](nhs.rcommunity@nhs.net) - access to this email is detailed in the [NHS-R Way](https://nhsrway.nhsrcommunity.com) book in the [Code of Conduct - Introduction](https://nhsrway.nhsrcommunity.com/code-of-conduct.html)
+* [Tom Jemmett](mailto:thomas.jemmett@nhs.net)
+* [Chris Beeley](mailto:chris.beeley1@nhs.net)
+* [NHSR Administration](mailto:nhs.rcommunity@nhs.net) - access to this email is detailed in the [NHS-R Way](https://nhsrway.nhsrcommunity.com) book in the [Code of Conduct - Introduction](https://nhsrway.nhsrcommunity.com/code-of-conduct.html)
 
 ### Posit Cloud terminology
 
@@ -107,7 +107,7 @@ and follow the slides published through [GitHub](https://intro-git-github.nhsrco
 ### Course materials
 
 Materials produced by and for NHSR Community will be available through [GitHub](https://github.com/nhs-r-community).
-However, some workshops are provided with course material available through Posit Cloud only so contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) to request materials.
+However, some workshops are provided with course material available through Posit Cloud only so contact [the core development team](#contact-us) to request materials.
 
 ## Introduction to R and RStudio course materials
 
@@ -168,7 +168,7 @@ The NHS-R Community confirmation email will include:
 * the Posit Cloud specific workspace url and 
 * a calendar invitation
 
-If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by [the core development team](#contact-us).
 
 ## Modern desktop users (NHS England)
 

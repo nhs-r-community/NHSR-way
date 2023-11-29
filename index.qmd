@@ -7,6 +7,10 @@ Like The Turing Way, this is an open source, open collaboration, and community-d
 We are called NHS-R Community but our contributors come from Local Authorities, Civil Service, Public Sector, Academia, Voluntary Sector, Charities and as individuals with no organisational connection. 
 Our goal is to promote R - extended to data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences. 
 
+## Contact us {#contact-us}
+
+The NHS-R Community can be found on [Slack](#slack) and the core support team through the email [the core development team](#contact-us).
+
 ::: {.callout-tip title="Where to start?"}
 This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
 :::
@@ -16,7 +20,7 @@ This is a book about the NHS-R Community, how it works and its values.
 
 We have a book to help with technical resources and experiences getting started with open source programs called [Statement on Tools](https://tools.nhsrcommunity.com/) and a book for [Open Analytic Resource](https://resources.nhsrcommunity.com/) links started by AphA in 2020.
 
-The [training book](https://training.nhsrcommunity.com/) contains NHS-R Community training materials and [R4DS Unofficial Solutions](https://r4ds-solutions.nhsrcommunity.com/) is being written by the NHS-R Book club.
+The [training book](https://training.nhsrcommunity.com/) contains NHS-R Community training materials.
 :::
 
 # Our Community {.unnumbered}
@@ -34,7 +38,7 @@ The NHS-R Community Way reflects our:
 * above all the community
 
 Everything here is available for free under a CC-BY licence. Please use and re-use whatever you need, for any purpose and all the book is collaboratively written and open from the start. To make this book and the community truly accessible to everyone, we invite you to contribute your skills and bring your perspectives into this project. 
-Write and issue, do a pull request or even [NHS-R Community](mailto:nhs.rcommunity@nhs.net). 
+Write and issue, do a pull request or even [the core development team](#contact-us). 
 
 The NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. 
 There is no restriction to who you work for, what your background is or what skills you have as we are the sum of all our parts and the more diverse and varied we are, the better our work together will be. 
