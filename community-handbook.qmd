@@ -7,11 +7,11 @@ Sessions are recorded and posted onto the NHS-R Community [YouTube channel](http
 
 There is no restriction on who can attend the webinar and people can join/sign up through the [NHS-R Community website](#website).
 
-Suggestions for webinars can be emailed to [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+Suggestions for webinars can be emailed to [the core development team](#contact-us).
 
 # Workshops from volunteers
 
-To volunteer any workshops please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+To volunteer any workshops please contact [the core development team](#contact-us).
 
 ## Introduction to R and R Studio
 
@@ -44,7 +44,7 @@ See section [Video Recording](#recordings) for more information.
 
 # Social Media
 
-## NHS-R Slack
+## NHS-R Slack {#slack}
 
 [https://nhsrcommunity.slack.com/](https://nhsrcommunity.slack.com/)
 
@@ -63,7 +63,7 @@ Because this is a free account we don't have a history of posts but they would b
 
 ### Accessing the Slack
 
-Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) for the link. 
+Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [the core development team](#contact-us) for the link. 
 Links that are shared are only available for several days.
 
 It's best to use an organisational email for the group, but not necessary, and you are also able to change the email once you've joined.
@@ -111,7 +111,7 @@ Access to register events is based on the membership level and the default is fr
 Core memberships is available to all NHS, public sector and civil servants and allows registration to all workshops and webinars.
 We restrict the numbers to workshops and so restrict places to just Core members.
 Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
-The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
 
 ### Changes of emails on website
 
@@ -120,7 +120,7 @@ This is because tickets are restricted in number and we have to be mindful of pe
 
 ### Confirming Core membership
 
-If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in prepartion for events like the conference please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) with details of your situation.
+If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in prepartion for events like the conference please contact [the core development team](#contact-us) with details of your situation.
 
 ### Deletion of website membership
 
@@ -140,7 +140,7 @@ Future deletions are expected for:
 
 ### Password resets
 
-It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net) for this to be updated manually.
+It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [the core development team](#contact-us) for this to be updated manually.
 
 ## Mailing list
 
@@ -169,7 +169,7 @@ We host blogs on the NHS-R Community website and we welcome contributions from a
 We review blogs before posting and will give feedback if there are any reasons that we can't publish.
 Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.
 
-Submissions for blogs can be in any format but need to be easily copied and pasted to [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net). 
+Submissions for blogs can be in any format but need to be easily copied and pasted to [the core development team](#contact-us). 
 For this reason pdf formats are not necessarily the easiest to share content.
 
 Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility.
