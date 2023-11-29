@@ -1,6 +1,6 @@
-# Training {.unnumbered, #training}
+# Training {.unnumbered}
 
-## Posit Cloud
+## Posit Cloud {#training}
 
 NHS-R Community pay for an account to use workspaces and projects for training/workshops.
 These mean that people can have projects that are set up with all the packages they require, have access to the latest version of R and RStudio and projects can be preloaded with any scripts or data.
