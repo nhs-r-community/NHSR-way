@@ -1,4 +1,4 @@
-# Training {.unnumbered}
+# Training {.unnumbered, #training}
 
 ## Posit Cloud
 
