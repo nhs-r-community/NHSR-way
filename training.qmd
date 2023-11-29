@@ -88,7 +88,8 @@ It's possible to download your files instead by using the down arrow by the Proj
 Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. 
 VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.
 
-If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
+If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
+Technical guidance on what programs are required and how to get those installed can be found in the NHSR Community [Statement on Tools](https://tools.nhsrcommunity.com/technical-r.html) book.
 
 It is important to have the latest R installed as older versions of R have had issues when installing {tidyverse} packages. 
 Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from Posit community may help. 
