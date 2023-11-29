@@ -1,5 +1,47 @@
 # Community Handbook {.unnumbered}
 
+# Webinars
+
+NHS-R Community host an hour long webinar through MS Teams Event on a Thursday, usually the last of the month.
+Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist Webinars.
+
+There is no restriction on who can attend the webinar and people can join/sign up through the [NHS-R Community website](#website).
+
+Suggestions for webinars can be emailed to [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+
+# Workshops from volunteers
+
+To volunteer any workshops please contact [nhs.rcommunity@nhs.net](mailto:nhs.rcommunity@nhs.net).
+
+## Introduction to R and R Studio
+
+NHS-R Community host volunteers running the Introduction to R and R Studio course once a month via Zoom.
+This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to  the availability of the person leading the workshop.
+
+Co-hosts can also attend and assist with:
+
+* checking the chat, 
+* any technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting it closes for everyone) and 
+* it can be agreed between the host and co-host to share sections of the training.
+
+[Materials](#training) are available in a chapter form from NHS-R Community GitHub to allow people the flexibility on what to cover in a session according to the time available.
+There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.
+
+These courses are very popular and are often fully subscribed and have a waiting list.
+We encourage people to join a full workshop as people have been offered places as people have notified they cannot attend and we also use these lists for future courses to invite people in advance of sharing publicly.
+
+Recordings are always made available to attendees but are not always made public as recordings are already on available. 
+However, if you wish to have a workshop you have led included these can be added if permission has been sought from the attendees before recordings have been started.
+See section [Video Recording](#recordings) for more information.
+
+Contributions and changes to the materials are always welcome and can be made via the GitHub repository.
+
+## Other workshops
+
+Workshops, other than the regular Introduction to R and R Studio, are very welcome and we've had talks from other languages (Python) as well as specific subjects like statistics.
+All workshops are recorded and, unless specifically requested not to, are shared publicly.
+See section [Video Recording](#recordings) for more information.
+
 # Social Media
 
 ## NHS-R Slack
@@ -55,7 +97,7 @@ The account is no longer used to share #RStats content.
 With the change in ownership to X and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon.
 This account, like for X is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
 
-## Website
+## Website {#website}
 
 The NHS-R Community website is built using WordPress and managed through [VergeLabs](https://vergelabs.co.uk/).
 We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events.
@@ -105,7 +147,7 @@ It is possible to request a password reset, however, if this is going to an addr
 Currently the NHS-R Community does not hold a mailing list as we will have to ensure strict compliance with GDPR.
 It is advised to sign up to any system related to NHS-R Community with a work address but where a private address is used we will try to ensure that this is not shared.
 
-# Video Recording
+# Video Recording {#recordings}
 
 NHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars.
 Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.
@@ -118,8 +160,8 @@ Microsoft Teams which is used by many NHS and Local Authorities for meetings, ho
 We always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings.
 We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.
 
-YouTube applies automatic subtitles after a period of time of uploading but at the moment we don't amend those subtitles given the time it requires.
-However, this is something that we would like to do in the future and this may mean we get support from a community member.
+YouTube applies automatic subtitles after a period of time of uploading but at the moment we don't currently amend those subtitles given the time it requires.
+However, this is something that we would like to do in the future and this may mean we get support from community members.
 
 # Blogs
 
@@ -132,3 +174,5 @@ For this reason pdf formats are not necessarily the easiest to share content.
 
 Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility.
 This includes any pictures used for visual impact and not necessarily to add to the content directly.
+
+People who have submitted blogs and who have accounts on the website have their account altered to be a `Blogger` which shows their name in the Post and means they can amend the blog and respond to any comments.
