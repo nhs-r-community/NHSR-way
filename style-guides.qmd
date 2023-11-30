@@ -119,7 +119,7 @@ x <- c(1:21)
 
 ## Licences/licenses
 
-Further information on the types of licences and how to get the text required for projects can be found on the [Statement on Tools book](https://nhs-r-community.github.io/statements-on-tools/open-code-in-the-nhs.html#licenceslicenses) 
+Further information on the types of licences and how to get the text required for projects can be found on the [Statement on Tools book](https://tools.nhsrcommunity.com/open-code.html#licenceslicenses) 
 
 ## Language
 
