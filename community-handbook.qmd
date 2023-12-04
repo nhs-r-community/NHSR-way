@@ -1,9 +1,14 @@
 # Community Handbook {.unnumbered}
 
+NHS-R Community regularly host webinars, workshops, blogs and podcasts to share the communities knowledge, experience and often, enthusiasm, for subjects ranging from specifically technical (R, Python, git) to where data science has helped analytical problems in healthcare data.
+There is always scope for trying things out with the community and the following sections are guidelines on what we have tried and is in no way a definitive list.
+
 # Webinars
 
 NHS-R Community host an hour long webinar through MS Teams Event on a Thursday, usually the last of the month.
 Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist Webinars.
+Content can relate to anything healthcare (including social care) and/or R coding.
+Webinars on other data science subjects like Python and Git/GitHub are also very welcome.
 
 There is no restriction on who can attend the webinar and people can join/sign up through the [NHS-R Community website](#website).
 
@@ -41,6 +46,20 @@ Contributions and changes to the materials are always welcome and can be made vi
 Workshops, other than the regular Introduction to R and R Studio, are very welcome and we've had talks from other languages (Python) as well as specific subjects like statistics.
 All workshops are recorded and, unless specifically requested not to, are shared publicly.
 See section [Video Recording](#recordings) for more information.
+
+The length of a workshop can vary according to the content the person/people wish to deliver and have been 1 hour long, half a day or a whole day.
+
+Workshop formats often include some code along or exercises.
+
+# Podcasts
+
+Recordings are made through a Zoom account with recordings saved to the cloud in separate channels to assist with later editing.
+
+NHS-R Community publish through [Soundcloud](https://soundcloud.com/nhs-r-community) which is available through other podcast providers.
+
+The latest podcast is published manually through the NHS-R Community WordPress site front page.
+
+If you are interested in being in a podcast please contact [the core development team](#contact-us).
 
 # Social Media
 
