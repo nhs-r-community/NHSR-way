@@ -137,9 +137,9 @@ The site automatically detects emails according to a white list that is maintain
 As emails can be changed we will periodically go through and update personal emails to Fringe from Core, particularly around events like the conference.
 This is because tickets are restricted in number and we have to be mindful of people's work situations changing.
 
-### Confirming Core membership
+### Confirming Core membership {#core-member}
 
-If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in prepartion for events like the conference please contact [the core development team](#contact-us) with details of your situation.
+If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in preparation for events like the conference please contact [the core development team](#contact-us) with details of your situation.
 
 ### Deletion of website membership
 
@@ -160,6 +160,15 @@ Future deletions are expected for:
 ### Password resets
 
 It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [the core development team](#contact-us) for this to be updated manually.
+
+### Issues with apostrophes in emails
+
+Unfortunately, where work email addresses have included the apostrophe in a person's surname the WordPress site prevents sign up but doesn't give a meaningful message.
+We've attempted to force the system by updating the email in the back, however, this still means a person cannot access the account as functionality is impaired because of the non-standard character. 
+
+As we understand it, this is an issue on many systems so suggest that, where work emails have provided the email with an apostrophe that an alias account is linked without it to get around this issue.
+
+For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to [Core Member](#core-member).
 
 ## Mailing list
 
