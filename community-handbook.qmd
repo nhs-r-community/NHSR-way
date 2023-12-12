@@ -104,7 +104,7 @@ In line with good security principles we strongly suggest using two factor authe
 You will need this for each Slack workspace that you have joined.
 :::
 
-## X (formerly X)
+## X (formerly Twitter)
 
 The account for X can be accessed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. 
 The X account is used to promote NHS-R Community activities and posts may be set up on a schedule.
