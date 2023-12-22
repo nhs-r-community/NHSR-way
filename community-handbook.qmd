@@ -123,7 +123,7 @@ We use the website to promote the NHS-R Community but also as an event managemen
 
 ### Joining the website
 
-Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
+Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also the [the core development team](#contact-us).
 We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.
 
 Access to register events is based on the membership level and the default is fringe member.
@@ -187,6 +187,16 @@ Microsoft Teams which is used by many NHS and Local Authorities for meetings, ho
 
 We always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings.
 We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.
+
+All videos are first uploaded as Unlisted which means that anyone can access the video with the share link.
+We ask that this link is not shared beyond the original people emailed.
+
+If a video is not to be made public it will be moved to Private where only people can be given direct access to view the video.
+This cannot be the default setting, unfortunately, as it relies upon having a Google mail and because the videos are often signed up from a work email we cannot use this functionality.
+
+If you had access to a video that becomes Private and still require access, please contact the [central email](#contact-us) with details, and if you are happy to share a Google email then please email this, from a work email so that we can verify your details.
+
+### Subtitles
 
 YouTube applies automatic subtitles after a period of time of uploading but at the moment we don't currently amend those subtitles given the time it requires.
 However, this is something that we would like to do in the future and this may mean we get support from community members.
