@@ -98,41 +98,29 @@ Errors say that packages like `broom` or `readr` cannot be installed but even wh
 If you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.
 :::
 
-### Introduction to Git and GitHub using R course programs
-
-If you are attending the Introduction to Git and GitHub using R course you will need to have Git installed
-[https://git-scm.com/downloads](https://git-scm.com/downloads)
-
-and follow the slides published through [GitHub](https://intro-git-github.nhsrcommunity.com/session-prework.html#/title-slide).
-
-### Course materials
-
-Materials produced by and for NHSR Community will be available through [GitHub](https://github.com/nhs-r-community).
-However, some workshops are provided with course material available through Posit Cloud only so contact [the core development team](#contact-us) to request materials.
-
 ## Introduction to R and RStudio course materials
 
-The Introduction to R and RStudio workshop materials can be found in a specific [module](https://github.com/nhs-r-community/intro_r_data).
+The Introduction to R and RStudio workshop data used in the course can be found in a specific [repository](https://github.com/nhs-r-community/intro_r_data).
 Click on the green <kdb>Code</kbd> button
 
 ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
   
-The zip includes the data files which will be used in the workshop. 
-
 The following code can be run from the Console in RStudio to download the same files:
   
 ``` r
 install.packages("usethis")
 usethis::use_course("nhs-r-community/intro_r_data")
 ```
-### Downloading course slides only
+### Downloading course slides **only**
 
-If you want to have the slides on your computer, they can be downloaded from the same repository as the `intro-r` files but on a branch called [gh-pages](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
+If you want to have the slides on your computer, they can be downloaded from another [repository](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+This is just the slides and not the underlying code used to produce the slides.
 
 ### Installing packages
 
-Packages are installed as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
+Packages are installed on the cloud as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
 
 Other packages mentioned in the course (but are also installed as part of the learning) are:
 
@@ -160,6 +148,42 @@ To use GitHub you will need to:
 
 * register and account at [GitHub](https://github.com/) 
 * and set up [2FA (two factor authentication)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
+
+## Introduction to Quarto course materials
+
+The Introduction to Quarto materials can be found in a specific [module](https://github.com/nhs-r-community/intro_quarto_data).
+Click on the green <kdb>Code</kbd> button
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+
+The following code can be run from the Console in RStudio to download the same files:
+  
+``` r
+install.packages("usethis")
+usethis::use_course("nhs-r-community/intro_quarto_data")
+```
+### Downloading course slides
+
+If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
+Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+### Installing packages
+
+Packages are installed as part of the course on the cloud but the following are used which are not on CRAN and so require {remotes}:
+
+``` r
+install.packages("remotes")
+
+remotes::install_github("nhs-r-community/NHSRdatasets")
+remotes::install_github("matt-dray/quartostamp")
+
+```
+
+As well as the following packages from CRAN:
+
+``` r
+install.packages(c("tidyverse", "knitr"))
+```
 
 ## Workshop confirmation emails
 
