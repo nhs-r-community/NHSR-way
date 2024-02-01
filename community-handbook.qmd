@@ -106,15 +106,12 @@ You will need this for each Slack workspace that you have joined.
 
 ## X (formerly X)
 
-The account for X can be accessed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community. 
-The X account is used to promote NHS-R Community activities and posts may be set up on a schedule.
-
-The account is no longer used to share #RStats content.
+The account for X is no longer used for active content however the account will not be closed completely because account names are recycled.
 
 ## Fosstodon server on Mastodon
 
 With the change in ownership to X and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon.
-This account, like for X is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
+This account is managed by Chris Beeley, Zoë Turner and the administrative support for NHS-R Community.
 
 ## Website {#website}
 
