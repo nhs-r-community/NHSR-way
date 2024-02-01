@@ -22,4 +22,4 @@ you have experienced.
 ## Special note of thanks
 
 [The Turing Way](https://the-turing-way.netlify.app/index.html) which this 
-project was inspired and most based upon.
+project was inspired and mostly based upon.
