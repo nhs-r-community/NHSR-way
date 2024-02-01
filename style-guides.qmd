@@ -140,3 +140,33 @@ NHS-R Community repositories are licenced under [MIT](https://pitt.libguides.com
 and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for text based projects like training and books (like this):
 
 >allows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share.
+
+# READMEs in repositories
+
+As standard all NHS-R GitHub repository READMEs should include the following text that refers to the Code of Conduct in this book:
+
+```markdown
+## Contributing
+
+Please see our 
+[guidance on how to contribute](https://tools.nhsrcommunity.com/contribution.html).
+
+This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.md). 
+By contributing to this project, you agree to abide by its terms.
+
+The simplest way to contribute is to raise an issue detailing the feature or 
+functionality you would like to see added, or any unexpected behaviour or bugs 
+you have experienced.
+
+## Special note of thanks
+
+**Use if required**
+```
+
+To create a code of conduct file use the code:
+
+```{r}
+usethis::use_code_of_conduct(contact = "nhs.rcommunity@nhs.net")
+```
+
+which generates a file `CODE_OF_CONDUCT.md`.
