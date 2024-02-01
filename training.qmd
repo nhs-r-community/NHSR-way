@@ -4,18 +4,24 @@
 
 NHS-R Community pay for an account to use workspaces and projects for training/workshops.
 These mean that people can have projects that are set up with all the packages they require, have access to the latest version of R and RStudio and projects can be preloaded with any scripts or data.
+This account is also used for technical training hosted by The Strategy Unit.
 
 ::: {.callout-warning}
 As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to never use the Cloud for analysis of any sensitive data.
 :::
 
 The Posit Cloud account is monitored and maintained by admins who have access to all projects and individual's projects in the workspaces.
-Admins are:
+Admins can be contacted through [the core development team](#contact-us).
 
-* [Zoë Turner](mailto:zoe.turner3@nhs.net)
-* [Tom Jemmett](mailto:thomas.jemmett@nhs.net)
-* [Chris Beeley](mailto:chris.beeley1@nhs.net)
-* [NHSR Administration](mailto:nhs.rcommunity@nhs.net) - access to this email is detailed in the [NHS-R Way](https://nhsrway.nhsrcommunity.com) book in the [Code of Conduct - Introduction](https://nhsrway.nhsrcommunity.com/code-of-conduct.html)
+## Administrators accessing projects
+
+Accessing projects can be helpful to see code issues that cannot be shared by any other method. 
+However, this can only occur with an account with admin rights.
+Also, only one person can be in a project at any one time so accessing a project as admin will result in the project owner being forced to leave.
+
+## Sharing of workspace urls
+
+Workspace urls are only shared by email or within courses and are not published publicly as they are open to anyone to access.
 
 ### Posit Cloud terminology
 
