@@ -207,3 +207,7 @@ Some organisations are using a modern desktop system, please note that project d
 
 Currently, the way around this is to create the missing folder "C:/R/WorkingDir" (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts `.rmd` and `.qmd` will work. 
 The other recommendation is currently to work through UDAL if there is access.
+
+# Certificates of attendance
+
+Certificates for Continual Profession Development can be requested from [the core development team](#contact-us) for workshops and conferences but are not provided as standard.
