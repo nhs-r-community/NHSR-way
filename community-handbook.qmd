@@ -216,3 +216,10 @@ Pictures and charts can be included in the blogs and these are expected to have 
 This includes any pictures used for visual impact and not necessarily to add to the content directly.
 
 People who have submitted blogs and who have accounts on the website have their account altered to be a `Blogger` which shows their name in the Post and means they can amend the blog and respond to any comments.
+
+# Coffee and coding
+
+Coffee and coding is a group that was originally set up from an organisation in the NHS that has been extended to anyone within the NHS-R Community.
+Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/) on the format and how to join.
+
+
