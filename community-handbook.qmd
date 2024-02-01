@@ -92,7 +92,7 @@ It's best to use an organisational email for the group, but not necessary, and y
 Unfortunately with the free account we are unable to change email addresses which has affected some people when they move to a new organisation and require a password reset or use the Slack system of emailing a joining link.
 However, we can delete any old account to avoid confusion to others on the Slack so they will only tag or direct message the active account.
 
-Other than this situation, we would only ever delete an account due to @sec-conduct issues.
+Other than this situation, we would only ever delete an account due to [Code of Conduct](#code-of-conduct) issues.
 
 ### Slack security
 
