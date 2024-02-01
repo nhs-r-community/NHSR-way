@@ -1,4 +1,4 @@
-# Code of Conduct
+# Code of Conduct {#code-of-conduct}
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 
@@ -10,7 +10,7 @@ We are particularly motivated to support new and/or anxious collaborators, peopl
 
 To make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.
 
-# Introduction {#sec-conduct}
+# Introduction 
 
 The NHS-R Community Way is a community-oriented and -led project, although supported through the NHS it is not exclusively open to just NHS employees and, as such, we have members from other public sector organisations, academia, charities, the voluntary sector as well as individuals who have an interest in healthcare data and data science.
 We value the involvement of everyone in the community.
