@@ -166,6 +166,7 @@ you have experienced.
 To create a code of conduct file use the code:
 
 ```{r}
+#| eval: false
 usethis::use_code_of_conduct(contact = "nhs.rcommunity@nhs.net")
 ```
 
