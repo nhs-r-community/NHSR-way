@@ -1,5 +1,8 @@
 project:
   type: book
+  render: 
+    - "*.qmd"
+    - "!*.md"
 resources:
   - CNAME
 book:

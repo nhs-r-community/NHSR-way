@@ -163,11 +163,10 @@ you have experienced.
 **Use if required**
 ```
 
-To create a code of conduct file use the code:
+To create a code of conduct file use the code from the {usethis} package:
 
-```{r}
-#| eval: false
-usethis::use_code_of_conduct(contact = "nhs.rcommunity@nhs.net")
+```
+use_code_of_conduct(contact = "nhs.rcommunity@nhs.net")
 ```
 
 which generates a file `CODE_OF_CONDUCT.md`.
