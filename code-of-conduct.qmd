@@ -4,6 +4,13 @@ We value the participation of every member of our community and want to ensure t
 
 Accordingly, everyone who participates in the NHS-R Community and the NHS-R Community Way project is expected to show respect and courtesy to other community members at all times.
 
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Organisations (important)
+NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation.
+The hosting organisation is The Strategy Unit, which is part of NHS Midlands and Lancashire Commissioning Support Unit.
+:::
+
+
 Zoë Turner, as lead investigator in this community, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
@@ -29,9 +36,9 @@ The NHS-R Community has a core development team which consists of:
 * [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct
 * [Chris Beeley](mailto:chris1.beeley@nhs.net) - who leads the NHS-R Community
 
-The [central email](#contact-us) is accessed by Chris Beeley, Zoë Turner and administrative/support staff in the Strategy Unit.
+The [central email](#contact-us) is accessed by Chris Beeley, Zoë Turner and administrative/support staff in The Strategy Unit.
 
-Both Chris Beeley and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Strategy Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within the Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+Both Chris Beeley and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Support Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
@@ -98,7 +105,7 @@ If you feel able to, please contact Zoë Turner by email at [zoe.turner3@nhs.net
 
 If you do not feel comfortable contacting Zoë Turner, please report an incident to Chris Beeley by email at [chris.beeley1@nhs.net](mailto:chris.beeley1@nhs.net).
 
-If you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within the Strategy Unit (NHS Midlands and Lancashire Commissioning Strategy Unit) through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+If you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 ## What to do if someone is in physical danger
 
@@ -132,7 +139,7 @@ In ongoing situations, any member may at their discretion employ any of the tool
 
 In situations where an individual community member acts unilaterally, they must inform [the core development team](#contact-us) as a central point of contact as soon as possible, and report their actions for review within 24 hours.
 
-It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Strategy Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
+It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
 
 ## Less-Urgent Situations
 
@@ -183,7 +190,59 @@ However, the Code of Conduct committee is not required to act on this feedback.
 
 ## Conflicts of Interest
 
-In the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within NHS Midland and Lancashire Commissioning Support Unit.
+In the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit and/or NHS Midland and Lancashire Commissioning Support Unit.
+
+# GitHub code of contribution
+
+As well as the Code of Conduct outlined in this chapter, specific Code of Conducts are required for contributions through GitHub.
+Details on how to generate this file can be found in the [Statements on Tools](https://tools.nhsrcommunity.com/contribution.html#code-of-conduct).
+
+# Notice and Takedown policy
+
+If you are a rights holder and are concerned that you have found material on GitHub or any published web page for which you have not given permission, or is not covered by a limitation or exception in national law, please [contact us](#contact-us) immediately with the following information:
+
+1. Your contact details
+1. The full details of the material
+1. The exact and full url where you found the material
+1. Details if you are the rights holder and a statement that, under penalty of perjury, you are the rights holder or are an authorised representative
+1. If you are not the rights holder, details of who to contact.
+
+Upon receipt of notification we will:
+
+1. Acknowledge receipt of your complaint and will make an initial assessment of the validity and plausibility of the complaint
+1. Upon receipt of a valid notice the material will be temporarily removed from our published website pending an agreement to remove permanently and from all records
+1. Were appropriate, we will contact the contributor who deposited the material
+The contributor will be notified that the material is subject to a removal request
+1. The notifier and the contributor, if different, will be encouraged to discuss and resolve any issues swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
+    - The material is replaced on our website unchanged
+    - The material is replaced on our website with changes
+    - The material is permanently removed from our website including the GitHub code history which will remove the material using the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) as recommended by GitHub.
+   
+:::{.callout-warning collapse=false appearance='default' icon=true}
+## Permenant change to GitHub history (warning)
+Note that the use of the BFG Repo Cleaner will result in there being no further record of deleted material and will result in a fundamental change to the GitHub history which will mean that any forks or clones will no longer be linked to the original repository.
+
+A note that a change like this has occurred to the GitHub history will appear on the `README.md` to notify people of the change but will not detail the reasons why.
+:::
+
+If the contributor and the complainant are unable to agree a solution, the material will remain unavailable through the website until a time when a resolution has been reached.
+
+## Sensitive information
+
+In the event that any sensitive information has been published changes will be made immediately to the text and code (including history) to redact the data.
+
+Examples include but are not restricted to: 
+
+- patient data
+- staff data
+- small numbers which make groups identifiable 
+- authorisation codes that are not Patient Access Tokens as these are automatically deleted (as tokens) by GitHub.
+
+It is likely that this situation will also require incidents being raised in NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations and may be considered as breaches.
+
+### Pull Requests/Forks/clones with sensitive information
+
+In the event that sensitive information exists in forks/clones or is from another GitHub repository and has been submitted as a Pull Request, the core development team will be responsible for contacting and liaising with [GitHub](https://docs.github.com/en/support/contacting-github-support) to delete this information.
 
 # Acknowledgements
 
