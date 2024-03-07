@@ -31,6 +31,8 @@ Presentation slides and posters should not contain material that does not follow
 If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted in the abstract and, in the case of oral contributions, at the start of the talk or session.
 If the slides are shared or hosted by NHS-R Community, these should also contain a covering slide and details in the README to highlight the inclusion of this content.
 
+## Core Development Team {#core-team}
+
 The NHS-R Community has a core development team which consists of:
 
 * [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct

@@ -9,7 +9,7 @@ Our goal is to promote R - extended to data science tools - and to do this in an
 
 ## Contact us {#contact-us}
 
-The NHS-R Community can be found on [Slack](#slack) and the core support team through the email [the core development team](#contact-us).
+The NHS-R Community can be found on [Slack](#slack) and the [core development team](#core-team) through the email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net).
 
 ::: {.callout-tip title="Where to start?"}
 This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
