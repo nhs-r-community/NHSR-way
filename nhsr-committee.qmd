@@ -61,3 +61,7 @@ Meetings will be recorded and put onto YouTube as unlisted so are not available 
 
 The open Slack channel #nhsr-committee will be available for public (within NHS-R Slack) discussions outside of meetings. 
 This will be promoted periodically to the wider Slack members for their awareness of ways to contact the Committee.
+
+## Minutes
+
+Once agreed minutes will be uploaded as markdown files to the NHS-R Community GitHub repository [https://github.com/nhs-r-community/meetings-public](https://github.com/nhs-r-community/meetings-public)
