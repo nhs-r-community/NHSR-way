@@ -18,6 +18,7 @@ book:
   chapters:
     - index.qmd
     - code-of-conduct.qmd
+    - nhsr-committee.qmd
     - style-guides.qmd
     - community-handbook.qmd
     - training.qmd

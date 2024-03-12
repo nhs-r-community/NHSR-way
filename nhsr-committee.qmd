@@ -1,0 +1,63 @@
+# NHS-R Community Committee {.unnumbered}
+
+## Terms of Reference
+
+## Purpose
+
+The purpose of the committee is to:
+
+* agree and support the purpose for the NHS-R Community.
+* develop and deliver a programme to support the purpose which has included webinars, workshops, and conferences.
+* make the NHS-R Community a welcome and inclusive space where members can share, connect and support each other.  
+* steer the direction and vision of NHS-R Community by making use of available data such as survey results, engagement statistics and event attendance reports. 
+
+## Governance
+
+The working group is chaired by a representative from the hosting body, the Strategy Unit, who will have overall responsibility for the governance and financial running of NHS-R Community.
+
+As part of the support from The Strategy Unit administrative support is provided to manage the events held as part of NHS-R Community and will be available to take brief notes. 
+
+Meetings will be held regularly and dependent upon requirements of NHS-R Community at a minimum of once a month.
+
+## Membership
+
+The committee will comprise of volunteer representatives of the wider community including NHS, central government, local government, public sector, voluntary, charities and academia. Whilst no one will be precluded from joining who is not currently employed by any of these organisations it is expected that individuals are mindful of the purpose of NHS-R Community to promote the use of open-source data science tools within these organisations specifically.
+
+Members will be asked to meetings, at a minimum of monthly, and where possible volunteer for additional tasks to support NHS-R Community, as well as disseminating information about NHS-R Community to their own networks.
+Members will be asked to reconfirm their commitment to the group every six months. 
+There will be no specific limitation to the size of the Committee as it is recognised that this Committee may create sub-groups to support particular activities.
+
+Specific volunteers are sought to act as:
+
+* Champions of NHS-R Community for particular networks
+* Communications lead
+Responsible for the development of communications plan to promote Community activities in conjunction with representatives of The Strategy Unit
+* Evaluation lead
+Responsible for the development monitoring and evaluation plans for the NHS-R Community
+
+Other roles may be introduced when needed.
+
+## Outputs
+
+Lead on the development of a schedule of community meetups, encouraging wider collaboration beyond the NHS and the domain knowledge of R.
+
+Develop a communications and engagement strategy for the community.
+
+Establish an evaluation process to ascertain impact/effectiveness of the community initiatives.
+
+Lead on development of the community-led handbook NHS-R Way.
+
+Support the establishment and management of subcommunities.
+
+## Meetings
+
+Working group meetings to be held at least every month for one hour with minutes to be shared publicly on the NHS-R Community GitHub. 
+
+Meetings will increase in frequency as determined by the group, particularly in preparation for large events like conferences.
+
+Meetings will be held on Tuesday 3-4pm as determined by an initial poll but can be rescheduled where required.
+
+Meetings will be recorded and put onto YouTube as unlisted so are not available publicly. 
+
+The open Slack channel #nhsr-committee will be available for public (within NHS-R Slack) discussions outside of meetings. 
+This will be promoted periodically to the wider Slack members for their awareness of ways to contact the Committee.
