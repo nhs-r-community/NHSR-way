@@ -178,11 +178,11 @@ Possible responses may include:
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the core development team to the individual(s) involved.
   In this case, the core development team member will deliver that reprimand to the individual(s) over email, cc'ing [the core development team](#contact-us) for record keeping.
-* A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.).
+* A public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
   Zoë Turner and Chris Beeley will communicate this "time out" to the individual(s) involved.
-* A permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events etc).
+* A permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events and so on).
   The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
@@ -221,7 +221,7 @@ The contributor will be notified that the material is subject to a removal reque
     - The material is permanently removed from our website including the GitHub code history which will remove the material using the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) as recommended by GitHub.
    
 :::{.callout-warning collapse=false appearance='default' icon=true}
-## Permenant change to GitHub history (warning)
+## Permanent change to GitHub history (warning)
 Note that the use of the BFG Repo Cleaner will result in there being no further record of deleted material and will result in a fundamental change to the GitHub history which will mean that any forks or clones will no longer be linked to the original repository.
 
 A note that a change like this has occurred to the GitHub history will appear on the `README.md` to notify people of the change but will not detail the reasons why.
