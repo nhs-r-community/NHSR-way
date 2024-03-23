@@ -114,6 +114,11 @@ HTML output:
 ```R
 x <- c(1:21)
 ```
+## Referencing R packages and functions in text
+
+Because a number of popular R packages use common names like janitor it can help distinguish the word refers to a package by using curly brackets: {janitor}.
+
+To highlight the use of a package in text using markdown formatting put function names in back ticks: `mutate()` along with rounded brackets.
 
 # Style Guide for code
 
@@ -140,6 +145,12 @@ NHS-R Community repositories are licenced under [MIT](https://pitt.libguides.com
 and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for text based projects like training and books (like this):
 
 >allows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share.
+
+## {styler}, {lintr} packages and tidyverse Style Guide
+
+It is highly recommended that code that is produced for and by NHS-R Community has {styler} applied to it as detailed in the [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/workflow-style) and the [tidyverse style guide](https://style.tidyverse.org/index.html?q=styler#welcome).
+
+The use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.
 
 # READMEs in repositories
 
