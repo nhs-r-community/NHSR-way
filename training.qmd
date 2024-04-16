@@ -106,6 +106,24 @@ If you require permission for programs to be installed on your computer by an IT
 
 ## Introduction to R and RStudio course materials
 
+### Viewing published slides
+
+All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-r-rstudio.nhsrcommunity.com/>
+
+
+### Installing packages
+
+Packages are installed on the cloud as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
+
+Other packages mentioned in the course (but are also installed as part of the learning) are:
+
+``` r
+install.packages(c("beepr", "styler", "janitor", "stringr", "stringi"))
+```
+### Downloading all materials
+
+_This is not necessary for the course_
+
 The Introduction to R and RStudio workshop data used in the course can be found in a specific [repository](https://github.com/nhs-r-community/intro_r_data).
 Click on the green <kdb>Code</kbd> button
 
@@ -119,30 +137,19 @@ usethis::use_course("nhs-r-community/intro_r_data")
 ```
 ### Downloading course slides **only**
 
+_This is not necessary for the course_
+
 If you want to have the slides on your computer, they can be downloaded from another [repository](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
 
 This is just the slides and not the underlying code used to produce the slides.
 
-### Installing packages
-
-Packages are installed on the cloud as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
-
-Other packages mentioned in the course (but are also installed as part of the learning) are:
-
-``` r
-install.packages(c("beepr", "styler", "janitor", "stringr", "stringi"))
-```
 
 ## Introduction to Git and GitHub using R course materials
 
-The Introduction to Git and GitHub using R workshop materials can be found on a published [GitHub page](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github).
+### Viewing published slides
 
-### Downloading all course material
-
-To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
-
-![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-git-github.nhsrcommunity.com/>
 
 ### Installing packages
 
@@ -154,6 +161,14 @@ To use GitHub you will need to:
 
 * register and account at [GitHub](https://github.com/) 
 * and set up [2FA (two factor authentication)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
+
+### Downloading all course material
+
+_This is not necessary for the course_
+
+To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
 
 ## Introduction to Quarto course materials
 
@@ -168,11 +183,6 @@ The following code can be run from the Console in RStudio to download the same f
 install.packages("usethis")
 usethis::use_course("nhs-r-community/intro_quarto_data")
 ```
-### Downloading course slides
-
-If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
-Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
-
 ### Installing packages
 
 Packages are installed as part of the course on the cloud but the following are used which are not on CRAN and so require {remotes}:
@@ -190,6 +200,34 @@ As well as the following packages from CRAN:
 ``` r
 install.packages(c("tidyverse", "knitr"))
 ```
+### Downloading all course material
+
+_This is not necessary for the course_
+
+If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
+Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+## Shiny beginners course materials
+
+### Viewing published slides
+
+All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://shiny-beginners.nhsrcommunity.com/>
+
+### Installing packages
+
+Packages are installed as part of the course on the cloud but the following are used which are:
+
+``` r
+install.packages(c("tidyverse", "shiny", "bslibs"))
+```
+
+### Downloading all course material
+
+_This is not necessary for the course_
+
+To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/shiny-beginners) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
 
 ## Workshop confirmation emails
 
