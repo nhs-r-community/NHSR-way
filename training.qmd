@@ -110,7 +110,6 @@ If you require permission for programs to be installed on your computer by an IT
 
 All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-r-rstudio.nhsrcommunity.com/>
 
-
 ### Installing packages
 
 Packages are installed on the cloud as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
@@ -120,11 +119,12 @@ Other packages mentioned in the course (but are also installed as part of the le
 ``` r
 install.packages(c("beepr", "styler", "janitor", "stringr", "stringi"))
 ```
-### Downloading all materials
+### Downloading data
 
-_This is not necessary for the course_
+The Introduction to R and RStudio workshop data used in the course can be found in a specific repository
 
-The Introduction to R and RStudio workshop data used in the course can be found in a specific [repository](https://github.com/nhs-r-community/intro_r_data).
+<https://github.com/nhs-r-community/intro_r_data>
+
 Click on the green <kdb>Code</kbd> button
 
 ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
@@ -172,6 +172,12 @@ To download all the files (including the slides) then on the main [GitHub reposi
 
 ## Introduction to Quarto course materials
 
+### Viewing published slides
+
+All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-quarto.nhsrcommunity.com/>
+
+### Downloading data
+
 The Introduction to Quarto materials can be found in a specific [module](https://github.com/nhs-r-community/intro_quarto_data).
 Click on the green <kdb>Code</kbd> button
 
@@ -202,7 +208,7 @@ install.packages(c("tidyverse", "knitr"))
 ```
 ### Downloading all course material
 
-_This is not necessary for the course_
+_This is not necessary for the course and excludes the data which is from a different repository_
 
 If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
