@@ -37,7 +37,7 @@ The NHS-R Community Way reflects our:
 * activities
 * above all the community
 
-Everything here is available for free under a CC-BY licence. Please use and re-use whatever you need, for any purpose and all the book is collaboratively written and open from the start. To make this book and the community truly accessible to everyone, we invite you to contribute your skills and bring your perspectives into this project. 
+Everything here is available for free under a CC0 1.0 licence. Please use and re-use whatever you need, for any purpose and all the book is collaboratively written and open from the start. To make this book and the community truly accessible to everyone, we invite you to contribute your skills and bring your perspectives into this project. 
 Write and issue, do a pull request or even [the core development team](#contact-us). 
 
 The NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. 
@@ -55,4 +55,4 @@ This book is based on [The Turing Way](https://the-turing-way.netlify.app/index.
 
 # Citing the NHS-R Community Way {.unnumbered}
 
-All material produced and shared by the NHS-R Community is available under open licences for reuse and this book is available under a CC-BY 4.0 licence. We ask that you also read and, maybe, also refer to The Turing Way project in your work as it was immensely helpful in getting this project set up and is a great resource worthy of continued citation.
+All material produced and shared by the NHS-R Community is available under open licences for reuse and this book is available under a CC0 1.0 licence. We ask that you also read and, maybe, also refer to The Turing Way project in your work as it was immensely helpful in getting this project set up and is a great resource worthy of continued citation.
