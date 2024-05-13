@@ -169,7 +169,20 @@ The use of the package {lintr} is also highly recommended and can show particula
 
 # READMEs in repositories
 
-As standard all NHS-R GitHub repository READMEs should include the following text that refers to the Code of Conduct in this book:
+
+As standard all NHS-R GitHub repository READMEs should include the following text: 
+
+```
+You can install the current version of {name of pacakge} from GitHub with:
+```
+```{r}
+#| eval: false
+#| echo: fenced
+
+# install.packages("remotes")
+remotes::install_github("nhs-r-community/name-of-package")
+
+```
 
 ```
 ## Contributing
