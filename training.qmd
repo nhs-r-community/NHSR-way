@@ -178,7 +178,7 @@ All course slides are available, published through GitHub but redirected through
 
 ### Downloading data
 
-The Introduction to Quarto materials can be found in a specific [module](https://github.com/nhs-r-community/intro_quarto_data).
+The Introduction to Quarto materials can be found in a specific [repository](https://github.com/nhs-r-community/intro_quarto_data).
 Click on the green <kdb>Code</kbd> button
 
 ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
