@@ -15,6 +15,10 @@ book:
   title: "NHSR-way"
   author: "NHS-R Community"
   date: last-modified
+  comments:
+    hypothesis: true
+    giscus:
+      repo: nhs-r-community/NHSR-way
   chapters:
     - index.qmd
     - code-of-conduct.qmd
