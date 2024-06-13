@@ -115,7 +115,7 @@ This account is managed by Chris Beeley, Zoë Turner and the administrative supp
 
 ## Website {#website}
 
-The NHS-R Community website is built using WordPress and hosted via [VergeLabs](https://vergelabs.co.uk/).
+The NHS-R Community website is built using WordPress and managed through [VergeLabs](https://vergelabs.co.uk/).
 We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events.
 
 ### Joining the website
@@ -124,11 +124,10 @@ Signing up is at no cost but email addresses are visible to the maintainers of t
 We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.
 
 Access to register events is based on the membership level and the default is fringe member.
-Core memberships is available to all NHS, public sector, civil servants, Voluntary, Charity and Academia and allows registration to all workshops and webinars.
-The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
-
-We restrict the numbers to workshops and so offer places only to Core members in the first instance.
+Core memberships is available to all NHS, public sector and civil servants and allows registration to all workshops and webinars.
+We restrict the numbers to workshops and so restrict places to just Core members.
 Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
+The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
 
 ### Changes of emails on website
 
@@ -220,4 +219,4 @@ People who have submitted blogs and who have accounts on the website have their 
 Coffee and coding is a group that was originally set up from an organisation in the NHS that has been extended to anyone within the NHS-R Community.
 Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/) on the format and how to join.
 
-
+Sign up form is through a [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdd1c_KLgPviEd7DjFDiYeE1w1kQeYPTh7S-G3Rm_Jvtq1JFQ/viewform) and currently managed by members directly.
