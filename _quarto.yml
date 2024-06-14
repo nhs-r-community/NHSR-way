@@ -26,6 +26,7 @@ book:
     - style-guides.qmd
     - community-handbook.qmd
     - training.qmd
+    - conference.qmd
     - references.qmd
   page-footer:
     left: |
