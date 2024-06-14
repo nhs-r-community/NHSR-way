@@ -1,0 +1,29 @@
+# Conference {.unnumbered}
+
+## Abstract examples 
+
+Abstracts have been kindly shared by successful submitters to give those new to submitting abstracts an idea of what is wanted by the audience and organisers of the NHS-R Community and NHS.Pycom conferences.
+
+These are not necessarily talks that will be acceptable for every year and we will be sharing our themes and scoring with abstract calls for conferences. 
+
+### Abstract for an on-line workshop (half-day)
+
+**Introduction to regression modelling in R**
+This workshop is the same one I've run several times over the last few years, for NHS-R, introducing regression and correlation analyses as analytical tools. 
+We introduce how linear regression allows us to interpret the relationship between two variables.  We then expand this to include more variables, different types (such as categorical data), and examine the outputs of models. 
+
+We discuss assessing model quality and predictive accuracy.
+We then introduce the Generalised Linear Model, and apply the principles of the earlier session to different kinds of data including count data and binary data.  The final sections introduces how to use fitted models to predict outcomes and how that can be used.
+
+### Abstract for a lightening talk (10 – 15 minutes)
+**Strategies to reduce cognitive load when coding**
+The volume of code produced as a project progresses can get overwhelming for the contributors. The talk will give a high level overview of the strategies that can be employed to make code more manageable. Inspired by the Targets package, the talk will discuss the benefits of a function based approach to writing code to improve readability and visibility of the workflow. The benefits of re-using functions, writing tests to ensure the functions are working as intended, and storing functions within a code library or package. The benefits of code reviews and strategies to implement these and how to use version control to support this process. The importance of user friendly documentation incorporating readme files, data dictionaries, flow diagrams and SOPs. The presentation will highlight strategies to reduce the cognitive load on code writers, reduce time debugging and make work easier to understand and handover to colleagues. The presentation will signpost to useful packages and resources to explore the topic further.
+
+**Did you hear? Base R is dead! Or is it?**
+I’ve spent most of my time in the public sector using the tidyverse, but I started learning R before the tidyverse existed (to be polite, you could call me ‘seasoned’). Recently I’ve started to write more base R code again. Why? I'll talk about how base R can do loads of neat stuff out of the box without you needing to install and update any packages (dependencies aren’t bad things per se, but can cause trouble if not managed appropriately). I'll also tell you about some recent additions, like the base pipe and lambda function notation, which demonstrate how base R is responding to the needs of the modern coder. Oh, and you can also do wacky stuff like make an interactive pixel-art creator, a persistent Tamagotchi pet, or a procedural dungeon-crawler. Note that this talk does not constitute a ‘base versus tidyverse' flamewar. It’s purely to appreciate the elegance of good ol’ base R and to highlight some things it can do that you might not have realised (or like me, you forgot a long time ago).
+
+Full details are shared: <https://github.com/matt-dray/nhs-r-2023>
+
+### Abstract for a plenary plenary talk (20-30 mins)
+**You should blog with Quarto**
+One of the most sensible things I’ve done in my life is start an R blog. Not for clout or sponsorship deals (yet!), but so I can (1) write down what I’ve learnt about R and refer to it later, (2) help people who are looking for answers and (3) improve my communication skills. Why don’t you join the blogger lifestyle too? Or maybe you already blog, but you want to do it more often and on a platform that you’ll actually enjoy using. I’ll walk you through the process of setting up a blog using Quarto, the most hip publishing framework around. That’s right, you can use R to set up your blog and write posts about R. I’ll talk about how to deploy it for free and automatically with Netlify and also how you can hook it up with that domain name you bought years ago but never got around to using. As a bonus, I’ll give you some prompts for what to write about and some insider info on what’s been the most successful and most rewarding content for me in over 150 posts to date.
