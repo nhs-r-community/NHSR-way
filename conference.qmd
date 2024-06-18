@@ -1,158 +1,102 @@
 # Conference {.unnumbered}
 
-## Abstract examples 
+## Abstract examples
 
 Abstracts have been kindly shared by successful submitters to give those new to submitting abstracts an idea of what is wanted by the audience and organisers of the NHS-R Community and NHS.Pycom conferences.
 
-These are not necessarily talks that will be acceptable for every year and we will be sharing our themes and scoring with abstract calls for conferences. 
+These are not necessarily talks that will be acceptable for every year and we will be sharing our themes and scoring with abstract calls for conferences.
 
 ### Abstract for an on-line workshop (half-day)
 
-**Introduction to regression modelling in R**
-This workshop is the same one I've run several times over the last few years, for NHS-R, introducing regression and correlation analyses as analytical tools. 
-We introduce how linear regression allows us to interpret the relationship between two variables.  We then expand this to include more variables, different types (such as categorical data), and examine the outputs of models. 
+**Introduction to regression modelling in R** This workshop is the same one I've run several times over the last few years, for NHS-R, introducing regression and correlation analyses as analytical tools. We introduce how linear regression allows us to interpret the relationship between two variables. We then expand this to include more variables, different types (such as categorical data), and examine the outputs of models.
 
-We discuss assessing model quality and predictive accuracy.
-We then introduce the Generalised Linear Model, and apply the principles of the earlier session to different kinds of data including count data and binary data.  The final sections introduces how to use fitted models to predict outcomes and how that can be used.
+We discuss assessing model quality and predictive accuracy. We then introduce the Generalised Linear Model, and apply the principles of the earlier session to different kinds of data including count data and binary data. The final sections introduces how to use fitted models to predict outcomes and how that can be used.
 
 ### Abstract for a lightening talk (10 – 15 minutes)
-**Strategies to reduce cognitive load when coding**
-The volume of code produced as a project progresses can get overwhelming for the contributors. The talk will give a high level overview of the strategies that can be employed to make code more manageable. Inspired by the Targets package, the talk will discuss the benefits of a function based approach to writing code to improve readability and visibility of the workflow. The benefits of re-using functions, writing tests to ensure the functions are working as intended, and storing functions within a code library or package. The benefits of code reviews and strategies to implement these and how to use version control to support this process. The importance of user friendly documentation incorporating readme files, data dictionaries, flow diagrams and SOPs. The presentation will highlight strategies to reduce the cognitive load on code writers, reduce time debugging and make work easier to understand and handover to colleagues. The presentation will signpost to useful packages and resources to explore the topic further.
 
-**Did you hear? Base R is dead! Or is it?**
-I’ve spent most of my time in the public sector using the tidyverse, but I started learning R before the tidyverse existed (to be polite, you could call me ‘seasoned’). Recently I’ve started to write more base R code again. Why? I'll talk about how base R can do loads of neat stuff out of the box without you needing to install and update any packages (dependencies aren’t bad things per se, but can cause trouble if not managed appropriately). I'll also tell you about some recent additions, like the base pipe and lambda function notation, which demonstrate how base R is responding to the needs of the modern coder. Oh, and you can also do wacky stuff like make an interactive pixel-art creator, a persistent Tamagotchi pet, or a procedural dungeon-crawler. Note that this talk does not constitute a ‘base versus tidyverse' flamewar. It’s purely to appreciate the elegance of good ol’ base R and to highlight some things it can do that you might not have realised (or like me, you forgot a long time ago).
+**Strategies to reduce cognitive load when coding** The volume of code produced as a project progresses can get overwhelming for the contributors. The talk will give a high level overview of the strategies that can be employed to make code more manageable. Inspired by the Targets package, the talk will discuss the benefits of a function based approach to writing code to improve readability and visibility of the workflow. The benefits of re-using functions, writing tests to ensure the functions are working as intended, and storing functions within a code library or package. The benefits of code reviews and strategies to implement these and how to use version control to support this process. The importance of user friendly documentation incorporating readme files, data dictionaries, flow diagrams and SOPs. The presentation will highlight strategies to reduce the cognitive load on code writers, reduce time debugging and make work easier to understand and handover to colleagues. The presentation will signpost to useful packages and resources to explore the topic further.
+
+**Did you hear? Base R is dead! Or is it?** I’ve spent most of my time in the public sector using the tidyverse, but I started learning R before the tidyverse existed (to be polite, you could call me ‘seasoned’). Recently I’ve started to write more base R code again. Why? I'll talk about how base R can do loads of neat stuff out of the box without you needing to install and update any packages (dependencies aren’t bad things per se, but can cause trouble if not managed appropriately). I'll also tell you about some recent additions, like the base pipe and lambda function notation, which demonstrate how base R is responding to the needs of the modern coder. Oh, and you can also do wacky stuff like make an interactive pixel-art creator, a persistent Tamagotchi pet, or a procedural dungeon-crawler. Note that this talk does not constitute a ‘base versus tidyverse' flamewar. It’s purely to appreciate the elegance of good ol’ base R and to highlight some things it can do that you might not have realised (or like me, you forgot a long time ago).
 
 Full details are shared: <https://github.com/matt-dray/nhs-r-2023>
 
 ### Abstract for a plenary plenary talk (20-30 mins)
-**You should blog with Quarto**
-One of the most sensible things I’ve done in my life is start an R blog. Not for clout or sponsorship deals (yet!), but so I can (1) write down what I’ve learnt about R and refer to it later, (2) help people who are looking for answers and (3) improve my communication skills. Why don’t you join the blogger lifestyle too? Or maybe you already blog, but you want to do it more often and on a platform that you’ll actually enjoy using. I’ll walk you through the process of setting up a blog using Quarto, the most hip publishing framework around. That’s right, you can use R to set up your blog and write posts about R. I’ll talk about how to deploy it for free and automatically with Netlify and also how you can hook it up with that domain name you bought years ago but never got around to using. As a bonus, I’ll give you some prompts for what to write about and some insider info on what’s been the most successful and most rewarding content for me in over 150 posts to date.
+
+**You should blog with Quarto** One of the most sensible things I’ve done in my life is start an R blog. Not for clout or sponsorship deals (yet!), but so I can (1) write down what I’ve learnt about R and refer to it later, (2) help people who are looking for answers and (3) improve my communication skills. Why don’t you join the blogger lifestyle too? Or maybe you already blog, but you want to do it more often and on a platform that you’ll actually enjoy using. I’ll walk you through the process of setting up a blog using Quarto, the most hip publishing framework around. That’s right, you can use R to set up your blog and write posts about R. I’ll talk about how to deploy it for free and automatically with Netlify and also how you can hook it up with that domain name you bought years ago but never got around to using. As a bonus, I’ll give you some prompts for what to write about and some insider info on what’s been the most successful and most rewarding content for me in over 150 posts to date.
 
 # RPySOC 24 Conference - call for abstracts
 
 21 and 22 November 2024, Hall 11, ICC Birmingham
 
-We are now inviting the submission of abstracts of presentations for
-inclusion in the conference programme.
+We are now inviting the submission of abstracts of presentations for inclusion in the conference programme.
 
 ## Programme
 
-Day one – 21 November  
+Day one – 21 November\
 This will be a full day with a mixture of plenary and lightning talks.
 
-Day two – 22  
+Day two – 22\
 November We will be dividing the meeting space and will run a mixture of plenary talks and lightning talks in one space and Unconference in the other space.
 
 ## Presentation categories
 
-Please note:  
-all talks will be in-person on 21 / 22 November.  
-Plenary talk (20 – 30 minutes)  
+Please note:\
+all talks will be in-person on 21 / 22 November.\
+Plenary talk (20 – 30 minutes)\
 Lightning talk (10 – 15 minutes)
 
 ## Book tickets
 
-We won’t be booking tickets on behalf of presenters or volunteers and
-ask that you manage the tickets for the two days (it may be that you
-only wish to attend the day that you are helping or presenting for
-example).
+We won’t be booking tickets on behalf of presenters or volunteers and ask that you manage the tickets for the two days (it may be that you only wish to attend the day that you are helping or presenting for example).
 
 ## Workshops
 
-We will be hosting virtual workshops throughout the year and we welcome
-submissions for workshops at any time. Please contact us on
-[nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net) with details.
+We will be hosting virtual workshops throughout the year and we welcome submissions for workshops at any time. Please contact us on [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net) with details.
 
 ## How to submit
 
-Please use this link: <https://www.smartsurvey.co.uk/s/RPYSOC24/> to
-complete the questionnaire and submit a short summary in the form of a
-250-word abstract.
+Please use this link: <https://www.smartsurvey.co.uk/s/RPYSOC24/> to complete the questionnaire and submit a short summary in the form of a 250-word abstract.
 
-The closing date for submissions is **26 July 2024**. We aim to respond by
-the end of August 2024.
+The closing date for submissions is **26 July 2024**. We aim to respond by the end of August 2024.
 
-Our conference team is on hand to help, if you have any queries, please
-contact us on [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net)
+Our conference team is on hand to help, if you have any queries, please contact us on [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net)
 
 ## Scoring
 
-We're really interested in ***how*** you did your analysis. Because the
-*how* can be a broad subject in coding we are also interested in
-learning the tools through you. Previous successful speakers have kindly
-agreed to share their abstracts which we’ve posted in the NHS-R Way
-<https://nhsrway.nhsrcommunity.com/conference.html> and give you an idea
-of what we are looking for in an abstract.
+We're really interested in ***how*** you did your analysis. Because the *how* can be a broad subject in coding we are also interested in learning the tools through you. Previous successful speakers have kindly agreed to share their abstracts which we’ve posted in the NHS-R Way <https://nhsrway.nhsrcommunity.com/conference.html> and give you an idea of what we are looking for in an abstract.
 
-Scoring criteria will be scored anonymously so please try to avoid as
-many personal details as possible, including any GitHub links.
+Scoring criteria will be scored anonymously so please try to avoid as many personal details as possible, including any GitHub links.
 
-Scoring this year is being tried out and is the first time that it has
-been shared as abstracts have been called for. Looking at the examples,
-we’d suggest that these would need to be adjusted slightly for this year
-to take these criteria into account and be explicit in how they cover
-the three points.
+Scoring this year is being tried out and is the first time that it has been shared as abstracts have been called for. Looking at the examples, we’d suggest that these would need to be adjusted slightly for this year to take these criteria into account and be explicit in how they cover the three points.
 
-+---------------------------------------------------+--------------+
-| Criteria                                          | points       |
-+===================================================+==============+
-| **Does the talk use, refer to or show R, Python,  | 2 points     |
-| git or another open-source language or program    |              |
-| that can be freely and openly used?**             |              |
-|                                                   |              |
-| We are looking for clear explanations on what     |              |
-| techniques were used.                             |              |
-+---------------------------------------------------+--------------+
-| **Is this relevant to health and social care?**   | 2 points     |
-|                                                   |              |
-| Even if this is a talk from a different domain    |              |
-| how would you suggest its relevant to this        |              |
-| audience?                                         |              |
-+---------------------------------------------------+--------------+
-| **Does this talk cover principles of Reproducible | 2 points     |
-| Analytical Pipelines – is generalisable, code     |              |
-| first, can be replicated by others or does it     |              |
-| cover principles or techniques of RAP?**          |              |
-|                                                   |              |
-| If you are new to RAP check out this great site   |              |
-| dedicated to it in the [NHS RAP Community of Practice](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/what_is_RAP/) |              |
-| The chapters summarise what we’d like to see:     |              |
-| modular/reusable code, transparency, open-source  |              |
-| tools, version control, good coding practices,    |              |
-| testing and peer review. Any part of this list    |              |
-| would be of interest and you don’t have to refer  |              |
-| to every point.                                   |              |
-+---------------------------------------------------+--------------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
+| Criteria                                                                                                                                                                                                                                                       | points       |
++================================================================================================================================================================================================================================================================+==============+
+| **Does the talk use, refer to or show R, Python, git or another open-source language or program that can be freely and openly used?**                                                                                                                          | 2 points     |
+|                                                                                                                                                                                                                                                                |              |
+| We are looking for clear explanations on what techniques were used.                                                                                                                                                                                            |              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
+| **Is this relevant to health and social care?**                                                                                                                                                                                                                | 2 points     |
+|                                                                                                                                                                                                                                                                |              |
+| Even if this is a talk from a different domain how would you suggest its relevant to this audience?                                                                                                                                                            |              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
+| **Does this talk cover principles of Reproducible Analytical Pipelines – is generalisable, code first, can be replicated by others or does it cover principles or techniques of RAP?**                                                                         | **2 points** |
+|                                                                                                                                                                                                                                                                |              |
+| If you are new to RAP check out this great site dedicated to it in the [NHS RAP Community of Practice](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/what_is_RAP/)                                                                |              |
+|                                                                                                                                                                                                                                                                |              |
+| The chapters summarise what we’d like to see: modular/reusable code, transparency, open-source tools, version control, good coding practices, testing and peer review. Any part of this list would be of interest and you don’t have to refer to every point.  |              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 
-We considered other criteria but wanted to make the system
-straightforward as possible for those submitting and also reviewing. The
-scoring points were also kept to a minimum but if we have many more
-abstracts than possible slots we may increase these points to give us
-more scope to help with accepting abstracts.
+We considered other criteria but wanted to make the system straightforward as possible for those submitting and also reviewing. The scoring points were also kept to a minimum but if we have many more abstracts than possible slots we may increase these points to give us more scope to help with accepting abstracts.
 
-If you want any help with writing your abstract do get in touch with us
-at [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net).
+If you want any help with writing your abstract do get in touch with us at [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
 ## Public sharing of recordings and presentations
 
-NHS-R Community and NHS.Pycom are committed to openly sharing their
-materials as much as possible. However, we have had requests in the past
-to not share parts of talks or presentations and these have been
-accommodated. Please let us know on the abstract form if you have any
-particular requirements in relation to not sharing and this can changed
-at any point up to publishing.
+NHS-R Community and NHS.Pycom are committed to openly sharing their materials as much as possible. However, we have had requests in the past to not share parts of talks or presentations and these have been accommodated. Please let us know on the abstract form if you have any particular requirements in relation to not sharing and this can changed at any point up to publishing.
 
-For materials we do strongly ask you present on open analysis and share
-your presentation as it’s a common question in the conference as people
-will want to see your work! Again, we are mindful that this isn’t always
-possible so if you cannot share your work please do consider alternative
-ways of sharing like using dummy data or snippets of code. If you need
-any support in publishing in the open do not hesitate in getting in
-touch with [nhsr.community\@nhs.net](mailto:nhs.rcommunity@nhs.net).
+For materials we do strongly ask you present on open analysis and share your presentation as it’s a common question in the conference as people will want to see your work! Again, we are mindful that this isn’t always possible so if you cannot share your work please do consider alternative ways of sharing like using dummy data or snippets of code. If you need any support in publishing in the open do not hesitate in getting in touch with [nhsr.community\@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
 ## Sponsorship
 
-NHS-R Community and NHS.pycom do not receive centralised funding so
-please get in touch if you would like to talk to us about sponsorship
-for holding a stand or if your presentation includes any marketing
-pitches.
+NHS-R Community and NHS.pycom do not receive centralised funding so please get in touch if you would like to talk to us about sponsorship for holding a stand or if your presentation includes any marketing pitches.
