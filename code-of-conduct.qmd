@@ -36,11 +36,12 @@ If the slides are shared or hosted by NHS-R Community, these should also contain
 The NHS-R Community has a core development team which consists of:
 
 * [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct
-* [Chris Beeley](mailto:chris1.beeley@nhs.net) - who leads the NHS-R Community
 
-The [central email](#contact-us) is accessed by Chris Beeley, Zoë Turner and administrative/support staff in The Strategy Unit.
+Escalation, as detailed in this book, are to [Chris Beeley](chris.beeley1@nhs.net), a senior manager in The Strategy Unit. 
 
-Both Chris Beeley and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Support Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+The [central email](#contact-us) is accessed by Zoë Turner and administrative/support staff in The Strategy Unit.
+
+Zoë Turner is an employee of NHS Midlands and Lancashire Commissioning Support Unit and is not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
@@ -126,8 +127,8 @@ Enforcement of the Code of Conduct should be respectful and not include any hara
 
 The Code of Conduct committee is:
 
-* Chris Beeley: chris.beeley1@nhs.net
 * Zoë Turner: zoe.turner3@nhs.net
+* Chris Beeley: chris.beeley1@nhs.net
 
 We will always seek to build a larger committee including members outside of the core development team.
 
