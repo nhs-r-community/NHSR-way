@@ -37,17 +37,18 @@ inclusion in the conference programme.
 
 ## Programme
 
-Day one – 21 November This will be a full day with a mixture of plenary
-and lightning talks.
+Day one – 21 November  
+This will be a full day with a mixture of plenary and lightning talks.
 
-Day two – 22 November We will be dividing the meeting space and will run
-a mixture of plenary talks and lightning talks in one space and
-Unconference in the other space.
+Day two – 22  
+November We will be dividing the meeting space and will run a mixture of plenary talks and lightning talks in one space and Unconference in the other space.
 
 ## Presentation categories
 
-Please note: all talks will be in-person on 21 / 22 November. Plenary
-talk (20 – 30 minutes) Lightning talk (10 – 15 minutes)
+Please note:  
+all talks will be in-person on 21 / 22 November.  
+Plenary talk (20 – 30 minutes)  
+Lightning talk (10 – 15 minutes)
 
 ## Book tickets
 
@@ -68,7 +69,7 @@ Please use this link: <https://www.smartsurvey.co.uk/s/RPYSOC24/> to
 complete the questionnaire and submit a short summary in the form of a
 250-word abstract.
 
-The closing date for submissions is 26 JULY 2024. We aim to respond by
+The closing date for submissions is **26 July 2024**. We aim to respond by
 the end of August 2024.
 
 Our conference team is on hand to help, if you have any queries, please
@@ -114,13 +115,7 @@ the three points.
 | cover principles or techniques of RAP?**          |              |
 |                                                   |              |
 | If you are new to RAP check out this great site   |              |
-| dedicated to it in the NHS [https://n hsdi        |              |
-| git                                               |              |
-| al.github.io/rap-community-ofpractice/introductio |              |
-| n_to_RAP/wh                                       |              |
-| at_is_RAP                                         |              |
-| /.](https://nhsdigital.github.io/rap%20-com%20mun |              |
-| ity-ofpractice/introduction_to_RAP/what_is_RAP/.) |              |
+| dedicated to it in the [NHS RAP Community of Practice](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/what_is_RAP/) |              |
 | The chapters summarise what we’d like to see:     |              |
 | modular/reusable code, transparency, open-source  |              |
 | tools, version control, good coding practices,    |              |
