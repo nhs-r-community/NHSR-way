@@ -153,7 +153,7 @@ This course expects a level of prior experience and understanding of R.
 Packages used:
 
 ``` r
-install.packages(c("tidyverse", "NHSRdatasets", "pacman"))
+install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor"))
 ```
 
 Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
