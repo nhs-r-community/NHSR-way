@@ -144,6 +144,19 @@ Using the same process as for `Downloading files` above you can download these t
 
 This is just the slides and not the underlying code used to produce the slides.
 
+## Intermediate R
+
+This course expects a level of prior experience and understanding of R.
+
+### Installing packages
+
+Packages used:
+
+``` r
+install.packages(c("tidyverse", "NHSRdatasets", "pacman"))
+```
+
+Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
 
 ## Introduction to Git and GitHub using R course materials
 
