@@ -60,9 +60,9 @@ If the person is using a Posit Cloud workspace and the course leader is an admin
 Sign up for a free Posit Cloud account at https://posit.cloud/ before the workshop. 
 Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.
 
-NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link. 
+NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link if all the files and necessary packages are pre-loaded.
 
-All the files and necessary packages are pre-loaded to the Cloud work space.
+### Pre-set Posit Cloud workspace
 
 When you first log in with the link shared in the email it will take you to an Posit Cloud screen that says about Joining a space. 
 Click on the blue button for Join Space:
@@ -73,9 +73,15 @@ The next screen that loads is a welcome page to the workshop and the final scree
 When this is selected the project gets copied so you will see both the original `Intro_R_RStudio` and your own new one called `Untitled`. 
 Although the word `continue` appears next to the original screen you will open your copy.
 
-### Difference between NHS-R workspaces and your own
+### Pre-set Posit Cloud in your own account {#own-cloud}
 
-You will be restricted to a certain [number of hours a month](https://posit.cloud/plans) on the free account which should be enough for the purpose of a day workshop, however, the NHS-R work space doesn't, currently, have that restriction. 
+It is possible to use your own Posit Cloud and this is restricted to a certain [number of hours a month](https://posit.cloud/plans) or RAM use as a free account.
+This should be enough for the purpose of a day workshop. 
+
+To set up a workspace it is possible to connect directly to GitHub and to do this create a `New Project`, the blue button on the far right under your account image.
+Select `New Project from Git Repostitory` from the drop down menu and then copy the URL of the Git Repository as directed as part of the course.
+
+Only the connect will be made and you will still need to install the relevant R packages.
 
 ### Taking the scripts to your own workspace
 
@@ -156,7 +162,29 @@ Packages used:
 install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor"))
 ```
 
+### GitHub repository
+
 Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
+
+### Setting up on Posit Cloud
+
+Follow the instructions as set out for [Pre-set Posit Cloud in your own workspace](#own-cloud) and connect to the link for the `GitHub repository`.
+
+### {usethis} package to get files
+
+For either the Cloud or your own computer the following code will install all the files:
+  
+``` r
+install.packages("usethis")
+usethis::use_course("nhs-r-community/intermediate_R_training")
+```
+
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Where does this save? (tip)
+
+The location this saves in is likely to be `C:\Users\your.name\` which is the `working directory` if you are working on a networked computer and you may wish to move this folder.
+
+:::
 
 ## Introduction to Git and GitHub using R course materials
 
