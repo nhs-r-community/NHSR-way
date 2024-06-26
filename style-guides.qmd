@@ -167,8 +167,36 @@ It is highly recommended that code that is produced for and by NHS-R Community h
 
 The use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.
 
-# READMEs in repositories
+# Logo
 
+The logo incorporates the [R logo](https://commons.wikimedia.org/wiki/File:R_logo.svg) available under the Creative Commons Atrribution-Share Alike 4.0 International licence and is available in png and svg formats through the [assets repository](https://github.com/nhs-r-community/assets/tree/main/logo).
+
+# Colour
+
+The NHS-R logo has been in use since 2018 and uses hex colours:
+
+NHS-R Blues- #215FAB, #2965AE
+NHS-R Greys- #9B9CA3, #B3B4B6
+
+These colours do not appear in the [NHS brand colours](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/) or [NHS Digital Service manual](https://service-manual.nhs.uk/design-system/styles/colour) (includes Sass variables).
+
+Colours for NHS-R Community outputs like the website, slides and themes are based on the NHS brand colours listed.
+
+### Themes
+
+- R package [{NHSRtheme}](https://github.com/nhs-r-community/NHSRtheme) with NHS colour themes
+- [Quarto report NHS theme](https://github.com/nhs-r-community/quarto-report-nhs-theme)
+- [Quarto NHS theme](https://github.com/nhs-r-community/quarto-nhs-theme)
+
+## Typography
+
+Where possible all other guidance from the [NHS Service Manual](https://service-manual.nhs.uk/design-system/styles/typography) is followed.
+
+NHS-R Community does use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to.
+
+Arial is used in all outputs following NHS guidance of using Arial where Frutiger is not available.
+
+# READMEs in repositories
 
 As standard all NHS-R GitHub repository READMEs should include the following text: 
 
