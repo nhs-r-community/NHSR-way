@@ -159,7 +159,8 @@ This course expects a level of prior experience and understanding of R.
 Packages used:
 
 ``` r
-install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor"))
+install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor", "zoo",
+"tm", "glue", "NHSRplotthedots"))
 ```
 
 ### GitHub repository
