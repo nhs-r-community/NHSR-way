@@ -27,6 +27,7 @@ book:
     - community-handbook.qmd
     - training.qmd
     - conference.qmd
+    - nhsr-vision.qmd
     - references.qmd
   page-footer:
     left: |
