@@ -1,10 +1,5 @@
 # Conference {.unnumbered}
 
-## Tickets
-
-We have a ticket system in place through our website and to help with the administration of signing people in at an in-person event we have used QR codes and a Shiny app.
-This worked extremely well in 2023 for the 2-day conference and all the code is available to use through [GitHub](https://github.com/nhs-r-community/conf-23-checkin) under an MIT licence.
-
 ## Abstract examples
 
 Abstracts have been kindly shared by successful submitters to give those new to submitting abstracts an idea of what is wanted by the audience and organisers of the NHS-R Community and NHS.Pycom conferences.
@@ -105,3 +100,24 @@ For materials we do strongly ask you present on open analysis and share your pre
 ## Sponsorship
 
 NHS-R Community and NHS.pycom do not receive centralised funding so please get in touch if you would like to talk to us about sponsorship for holding a stand or if your presentation includes any marketing pitches.
+
+## Administration
+
+### Tickets
+
+We have a ticket system in place through our website and to help with the administration of signing people in at an in-person event we have used QR codes and a Shiny app.
+This worked extremely well in 2023 for the 2-day conference and all the code is available to use through [GitHub](https://github.com/nhs-r-community/conf-23-checkin) under an MIT licence.
+
+### Submitted slides and code
+
+Repositories for code and slides were available for years: [2019](https://github.com/nhs-r-community/Conference_2019), [2020](https://github.com/nhs-r-community/Conference_2020) and [2022](https://github.com/nhs-r-community/conference-2022).
+
+In [2023](https://github.com/nhs-r-community/conference-2023) analysis code was used to check that abstract reviewers did not receive their own abstracts to check.
+
+### Videos
+
+All videos are loaded to YouTube and are only minimally edited and are collected together into the conference year playlist.
+
+Subtitles are generated automatically by YouTube and may contain errors.
+
+Timestamps are entered manually to the videos.
