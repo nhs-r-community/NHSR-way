@@ -167,6 +167,13 @@ It is highly recommended that code that is produced for and by NHS-R Community h
 
 The use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.
 
+## Package and function formatting
+
+As packages and functions in R sometimes use real words and can be confused in text, NHS-R Community refers to packages within curly brackets, for example, {tidyverse}, {ggplot2}, {janitor}.
+Functions are formatted with back ticks to change the rendered format and include the rounded brackets, for example, `summarise()` and `filter()`.
+
+The case will also match the original package and function.
+
 # Logo
 
 The logo incorporates the [R logo](https://commons.wikimedia.org/wiki/File:R_logo.svg) available under the Creative Commons Atrribution-Share Alike 4.0 International licence and is available in png and svg formats through the [assets repository](https://github.com/nhs-r-community/assets/tree/main/logo).
