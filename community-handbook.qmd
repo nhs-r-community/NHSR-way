@@ -121,44 +121,47 @@ We use the website to promote the NHS-R Community but also as an event managemen
 ### Joining the website
 
 Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also the [the core development team](#contact-us).
-We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for.
+We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for or to update the member on the website, for example any changes to terms and conditions.
 
-Access to register events is based on the membership level and the default is fringe member.
-Core memberships is available to all NHS, public sector and civil servants and allows registration to all workshops and webinars.
+#### Fringe and Core membership
+
+Access to register events is based on the membership level and the default is Fringe member.
+Core memberships is available to all NHS, public sector, civil servants, volutary sector, charities and academia and allows registration to all workshops and webinars.
+
+We also allow Core membership for anyone who has retired and was in these service and ask that you contact in advance, if possible, of your retirement and from a work address.
+
 We restrict the numbers to workshops and so restrict places to just Core members.
 Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
 The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
 
-### Changes of emails on website
+#### Author membership
+
+Authors are a status in the system given to those who have submitted a blog and this links their details with the blog.
+WordPress only allows for one status so this may affect the joining of events.
+
+#### Changes of emails on website
 
 As emails can be changed we will periodically go through and update personal emails to Fringe from Core, particularly around events like the conference.
-This is because tickets are restricted in number and we have to be mindful of people's work situations changing.
 
-### Confirming Core membership {#core-member}
+#### Confirming Core membership {#core-member}
 
-If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email and wish to use gmail, google and so on) or your account has been reset in preparation for events like the conference please contact [the core development team](#contact-us) with details of your situation.
+If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email or will be retiring) or your account has been reset in preparation for events like the conference please contact [the core development team](#contact-us) with details of your situation.
 
-### Deletion of website membership
+#### Deletion of website membership
 
-Currently, as the accounts are only used for event subscriptions, account from organisations that are known to have been closed will be deleted unless there is some other work attributed to the account (for example blogs).
-Under these circumstances the accounts will be moved the Fringe.
+Accounts cannot be deleted by the member themselves but can be deleted by emailing us through the [unsubscribe](mailto:nhs.rcommunity@nhs.net?subject=unsubscribe) link which creates a blank email with the word `unsubscribe` in the header. No other detail is required for the email and we will confirm when the account has been deleted.
 
-As of July 2023 the following accounts affected by this deletion are:
+Periodically we will email to update members on information in relation the website, for example any changes to terms and conditions, and delete any accounts with emails that are not delivered.
+Consequently, please always use a real email address if you want your account to stay active.
 
-- phe.gov.uk
-- nhsx.nhs.uk
-- england.nhs.uk
+We use the [Government Notify](https://www.notifications.service.gov.uk/) system which is also available for Public Sector organisations to use.
+Data is kept for 90 days and links from the emails are not tracked, however, we use Google Analytics on our published sites and books.
 
-Future deletions are expected for:
-
-- hee.nhs.uk
-
-
-### Password resets
+#### Password resets
 
 It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [the core development team](#contact-us) for this to be updated manually.
 
-### Issues with apostrophes in emails
+#### Issues with apostrophes in emails
 
 Unfortunately, where work email addresses have included the apostrophe in a person's surname the WordPress site prevents sign up but doesn't give a meaningful message.
 We've attempted to force the system by updating the email in the back, however, this still means a person cannot access the account as functionality is impaired because of the non-standard character. 
@@ -167,10 +170,12 @@ As we understand it, this is an issue on many systems so suggest that, where wor
 
 For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to [Core Member](#core-member).
 
-## Mailing list
+# Mailing list/Newsletter
 
-Currently the NHS-R Community does not hold a mailing list as we will have to ensure strict compliance with GDPR.
-It is advised to sign up to any system related to NHS-R Community with a work address but where a private address is used we will try to ensure that this is not shared.
+We have a free newsletter through [Substack](https://nhsrcommunity.substack.com/) which is open to view or subscribe to. 
+Subscribtions are managed directly by the user with Substack but emails are viewable to the NHS-R account.
+
+Podcasts are also connected to Substack.
 
 # Video Recording {#recordings}
 
@@ -193,26 +198,32 @@ This cannot be the default setting, unfortunately, as it relies upon having a Go
 
 If you had access to a video that becomes Private and still require access, please contact the [central email](#contact-us) with details, and if you are happy to share a Google email then please email this, from a work email so that we can verify your details.
 
-### Subtitles
+## Subtitles
 
 YouTube applies automatic subtitles after a period of time of uploading but at the moment we don't currently amend those subtitles given the time it requires.
 However, this is something that we would like to do in the future and this may mean we get support from community members.
 
+We are copying Podcasts over to YouTube to include subtitles and are using [Clipchamp](https://app.clipchamp.com/signup) to tidy them.
+
 # Blogs
 
-We host blogs on the NHS-R Community website and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code.
+We host blogs on the NHS-R Community website and are currently moving them over to a [Quarto site](https://nhsrcommunity.nhsrcommunity.com/) (in development) and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code.
 We review blogs before posting and will give feedback if there are any reasons that we can't publish.
 Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.
 
-Submissions for blogs can be in any format but need to be easily copied and pasted to [the core development team](#contact-us). 
+Submissions for blogs can be in any format but need to be easily copied and pasted by [the core development team](#contact-us). 
 For this reason pdf formats are not necessarily the easiest to share content.
-Blogs can also be submitted as a Pull Request to the dedicated repository on GitHub called [NHSR-blogs](https://github.com/nhs-r-community/NHSR-blogs).
-These can be in formats: `.md`, `.Rmd` or `.qmd`.
 
+Blogs can also be submitted as a Pull Request to the dedicated (in development) [Quarto website GitHub](https://github.com/nhs-r-community/nhs-r-community).
+
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Alternative text
 Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility.
-This includes any pictures used for visual impact and not necessarily to add to the content directly.
 
-People who have submitted blogs and who have accounts on the website have their account altered to be a `Blogger` which shows their name in the Post and means they can amend the blog and respond to any comments.
+This includes any pictures used for visual impact and not necessarily to add to the content directly.
+:::
+
+People who have submitted blogs and who have accounts on the website have their account altered to be a `Author` which shows their name in the Post and means they can amend the blog and respond to any comments.
 
 # Coffee and coding
 
