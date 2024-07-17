@@ -227,10 +227,26 @@ People who have submitted blogs and who have accounts on the website have their 
 
 # Coffee and coding
 
-Coffee and coding is a group that was originally set up from an organisation in the NHS that has been extended to anyone within the NHS-R Community.
-Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/) on the format and how to join.
+Coffee and coding is a group that was originally set up from NHS England and has been extended to anyone within the NHS-R Community.
+Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/).
 
-Sign up form is through a [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdd1c_KLgPviEd7DjFDiYeE1w1kQeYPTh7S-G3Rm_Jvtq1JFQ/viewform) and currently managed by members directly.
+In response to feedback and to assist with accessibility of these sessions, we have decided to mix up the days and times these meetings are on.
+Hopefully, this will allow us to increase our reach.
+We will still be running a session every two weeks, but the day will change across Wednesdays, Thursdays, and Fridays.
+
+We strive to maintain community led content and would very much like to tailor these sessions to be useful, no matter what stage you at with your R journey.
+
+There is a constant call to show us what you have been up to, anything you are working on, any issues you may have.
+This is an opportunity to share what you have learned and to ask a wider audience how to do things. 
+Get some friendly feedback and QA.
+We very much want to foster this as a safe space to ask questions, get advice and create possible spin off sessions if there are specific areas to cover. 
+
+Your input into making these sessions interactive and your feedback is critical in steering these sessions.
+These are your sessions, and you have a voice as to what you would like to see.
+
+The group is virtual and through MS Teams on the same link.
+Booking is through <https://events.nhsrcommunity.com/coffee-and-code/> which generates an email with the link and a calendar invitation `ics`.
+Note that the events are only for 2024.
 
 Recordings are available through FutureNHS which is a platform that anyone can join but workspaces are sometimes restricted.
 The NHS England R Community workspace where the [Coffee and Coding recordings](https://future.nhs.uk/NHSERcommunity/view?objectID=41908688) are not restricted.
