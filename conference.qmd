@@ -57,7 +57,18 @@ We will be hosting virtual workshops throughout the year and we welcome submissi
 
 Please use this link: <https://www.smartsurvey.co.uk/s/RPYSOC24/> to complete the questionnaire and submit a short summary in the form of a 250-word abstract.
 
-The closing date for submissions is **26 July 2024**. We aim to respond by the end of August 2024.
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Abstract extension!
+
+The closing date has been extended to **12 August 2024**!
+
+The first day is sold out on tickets so if you haven't already done so please book a free ticket and then submit an abstract.
+
+If you can't make the conference but would like to share your presentation we have regular virtual [webinar](#webinar) slots throughout the year. 
+:::
+
+
+The closing date for submissions is *26 July 2024*. We aim to respond by the end of August 2024.
 
 Our conference team is on hand to help, if you have any queries, please contact us on [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net)
 
