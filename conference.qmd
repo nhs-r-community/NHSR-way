@@ -102,6 +102,32 @@ We considered other criteria but wanted to make the system straightforward as po
 
 If you want any help with writing your abstract do get in touch with us at [nhs.rcommunity\@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
+## Sifting of abstracts
+
+As for 2023 we have received more abstracts than potential slots for talks in 2024 so we will be sifting through them.
+
+The Committee have discussed the process of sifting and originally had considered, as has happened on previous years, giving a number of abstracts to each person to score.
+However, some Committee members had felt that this process only means they get to see a subsection of the talks and so it becomes harder to score in relation to each other.
+As for applications in the NHS we will therefore share all abstracts with everyone who has volunteered from the Committee.
+
+The chair for the Committee, Zoë Turner, will not be involved in the abstract scoring as there will be less bias if there are issues or close scoring of the abstracts.
+
+We will ask people to declare their interests in an abstract on the basis of:
+
+- you should not score your own abstract
+- you should not score an abstract from your team
+
+Whilst we will be stripping the abstracts of identifiable information provided as part of the survey we won't be able to remove that from the abstracts themselves (particularly where people refer to their team/organisation/project or R packages).
+Therefore we also ask scorers to:
+
+- please consider the extent of bias you have if you recognise the abstract content
+
+We hope to have enough volunteers to get a wide range of opinions for the scoring, to allow many declarations of interest and also to be flexible where people find their work commitments mean they can no longer contribute to the scoring.
+
+We hope to have the scoring done within 2 weeks from sending the abstracts.
+
+As we refine this abstract scoring system we will update the NHS-R Way to reflect these changes.
+
 ## Public sharing of recordings and presentations
 
 NHS-R Community and NHS.Pycom are committed to openly sharing their materials as much as possible. However, we have had requests in the past to not share parts of talks or presentations and these have been accommodated. Please let us know on the abstract form if you have any particular requirements in relation to not sharing and this can changed at any point up to publishing.
