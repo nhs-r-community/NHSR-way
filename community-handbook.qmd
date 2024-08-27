@@ -126,7 +126,7 @@ We do not use email addresses to bulk email and contact is only ever in relation
 #### Fringe and Core membership
 
 Access to register events is based on the membership level and the default is Fringe member.
-Core memberships is available to all NHS, public sector, civil servants, volutary sector, charities and academia and allows registration to all workshops and webinars.
+Core memberships is available to all NHS, public sector, civil servants, voluntary sector, charities and academia and allows registration to all workshops and webinars.
 
 We also allow Core membership for anyone who has retired and was in these service and ask that you contact in advance, if possible, of your retirement and from a work address.
 
