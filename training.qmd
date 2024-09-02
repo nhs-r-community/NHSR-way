@@ -49,7 +49,7 @@ The Cloud is restricted to a certain [number of hours a month](https://posit.clo
 ## Why use your own computer? (tip)
 Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. 
 
-VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.
+VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps viewed through the browser on the Cloud.
 :::
 
 If you are using your own computer please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
