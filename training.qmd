@@ -2,47 +2,22 @@
 
 ## Posit Cloud {#training}
 
-NHS-R Community pay for an account to use workspaces and projects for training/workshops.
-These mean that people can have projects that are set up with all the packages they require, have access to the latest version of R and RStudio and projects can be preloaded with any scripts or data.
-This account is also used for technical training hosted by The Strategy Unit.
+As of September 2014 NHS-R Community no longer has a paid account to use workspaces and projects for training/workshops.
 
 ::: {.callout-warning}
 As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to never use the Cloud for analysis of any sensitive data.
 :::
-
-The Posit Cloud account is monitored and maintained by admins who have access to all projects and individual's projects in the workspaces.
-Admins can be contacted through [the core development team](#contact-us).
-
-## Administrators accessing projects
-
-Accessing projects can be helpful to see code issues that cannot be shared by any other method. 
-However, this can only occur with an account with admin rights.
-Also, only one person can be in a project at any one time so accessing a project as admin will result in the project owner being forced to leave.
-
-## Sharing of workspace urls
-
-Workspace urls are only shared by email or within courses and are not published publicly as they are open to anyone to access.
 
 ### Posit Cloud terminology
 
 The *workspace* is the overall work area that is managed by a person for a training session or workshop.
 The *projects* are set up within the workspace and are set to duplicate for individual's to also join the workspace.
 
-::: {.callout-note}
-Administrators for workspaces can see everyone's project and can enter them if required.
-
-Only one person at a time can be in a project.
-:::
-
-## Deletion of Posit workspaces and projects
-
-To ensure that the Cloud is manageable and being used appropriately, projects can be moved by their creator to their own personal workspace.
-
-### Actively used workspaces
+### Actively used workspaces [Archived For Information]
 
 Projects in active workspaces, like the Introduction to R and R Studio workshop, will be archived after 3 months which means the project isn't counted in the Cloud usage but is still retrievable.
 
-### One off workspaces
+### One off workspaces [Archived For Information]
 
 Workspaces for one off events like at conferences will be archived after 3 months and deleted after 6 months.
 
@@ -53,106 +28,125 @@ Workspaces for one off events like at conferences will be archived after 3 month
 Many of the course and workshop formats expect a "code along" approach which is best done with 2 screens for comfort of moving between the demonstration and using RStudio on your computer. 
 
 Where users use two separate computers to enable having 2 screens, this may cause issues with sharing code in the chat functions and it will not be possible to share the coding screen for debugging support. 
-If the person is using a Posit Cloud workspace and the course leader is an administrator then the course leader can access the project to debug.
 
-### Set up Posit Cloud
+### Step zero - set up Posit Cloud {#own-cloud}
 
-Sign up for a free Posit Cloud account at https://posit.cloud/ before the workshop. 
-Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Why use the Posit Cloud? (tip)
+If you haven't got R or RStudio on your computer, older versions of these programs or very tight restrictions on work computer networks (VPNs) then you can use the Posit Cloud for the workspace.
 
-NHS-R Community will send an email confirmation that will include the specific Posit Cloud work space invitation link if all the files and necessary packages are pre-loaded.
+There is still some setting up required though so follow the steps for each course and let us know if anything doesn't work or if instructions are not clear at [the core development team](#contact-us).
+:::
 
-### Pre-set Posit Cloud workspace
+- Sign up for a free Posit Cloud account at https://posit.cloud/ before the workshop. 
+- Log in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.
 
-When you first log in with the link shared in the email it will take you to an Posit Cloud screen that says about Joining a space. 
-Click on the blue button for Join Space:
+The Cloud is restricted to a certain [number of hours a month](https://posit.cloud/plans) or RAM use as a free account and this should be enough for the purpose of a day workshop. 
 
-![Screenshot of the work space view in R Studio Cloud](img/rstudio-cloud.PNG)
+### Step zero - setting up your own laptop/computer
 
-The next screen that loads is a welcome page to the workshop and the final screen will have a project in it that, in this example, is called `Intro_R_RStudio`. 
-When this is selected the project gets copied so you will see both the original `Intro_R_RStudio` and your own new one called `Untitled`. 
-Although the word `continue` appears next to the original screen you will open your copy.
-
-### Pre-set Posit Cloud in your own account {#own-cloud}
-
-It is possible to use your own Posit Cloud and this is restricted to a certain [number of hours a month](https://posit.cloud/plans) or RAM use as a free account.
-This should be enough for the purpose of a day workshop. 
-
-To set up a workspace it is possible to connect directly to GitHub and to do this create a `New Project`, the blue button on the far right under your account image.
-Select `New Project from Git Repostitory` from the drop down menu and then copy the URL of the Git Repository as directed as part of the course.
-
-Only the connect will be made and you will still need to install the relevant R packages.
-
-### Taking the scripts to your own workspace
-
-To move the project you've created to your own work space (which is available with the account you set up) select the moving trolley icon:
-
-![Screenshot of the project name and to the right 4 icons, the bin for delete, moving trolley, the down arrow to download and three dots in a circle](img/select-icon-to-move.PNG)
-
-Then select `Your work space`. If you've been invited to any other work space you will also see them in the same Move Content screen:
-
-![Screenshot of the Move Content wizard with 3 options, Your work space and two others from NHS-R](img/move-content-menu.PNG)
-
-It's possible to download your files instead by using the down arrow by the Project.
-
-### Using your own laptop/computer
-
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Why use your own computer? (tip)
 Some VPNs (Virtual Private Networks) block access to Posit Cloud or you may wish to use your own computer. 
-VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.
 
-If that is the case please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
+VPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps.
+:::
+
+If you are using your own computer please ensure you have the **latest** [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
 Technical guidance on what programs are required and how to get those installed can be found in the NHSR Community [Statement on Tools](https://tools.nhsrcommunity.com/technical-r.html) book.
 
-It is important to have the latest R installed as older versions of R have had issues when installing {tidyverse} packages. 
-Errors say that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from Posit community may help. 
+It is important to have the latest R installed as older versions have had issues when installing {tidyverse} packages. 
+Errors may come up saying that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. 
+Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from Posit community may help. 
 
 ::: {.callout-warning}
 If you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.
 :::
 
-## Introduction to R and RStudio course materials
+### Step one - installing packages {#step-one}
+
+Each course will list out what packages are required for the course but the following package will be useful for downloading any data you require for the workshop whether that's the [Introduction to R and RStudio](#intro-r-course) or another course. 
+
+The following code can be copied and pasted into the bottom left/or far left section of RStudio called "Console" and then pressing Return:
+
+``` r
+install.packages("usethis")
+```
+
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Installing packages (tip)
+Installing packages will be a regular feature of coding using R so you will see the code `install.packages()` in many of the courses!
+:::
+
+### Step two - Downloading data {#step-two}
+
+Each course will have its own repository with its data/files and there are multiple ways of getting that to your computer or into Posit Cloud:
+
+Option 1. get data by downloading from the GitHub repository by clicking on the green <kdb>Code</kbd> button
+
+![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+
+Option 2. running the {usethis} code in the Console for the R code to do this download for you
+
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## Where does data save when using {usethis} code? (tip)
+
+On your own computer it's likely {usethis} will save to `C:\Users\your.name\` which is the `working directory` if you are working on a networked computer and you may wish to move this folder from the default.
+:::
+
+On Posit Cloud the data will save automatically in the `home` folder of the main root `Cloud`. 
+The Cloud workspace is a Project and using {usethis} creates a project so this becomes "nested" so it's better to connect directly from Posit Cloud to the GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
+From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
+
+[Introduction to R and RStudio]({#intro-r-course})
+[Intermediate R](#intermediate)
+[Introduction to Quarto](#intro-quarto)
+[Introduction to Git/GitHub using R](#intro-git)
+[Introduction to Shiny](#shiny)
+
+## Introduction to R and RStudio course materials {#intro-r-course}
 
 ### Viewing published slides
 
-All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-r-rstudio.nhsrcommunity.com/>
+<https://intro-r-rstudio.nhsrcommunity.com/>
 
 ### Installing packages
 
-Packages are installed on the cloud as part of the course but the [slide](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages) about packages from the course has details of the main package used and the code required to install.
+Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/loading-package) using RStudio or [via code](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages).
 
-Other packages mentioned in the course (but are also installed as part of the learning) are:
+### Get data
 
-``` r
-install.packages(c("beepr", "styler", "janitor", "stringr", "stringi"))
-```
-### Downloading data
+The Introduction to R and RStudio workshop data used in the course can be found in a specific repository:
 
-The Introduction to R and RStudio workshop data used in the course can be found in a specific repository
+<https://github.com/nhs-r-community/intro_r_data> and follow the instructions on [downloading data](#step-two).
 
-<https://github.com/nhs-r-community/intro_r_data>
+If you want to use the {usethis} code you will need:
 
-Click on the green <kdb>Code</kbd> button
-
-![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
-  
-The following code can be run from the Console in RStudio to download the same files:
-  
 ``` r
 install.packages("usethis")
 usethis::use_course("nhs-r-community/intro_r_data")
 ```
+
 ### Downloading course slides **only**
 
-_This is not necessary for the course_
+:::{.callout-note collapse=false appearance='default' icon=true}
+## Not a necessary step! (note)
+All the slides are published through GitHub to a redirected URL so should be available to all organisations.
+However, if you would still like to get copies then follow this section.
 
-If you want to have the slides on your computer, they can be downloaded from another [repository](https://github.com/nhs-r-community/intro_r/tree/gh-pages). 
-Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+Note that the files are html for greater accessibility and we do not provide the slides as PowerPoint or pdf.
+:::
 
-This is just the slides and not the underlying code used to produce the slides.
+Slides can be downloaded from a separate repository <https://github.com/nhs-r-community/intro_r/tree/gh-pages> using the same process as for [downloading data](#step-two).
 
-## Intermediate R
+These are just the slides and not the underlying code used to produce the slides which can be found in the main repository <https://github.com/nhs-r-community/intro-r-rstudio>.
+We have separated the code from the published slides and the data to not overwhelm beginners to R as there a lot of files!
 
-This course expects a level of prior experience and understanding of R.
+## Intermediate R {#intermediate}
+
+This course expects a level of prior experience and understanding of R.  
+
+Currently this course is script based and does not come in slide form.
 
 ### Installing packages
 
@@ -163,39 +157,26 @@ install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor", "zoo",
 "tm", "glue", "NHSRplotthedots"))
 ```
 
-### GitHub repository
+### Get data
 
 Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
 
-### Setting up on Posit Cloud
+If you want to use the {usethis} code you will need:
 
-Follow the instructions as set out for [Pre-set Posit Cloud in your own workspace](#own-cloud) and connect to the link for the `GitHub repository`.
-
-### {usethis} package to get files
-
-For either the Cloud or your own computer the following code will install all the files:
-  
 ``` r
 install.packages("usethis")
 usethis::use_course("nhs-r-community/intermediate_R_training")
 ```
 
-:::{.callout-tip collapse=false appearance='default' icon=true}
-## Where does this save? (tip)
-
-The location this saves in is likely to be `C:\Users\your.name\` which is the `working directory` if you are working on a networked computer and you may wish to move this folder.
-
-:::
-
-## Introduction to Git and GitHub using R course materials
+## Introduction to Git and GitHub using R course materials {#intro-git}
 
 ### Viewing published slides
 
-All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-git-github.nhsrcommunity.com/>
+<https://intro-git-github.nhsrcommunity.com/>
 
 ### Installing packages
 
-The following [slide](https://intro-git-github.nhsrcommunity.com/session-prework.html#/install-packages) published through GitHub details the packages used in the course.
+Follow the [course slide](https://intro-git-github.nhsrcommunity.com/session-prework.html#/install-packages).
 
 ### GitHub account
 
@@ -208,32 +189,17 @@ To use GitHub you will need to:
 
 _This is not necessary for the course_
 
-To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
+To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github> follow the instructions on [downloading data](#step-two).
 
-![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
-
-## Introduction to Quarto course materials
+## Introduction to Quarto course materials {#intro-quarto}
 
 ### Viewing published slides
 
-All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://intro-quarto.nhsrcommunity.com/>
+ <https://intro-quarto.nhsrcommunity.com/>
 
-### Downloading data
-
-The Introduction to Quarto materials can be found in a specific [repository](https://github.com/nhs-r-community/intro_quarto_data).
-Click on the green <kdb>Code</kbd> button
-
-![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
-
-The following code can be run from the Console in RStudio to download the same files:
-  
-``` r
-install.packages("usethis")
-usethis::use_course("nhs-r-community/intro_quarto_data")
-```
 ### Installing packages
 
-Packages are installed as part of the course on the cloud but the following are used which are not on CRAN and so require {remotes}:
+The following packages are used which are not on CRAN and so require {remotes} (and cannot be installed via the RStudio packages wizard):
 
 ``` r
 install.packages("remotes")
@@ -243,11 +209,25 @@ remotes::install_github("matt-dray/quartostamp")
 
 ```
 
-As well as the following packages from CRAN:
+Packages from CRAN:
 
 ``` r
 install.packages(c("tidyverse", "knitr"))
 ```
+
+### Get data
+
+The Introduction to Quarto materials data used in the course can be found in a specific repository:
+
+<https://github.com/nhs-r-community/intro_quarto_data)> and follow the instructions on [downloading data](#step-two).
+
+If you want to use the {usethis} code you will need:
+
+``` r
+install.packages("usethis")
+usethis::use_course("nhs-r-community/intro_quarto_data")
+```
+
 ### Downloading all course material
 
 _This is not necessary for the course and excludes the data which is from a different repository_
@@ -255,11 +235,11 @@ _This is not necessary for the course and excludes the data which is from a diff
 If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
 
-## Shiny beginners course materials
+## Shiny beginners course materials {#shiny}
 
 ### Viewing published slides
 
-All course slides are available, published through GitHub but redirected through the NHS-R Community url to <https://shiny-beginners.nhsrcommunity.com/>
+<https://shiny-beginners.nhsrcommunity.com/>
 
 ### Installing packages
 
@@ -273,16 +253,13 @@ install.packages(c("tidyverse", "shiny", "bslibs"))
 
 _This is not necessary for the course_
 
-To download all the files (including the slides) then on the main [GitHub repository](https://github.com/nhs-r-community/shiny-beginners) click on the green <kdb>Code</kbd> button on the repository and this will copy all the files.
-
-![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
+To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-r-community/shiny-beginners> follow the instructions on [downloading data](#step-two).
 
 ## Workshop confirmation emails
 
 The NHS-R Community confirmation email will include: 
 
 * the link to the workshop
-* the Posit Cloud specific workspace url and 
 * a calendar invitation
 
 If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by [the core development team](#contact-us).
@@ -302,4 +279,4 @@ The other recommendation is currently to work through UDAL if there is access.
 
 # Certificates of attendance
 
-Certificates for Continual Profession Development can be requested from [the core development team](#contact-us) for workshops and conferences but are not provided as standard.
+Certificates for Continual Profession Development can be requested from [the core development team](#contact-us) for workshops and conferences but are not provided as standard and we have not registered officially for any CPD points for these courses.
