@@ -98,10 +98,10 @@ On Posit Cloud the data will save automatically in the `home` folder of the main
 The Cloud workspace is a Project and using {usethis} creates a project so this becomes "nested" so it's better to connect directly from Posit Cloud to the GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
 From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
 
-[Introduction to R and RStudio]({#intro-r-course})
-[Intermediate R](#intermediate)
-[Introduction to Quarto](#intro-quarto)
-[Introduction to Git/GitHub using R](#intro-git)
+[Introduction to R and RStudio]({#intro-r-course})  
+[Intermediate R](#intermediate)  
+[Introduction to Quarto](#intro-quarto)  
+[Introduction to Git/GitHub using R](#intro-git)  
 [Introduction to Shiny](#shiny)
 
 ## Introduction to R and RStudio course materials {#intro-r-course}
