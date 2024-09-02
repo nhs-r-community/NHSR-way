@@ -2,7 +2,7 @@
 
 ## Posit Cloud {#training}
 
-As of September 2014 NHS-R Community no longer has a paid account to use workspaces and projects for training/workshops.
+As of September 2024 NHS-R Community no longer has a paid account to use workspaces and projects for training/workshops.
 
 ::: {.callout-warning}
 As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to never use the Cloud for analysis of any sensitive data.
