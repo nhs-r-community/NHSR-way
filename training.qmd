@@ -101,8 +101,19 @@ From the drop down that appears select `New Project from Git Repository`, then c
 [Introduction to R and RStudio]({#intro-r-course})  
 [Intermediate R](#intermediate)  
 [Introduction to Quarto](#intro-quarto)  
-[Introduction to Git/GitHub using R](#intro-git)  
-[Introduction to Shiny](#shiny)
+
+If you do want to use code then using the {here} package along with {usethis} will help put the folder in the `Cloud` root:
+
+```{r}
+install.packages(c("usethis", "here")) # if you haven't already done this and it won't break if you run it again
+
+usethis::use_course("nhs-r-community/intro_r_data", destdir = here::here()) # Intro to R and RStudio
+
+usethis::use_course("nhs-r-community/intermediate_R_training", destdir = here::here()) # Intermediate R
+
+usethis::use_course("nhs-r-community/intro_quarto_data", destdir = here::here()) # Intro to Quarto
+
+```
 
 ## Introduction to R and RStudio course materials {#intro-r-course}
 
