@@ -291,3 +291,7 @@ The other recommendation is currently to work through UDAL if there is access.
 # Certificates of attendance
 
 Certificates for Continual Profession Development can be requested from [the core development team](#contact-us) for workshops and conferences but are not provided as standard and we have not registered officially for any CPD points for these courses.
+
+To confirm attendance we will check the event registration (in person with a scanned QR code for example and virtually through the registration data generated from logging in).
+
+Note that we will only keep a record of who signed up to an event for the amount of time determined by our [event data retention](#retention).
