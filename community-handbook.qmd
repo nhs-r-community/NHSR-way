@@ -61,7 +61,7 @@ The latest podcast is published manually through the NHS-R Community WordPress s
 
 If you are interested in being in a podcast please contact [the core development team](#contact-us).
 
-# Social Media
+# Social Media {#social-media}
 
 ## NHS-R Slack {#slack}
 
@@ -115,15 +115,23 @@ This account is managed by the administrative support for NHS-R Community.
 
 ## Website {#website}
 
+:::{.callout-warning collapse=false appearance='default' icon=true}
+## Closing of WordPress site (warning)
+Work is in progress (as of September 2024) to close the WordPress site and move to a Quarto site published through GitHub and with event registration being supported from an external system.
+
+:::
+
+_The following information will be archived_
+
 The NHS-R Community website is built using WordPress and managed through [VergeLabs](https://vergelabs.co.uk/).
 We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events.
 
-### Joining the website
+Joining the website
 
 Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also the [the core development team](#contact-us).
 We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for or to update the member on the website, for example any changes to terms and conditions.
 
-#### Fringe and Core membership
+Fringe and Core membership
 
 Access to register events is based on the membership level and the default is Fringe member.
 Core memberships is available to all NHS, public sector, civil servants, voluntary sector, charities and academia and allows registration to all workshops and webinars.
@@ -134,20 +142,16 @@ We restrict the numbers to workshops and so restrict places to just Core members
 Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
 The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
 
-#### Author membership
+Author membership 
 
 Authors are a status in the system given to those who have submitted a blog and this links their details with the blog.
 WordPress only allows for one status so this may affect the joining of events.
 
-#### Changes of emails on website
+Changes of emails on website
 
 As emails can be changed we will periodically go through and update personal emails to Fringe from Core, particularly around events like the conference.
 
-#### Confirming Core membership {#core-member}
-
-If you are in a situation where you would like a Core membership but can only apply as a Fringe member (for example you cannot use your work email or will be retiring) or your account has been reset in preparation for events like the conference please contact [the core development team](#contact-us) with details of your situation.
-
-#### Deletion of website membership
+Deletion of website membership
 
 Accounts cannot be deleted by the member themselves but can be deleted by emailing us through the [unsubscribe](mailto:nhs.rcommunity@nhs.net?subject=unsubscribe) link which creates a blank email with the word `unsubscribe` in the header. No other detail is required for the email and we will confirm when the account has been deleted.
 
@@ -157,23 +161,143 @@ Consequently, please always use a real email address if you want your account to
 We use the [Government Notify](https://www.notifications.service.gov.uk/) system which is also available for Public Sector organisations to use.
 Data is kept for 90 days and links from the emails are not tracked, however, we use Google Analytics on our published sites and books.
 
-#### Password resets
+Password resets
 
 It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [the core development team](#contact-us) for this to be updated manually.
 
-#### Issues with apostrophes in emails
+Issues with apostrophes in emails
 
 Unfortunately, where work email addresses have included the apostrophe in a person's surname the WordPress site prevents sign up but doesn't give a meaningful message.
 We've attempted to force the system by updating the email in the back, however, this still means a person cannot access the account as functionality is impaired because of the non-standard character. 
-
 As we understand it, this is an issue on many systems so suggest that, where work emails have provided the email with an apostrophe that an alias account is linked without it to get around this issue.
 
-For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to [Core Member](#core-member).
+For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to Core Member.
 
-# Mailing list/Newsletter
+## Membership access to courses
+
+We restrict the numbers to workshops and offer these to Core members.
+Webinars though, don't have the same restrictions and so are open to everyone 
+
+`Core membership` is available to all NHS, public sector, civil servants, voluntary sector, charities and academia.
+Ticket systems like [Pretix](https://pretix.eu/about/en/) allow for accounts to be set up directly with them and through this we can offer "season tickets" once accounts have been accepted as `Core members` based on the email address.
+Any restricted ticket event will be restricted to all or mostly `Core membership` tickets.
+
+::: aside
+We are currently going through NHS Midlands and Lancashire CSU Information Governance and Cyber security systems to approve the Pretix system.
+:::
+
+The approval for `Core membership` will rely on [the core development team](#contact-us) approving on a case by case basis and if you are in a situation where you would like a Core membership but cannot apply (for example you cannot use your work email or will be retiring) please contact [the core development team](#contact-us) with details of your situation.
+
+We also allow Core membership for anyone who has retired and was in these services and ask that you contact in advance, if possible, of your retirement and from a work address.
+
+### Account deletion or changes
+
+Please contact [the core development team](#contact-us) for any of the following:
+
+To delete or change and account we can `Anonymize` your account where:
+
+>All orders will be disconnected from this customer account. The orders themselves will not be anonymized and can still contain personal information!
+The customer will no longer be able to log in and will lose access to any membership benefits.
+This action is irreversible.
+
+### Event data retention {#retention}
+
+Pretix offers the use of [data shredders](https://docs.pretix.eu/en/latest/api/resources/shredders.html) and we will remove all data from an event 3 to 6 months. 
+
+If this is an event that occurs on a series of days (like for Coffee and Coding) we will delete the event which is distinct to the order so future registrations are unaffected.
+
+### Security of account
+
+We recommend using 2FA (two-factor authentication) for any ticket system account you may set up to sign up to NHS-R Community events.
+
+### Password resets and updating of details
+
+It is possible to change email addresses/names and request a password reset directly with Pretix or contact [the core development team](#contact-us) where we can trigger a manual password reset.
+
+### Waiting list
+
+Event systems like Pretix allow for automatic waiting list management which means that a ticket can be automatically reassigned to a person next on the waiting list.
+We can change the settings for this and the default is 48 hours, but for popular events or those that are occurring in a few days we will reduce this response time.
+
+### Surveys
+
+We will use surveys for events to collect data that helps us understand.
+The following questions were used for Coffee and Coding, `*`are next to mandatory questions:
+
+- Where you heard about the event? *
+  - Social media
+  - Website
+  - Word of Mouth
+  - Slack
+  - Other (expand in a separate question)
+- Where you work?
+  - NHS Provider Trust
+  - ICB
+  - Primary Care
+  - Commissioning Support Unit
+  - Civil Service
+  - National Bodies (NHS England)
+  - Ambulance Trust
+  - Local Authorities
+  - Charity
+  - Voluntary Sector
+  - Other (expand in a separate question)
+- How would you describe your level of R knowledge?
+  - None/I'm totally new
+  - A beginner with the basics
+  - A reasonably confident beginner
+  - Intermediate, I can do some interesting stuff, maybe some functions
+  - Intermediate, pretty confident, building functions and basic RAP workflows
+  - Advanced, fully RAP workflows
+  - Advanced, perhaps object orientated R and advanced methods
+- How long have you been using R? *
+  - Never
+  - Less than one year
+  - A year or two
+  - Three years to five years
+  - More than 5 years
+- What do you regularly use?
+  - tidyverse
+  - ggplot2
+  - plotly
+  - Plotting but not using ggplot2 or plotly
+  - Quarto
+  - Rmarkdown
+  - Shiny
+  - gt (tables)
+  - dt tables
+  - base R
+  - data.table
+  - Other (expand in a separate question)
+
+Further questions for coffee and coding:
+- What would you like to see more of in coffee and coding?
+- What would you like to see less of in coffee and coding?
+- Are there any topics you would like us to cover in the future?
+- Any other comments?
+
+We can extract the data from the surveys from Orders > Export > Order data which provides an Excel document with email addresses, order dates and times as well as answers to questions.
+
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Protected characteristic questions (important)
+If we were to ask any questions that relate to protected characteristics we will detail why this is being asked and also ensure that we have appropriate Information Governance approval.
+:::
+
+## Disaster recovery
+
+We will back up who has signed up an event and will not have access to these lists so, in the event of Pretix being unavailable we will:
+
+- Communicate the issue we are experiencing and the action we will be taking via actively used [Social Media](#social-media) and the [newsletter](#newsletter)
+
+Depending on the type of event, when it is running and how long access to the registration system is expected to be unavailable we may either ask people to contact us about their registration, cancel and reschedule or cancel until further notice.
+
+Alternative arrangements will be to use another event system that does not charge for free events or, if this is not possible to use, collect registrations manually.
+Under these circumstances we may not be able to offer a waiting list process.
+
+# Mailing list/Newsletter {#newsletter}
 
 We have a free newsletter through [Substack](https://nhsrcommunity.substack.com/) which is open to view or subscribe to. 
-Subscribtions are managed directly by the user with Substack but emails are viewable to the NHS-R account.
+Subscriptions are managed directly by the user with Substack but emails are viewable to the NHS-R account.
 
 Podcasts are also connected to Substack.
 
