@@ -80,10 +80,11 @@ However, there are alternatives that are detailed in each course under the heade
 Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages):
 
 ```{r}
+#| eval: false
 install.packages('tidyverse')
 ```
 
-Or using RStudio using the Packages tab in the bottom right tab which is explained in this [short video](https://www.youtube.com/watch?v=u1r5XTqrCTQ) from Andrew Jahn.
+Or using the RStudio program and the Packages tab in the bottom right panel which is explained in this [short video](https://www.youtube.com/watch?v=u1r5XTqrCTQ) from Andrew Jahn.
 
 ### Get data - own computer
 
@@ -108,7 +109,7 @@ Connect directly from GitHub repository by clicking on the blue button for `New 
 ### Downloading course slides **only**
 
 ::: {.callout-note collapse="false" appearance="default" icon="true"}
-## Not a necessary step! (note)
+## Not a necessary step! 
 
 All the slides are published through GitHub to a redirected URL so should be available to all organisations. However, if you would still like to get copies then follow this section.
 
