@@ -43,7 +43,7 @@ There is still some setting up required though so follow the steps for each cour
 
 The Cloud is restricted to a certain [number of hours a month](https://posit.cloud/plans) or RAM use as a free account and this should be enough for the purpose of a day workshop. 
 
-### Step zero - setting up your own laptop/computer
+### Step one - setting up your own laptop/computer
 
 :::{.callout-tip collapse=false appearance='default' icon=true}
 ## Why use your own computer? (tip)
@@ -82,38 +82,42 @@ Installing packages will be a regular feature of coding using R so you will see 
 
 Each course will have its own repository with its data/files and there are multiple ways of getting that to your computer or into Posit Cloud:
 
-Option 1. get data by downloading from the GitHub repository by clicking on the green <kdb>Code</kbd> button
+#### Option 1. get data by downloading from the GitHub repository by clicking on the green <kdb>Code</kbd> button
 
 ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
 
-Option 2. running the {usethis} code in the Console for the R code to do this download for you
+#### Option 2. using code on your own computer {#usethis}
+
+It is possible to use two packages to install the code directly to your computer: {usethis} and {here}.
+
+The {usethis} has a function called `use_course()` that installs the data from a GitHub repository, unzip the files and delete the original zip.
 
 :::{.callout-tip collapse=false appearance='default' icon=true}
-## Where does data save when using {usethis} code? (tip)
+## Where does data default save to? (tip)
 
 On your own computer it's likely {usethis} will save to `C:\Users\your.name\` which is the `working directory` if you are working on a networked computer and you may wish to move this folder from the default.
+
+To check or change your working directory you can find information in Tools > Global Options... and the second box, possibly with `~` will be your working directory. 
+Clicking on `Browse...` will open an Explorer box where you can see the folders and confirm where this is or change to another folder.
 :::
 
-On Posit Cloud the data will save automatically in the `home` folder of the main root `Cloud`. 
-The Cloud workspace is a Project and using {usethis} creates a project so this becomes "nested" so it's better to connect directly from Posit Cloud to the GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
-From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
+The {here} package is a robust way of navigating folders in code and is particularly useful if you use a VPN with networked drives as setting a working directory can sometimes be tricky if they start with `\\` or have particularly long names as can be found in OneDrive.
 
-[Introduction to R and RStudio]({#intro-r-course})  
-[Intermediate R](#intermediate)  
-[Introduction to Quarto](#intro-quarto)  
-
-If you do want to use code then using the {here} package along with {usethis} will help put the folder in the `Cloud` root:
 
 ```{r}
-install.packages(c("usethis", "here")) # if you haven't already done this and it won't break if you run it again
+#| eval: false
 
-usethis::use_course("nhs-r-community/intro_r_data", destdir = here::here()) # Intro to R and RStudio
+install.packages(c("usethis", "here"))
 
-usethis::use_course("nhs-r-community/intermediate_R_training", destdir = here::here()) # Intermediate R
+# To see your directory type
 
-usethis::use_course("nhs-r-community/intro_quarto_data", destdir = here::here()) # Intro to Quarto
-
+here::here()
 ```
+
+#### Option 2. using the Cloud
+
+The Cloud workspace is a Project and using {usethis} creates a project so this becomes "nested" so it's better to connect directly from the GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
+From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections.
 
 ## Introduction to R and RStudio course materials {#intro-r-course}
 
@@ -125,18 +129,25 @@ usethis::use_course("nhs-r-community/intro_quarto_data", destdir = here::here())
 
 Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/loading-package) using RStudio or [via code](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages).
 
-### Get data
+### Get data - own computer
 
-The Introduction to R and RStudio workshop data used in the course can be found in a specific repository:
+As well as the packages for the course you will also need to install the packages listed in [Option 2. using code on your own computer](#usethis).
+Once you have the packages {usethis} and {here} installed run the following code:
 
-<https://github.com/nhs-r-community/intro_r_data> and follow the instructions on [downloading data](#step-two).
 
-If you want to use the {usethis} code you will need:
+```{r}
+#| eval: false
 
-``` r
-install.packages("usethis")
-usethis::use_course("nhs-r-community/intro_r_data")
+usethis::use_course("nhs-r-community/intro_r_data", destdir = here::here()) 
+
 ```
+
+### Get data - Posit Cloud
+
+Connect directly from GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
+From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
+
+`https://github.com/nhs-r-community/intro_r_data`
 
 ### Downloading course slides **only**
 
@@ -168,16 +179,25 @@ install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor", "zoo",
 "tm", "glue", "NHSRplotthedots"))
 ```
 
-### Get data
+### Get data - own computer
+
+As well as the packages for the course you will also need to install the packages listed in [Option 2. using code on your own computer](#usethis).
+Once you have the packages {usethis} and {here} installed run the following code:
+
+```{r}
+#| eval: false
+
+usethis::use_course("nhs-r-community/intermediate_R_training", destdir = here::here()) 
+```
+
+### Get data - Posit Cloud
+
+Connect directly from GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
+From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
+
+`https://github.com/nhs-r-community/intermediate_R_training`
 
 Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
-
-If you want to use the {usethis} code you will need:
-
-``` r
-install.packages("usethis")
-usethis::use_course("nhs-r-community/intermediate_R_training")
-```
 
 ## Introduction to Git and GitHub using R course materials {#intro-git}
 
@@ -226,18 +246,25 @@ Packages from CRAN:
 install.packages(c("tidyverse", "knitr"))
 ```
 
-### Get data
+### Get data - own computer
 
-The Introduction to Quarto materials data used in the course can be found in a specific repository:
+As well as the packages for the course you will also need to install the packages listed in [Option 2. using code on your own computer](#usethis).
+Once you have the packages {usethis} and {here} installed run the following code:
 
-<https://github.com/nhs-r-community/intro_quarto_data)> and follow the instructions on [downloading data](#step-two).
 
-If you want to use the {usethis} code you will need:
+```{r}
+#| eval: false
 
-``` r
-install.packages("usethis")
-usethis::use_course("nhs-r-community/intro_quarto_data")
+usethis::use_course("nhs-r-community/intro_quarto_data", destdir = here::here()) 
+
 ```
+
+### Get data - Posit Cloud
+
+Connect directly from GitHub repository by clicking  on the blue button for `New Project` in the top right from the main screen.
+From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
+
+`https://github.com/nhs-r-community/intro_quarto_data`
 
 ### Downloading all course material
 
