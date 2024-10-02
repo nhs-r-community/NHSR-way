@@ -1,10 +1,44 @@
 # Conference {.unnumbered}
 
+## Guidelines and tips
+
+A reminder that all our events are covered by our [Code of Conduct](#code-of-conduct).
+
+Successful speakers are expected to follow the following guidelines:
+
+- if your talk changes details are emailed to [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) as soon as possible. 
+If your talk changes substantially it may not be possible to accommodate your new talk as this hasn't been agreed through the sifting.
+- you may use your own or organisation's slides.
+We just ask that these are published publicly and a link shared.
+- we accept various formats of presentations and offer our [own Quarto slides](https://github.com/nhs-r-community/NHSR-presentations) as templates - these are free to copy, change and reuse.
+- feel free to give an introduction at the start of your talk but, particularly for participants from industry, please be brief and don't use this as an opportunity for sales.
+This is because the audience often do not hold budgets and are attending the conference for the content of the talk.
+More information can be found in the section on [sponsorship](#sponsor) with regard to the financing of the conference and community.
+- the default is to share all recordings so please let us know if you don't want your recording to be shared on YouTube.
+- if you cannot attend, for whatever reason and at any time, please do let us know as we will have some talks prepared for this eventuality or we may be able to extend breaks.
+These are much easier to accommodate when we have notice to prepare and where we have to change the agenda this can help online attendees with managing their attendance.
+
+We also offer the following advice:
+
+- practice your talk! 
+And do this a few times. 
+If you would like someone from the NHS-R Community to talk through your slides (even in their draft form) do get in touch with us at [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net).
+We've had a few people in the past take us up on this offer and they've given fantastic talks.
+- if you'd like to speak to someone about their experience at the conference and giving a presentation, again, please do get in touch.
+- don't leave your slides to the last minute!
+This is a tough one as work often takes priority but technical issues can occur and it's better to find these out with plenty of time to resolve.
+
+## A note for all attendees
+
+Time keeping at conferences can vary slightly throughout the day and we attempt to start the sessions on time wherever possible.
+However, where talks are shorter than anticipated, times will inevitably change and whilst this can be shared to the people in person we will not be able to update the online agenda.
+
 ## Abstract examples
 
 Abstracts have been kindly shared by successful submitters to give those new to submitting abstracts an idea of what is wanted by the audience and organisers of the NHS-R Community and NHS.Pycom conferences.
 
 These are not necessarily talks that will be acceptable for every year and we will be sharing our themes and scoring with abstract calls for conferences.
+We will, most likely, be on the NHS-R Slack and can share updates there or answer questions.
 
 ### Abstract for an on-line workshop (half-day)
 
@@ -193,7 +227,7 @@ For materials we do strongly ask you present on open analysis and share your pre
 Again, we are mindful that this isn’t always possible so if you cannot share your work please do consider alternative ways of sharing like using dummy data or snippets of code. 
 If you need any support in publishing in the open do not hesitate in getting in touch with [nhsr.community\@nhs.net](mailto:nhs.rcommunity@nhs.net).
 
-## Sponsorship
+## Sponsorship {#sponsor}
 
 NHS-R Community and NHS.pycom do not receive centralised funding so please get in touch if you would like to talk to us about sponsorship for holding a stand or if your presentation includes any marketing pitches.
 
