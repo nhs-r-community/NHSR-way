@@ -173,10 +173,10 @@ As we understand it, this is an issue on many systems so suggest that, where wor
 
 For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to Core Member.
 
-## Membership access to courses
+## Membership access to courses {#pretix}
 
 We restrict the numbers to workshops and offer these to Core members.
-Webinars though, don't have the same restrictions and so are open to everyone 
+Webinars though, don't have the same restrictions and so are open to everyone.
 
 `Core membership` is available to all NHS, public sector, civil servants, voluntary sector, charities and academia.
 Ticket systems like [Pretix](https://pretix.eu/about/en/) allow for accounts to be set up directly with them and through this we can offer "season tickets" once accounts have been accepted as `Core members` based on the email address.
@@ -184,6 +184,9 @@ Any restricted ticket event will be restricted to all or mostly `Core membership
 
 ::: aside
 We are currently going through NHS Midlands and Lancashire CSU Information Governance and Cyber security systems to approve the Pretix system.
+
+Pretix is an open source ticket system built on Python. 
+Whilst it's possible to host your own server we will be using the managed hosting system from Pretix itself.
 :::
 
 The approval for `Core membership` will rely on [the core development team](#contact-us) approving on a case by case basis and if you are in a situation where you would like a Core membership but cannot apply (for example you cannot use your work email or will be retiring) please contact [the core development team](#contact-us) with details of your situation.
@@ -354,7 +357,7 @@ People who have submitted blogs and who have accounts on the website have their 
 Coffee and coding is a group that was originally set up from NHS England and has been extended to anyone within the NHS-R Community.
 Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/).
 
-In response to feedback and to assist with accessibility of these sessions, we have decided to mix up the days and times these meetings are on.
+In response to feedback and to assist with accessing these sessions, we have decided to mix up the days and times these meetings are on.
 Hopefully, this will allow us to increase our reach.
 We will still be running a session every two weeks, but the day will change across Wednesdays, Thursdays, and Fridays.
 
@@ -368,9 +371,39 @@ We very much want to foster this as a safe space to ask questions, get advice an
 Your input into making these sessions interactive and your feedback is critical in steering these sessions.
 These are your sessions, and you have a voice as to what you would like to see.
 
+## Getting calendar invitations
+
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## No need to book (tip)
+There is no requirement to book in for Coffee and Coding but the following information details how to get the joining link if you haven't already go it and how to get calendar appointments.
+:::
+
 The group is virtual and through MS Teams on the same link.
 Booking is through <https://events.nhsrcommunity.com/coffee-and-code/> which generates an email with the link and a calendar invitation `ics`.
-Note that the events are only for 2024.
 
-Recordings are available through FutureNHS which is a platform that anyone can join but workspaces are sometimes restricted.
+::: aside
+Note that the events are only for 2024.
+:::
+
+Each event in the calendar needs to be selected and booking can either be as a guest or you can create an account.
+Setting up an account can be useful for joining other NHS-R Community events as detailed in the [membership access](#pretix) section.
+
+There is a short survey, which appears for each event, but there are only a few questions that are mandatory and these can be copied from the first event using a `Copy answers from above` button.
+The following short clip shows how to select multiple events, fill in the survey and copy the answer and confirming selection as a guest:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaL7Q0k_0Jc?si=tmdSNyvMWb8yqI-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+If you do create an account the survey answers you have made can be retained for future events (there is a tick box at the bottom of each survey):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZIl1X0qF7Y?si=_Z8VQVaqtHYYCwge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The email that is sent to confirm will contain an `.ics` file for each of the events which can be opened and saved as an Outlook appointment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3smQUFYMroY?si=c9OjyF44rURaeA7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+More information about the ticket system see the section on [membership access](#pretix).
+
+## Recordings
+
+Recordings are available through Future NHS which is a platform that anyone can join but workspaces are sometimes restricted.
 The NHS England R Community workspace where the [Coffee and Coding recordings](https://future.nhs.uk/NHSERcommunity/view?objectID=41908688) are not restricted.
