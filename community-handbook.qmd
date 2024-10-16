@@ -3,9 +3,15 @@
 NHS-R Community regularly host webinars, workshops, blogs and podcasts to share the communities knowledge, experience and often, enthusiasm, for subjects ranging from specifically technical (R, Python, git) to where data science has helped analytical problems in healthcare data.
 There is always scope for trying things out with the community and the following sections are guidelines on what we have tried and is in no way a definitive list.
 
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Virtual hosting platforms (important)
+Until October 2024 NHS-R Community used a Zoom account as well as hosting events using MS Teams.
+Zoom is no longer used as the hosting organisation NHS Midlands and Lancashire CSU do not have it on their approved software list.
+:::
+
 # Webinars {#webinar}
 
-NHS-R Community host an hour long webinar through MS Teams Event on a Thursday, usually the last of the month.
+NHS-R Community host an hour long virtual webinar most often on a Thursday, usually the last of the month.
 Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist Webinars.
 Content can relate to anything healthcare (including social care) and/or R coding.
 Webinars on other data science subjects like Python and Git/GitHub are also very welcome.
@@ -20,7 +26,7 @@ To volunteer any workshops please contact [the core development team](#contact-u
 
 ## Introduction to R and R Studio
 
-NHS-R Community host volunteers running the Introduction to R and R Studio course once a month via Zoom.
+NHS-R Community host volunteers running the Introduction to R and R Studio course once a month virtually.
 This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to  the availability of the person leading the workshop.
 
 Co-hosts can also attend and assist with:
@@ -53,11 +59,7 @@ Workshop formats often include some code along or exercises.
 
 # Podcasts
 
-Recordings are made through a Zoom account with recordings saved to the cloud in separate channels to assist with later editing.
-
-NHS-R Community publish through [Soundcloud](https://soundcloud.com/nhs-r-community) which is available through other podcast providers.
-
-The latest podcast is published manually through the NHS-R Community WordPress site front page.
+Podcasts were originally shared through SoundCloud with a paid account and are now available through [Substack](https://nhsrcommunity.substack.com/podcast) and on [YouTube](https://www.youtube.com/@NHSRCommunity/podcasts) with manually checked subtitles.
 
 If you are interested in being in a podcast please contact [the core development team](#contact-us).
 
@@ -305,12 +307,6 @@ Subscriptions are managed directly by the user with Substack but emails are view
 Podcasts are also connected to Substack.
 
 # Video Recording {#recordings}
-
-NHS-R Community have a Zoom account which is most often used for training and Microsoft Teams Events which is used for webinars.
-Some events can be set up using Microsoft Teams which is managed through NHS Midlands and Lancashire Commissioning Strategy Unit.
-
-In terms of recording, Zoom and Microsoft Teams Events only record the person speaking and their shared screen.
-Microsoft Teams which is used by many NHS and Local Authorities for meetings, however, shows the videos and names of attenders which may be an issue for attenders.
 
 ## YouTube
 

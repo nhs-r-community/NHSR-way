@@ -256,8 +256,6 @@ The NHS-R Community confirmation email will include:
 -   the link to the workshop
 -   a calendar invitation
 
-If you are not sure that you can access Zoom from your work laptop, please request a test Zoom meeting coordinated by [the core development team](#contact-us).
-
 ## Modern desktop users (NHS England)
 
 Some organisations are using a modern desktop system, please note that project do not appear to work with Projects/`setwd` and files like RMarkdown and Quarto don't appear to work, giving the error:
