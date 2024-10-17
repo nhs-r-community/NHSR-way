@@ -371,7 +371,7 @@ These are your sessions, and you have a voice as to what you would like to see.
 
 :::{.callout-tip collapse=false appearance='default' icon=true}
 ## No need to book (tip)
-There is no requirement to book in for Coffee and Coding but the following information details how to get the joining link if you haven't already go it and how to get calendar appointments.
+There is no requirement to book in for Coffee and Coding but the following information details how to get the joining link if you haven't already got it and how to get calendar appointments.
 :::
 
 The group is virtual and through MS Teams on the same link.
