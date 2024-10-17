@@ -106,9 +106,9 @@ In line with good security principles we strongly suggest using two factor authe
 You will need this for each Slack workspace that you have joined.
 :::
 
-## X (formerly X)
+## X (formerly Twitter)
 
-The account for X is no longer used for active content however the account will not be closed completely because account names are recycled.
+The account for X is no longer used for active content; however, the account will not be closed completely because account names are recycled.
 
 ## Fosstodon server on Mastodon
 
