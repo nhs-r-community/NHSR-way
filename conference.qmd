@@ -28,6 +28,14 @@ We've had a few people in the past take us up on this offer and they've given fa
 - don't leave your slides to the last minute!
 This is a tough one as work often takes priority but technical issues can occur and it's better to find these out with plenty of time to resolve.
 
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Alternative text (important)
+We ask in the pre-survey question if the presenter agrees to include alternative text in their presentations and this is a mandatory agreement.
+As an open source conference we hope that people will share their presentations after the event and we can either host these in an NHS-R Community GitHub repository or link to them. 
+Consequently, in line with our own requirements to be accessible we ask that every image and chart has [alternative text](#alt-text) and will offer support to those new to doing this.
+:::
+
+
 ## A note for all attendees
 
 Time keeping at conferences can vary slightly throughout the day and we attempt to start the sessions on time wherever possible.
