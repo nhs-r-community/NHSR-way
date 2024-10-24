@@ -119,63 +119,14 @@ This account is managed by the administrative support for NHS-R Community.
 
 :::{.callout-warning collapse=false appearance='default' icon=true}
 ## Closing of WordPress site (warning)
-Work is in progress (as of September 2024) to close the WordPress site and move to a Quarto site published through GitHub and with event registration being supported from an external system.
-
+As of October 2024 we closed the WordPress site and moved to Quarto published through GitHub. 
 :::
 
-_The following information will be archived_
+We use a redirect on the GitHub URL to `www.nhsrcommunity.com` and as this is a private URL it is owned by an individual as the hosting NHS organisation does not manage private URLs.
 
-The NHS-R Community website is built using WordPress and managed through [VergeLabs](https://vergelabs.co.uk/).
-We use the website to promote the NHS-R Community but also as an event management system where people can join the community events like the monthly webinars, conferences and other events.
+We explored the creation of an nhs.uk URL in 2024 but as the rules required the URL to include the name of the hosting organisation this would have meant the URL would have been `www.midlandsandlancashirecsu.nhsrcommunity.nhs.uk` which was felt by the [NHS-R Community Committee](#committee) to be too long and organisational specific.
 
-Joining the website
-
-Signing up is at no cost but email addresses are visible to the maintainers of the website, VergeLabs, and also the [the core development team](#contact-us).
-We do not use email addresses to bulk email and contact is only ever in relation to the event that has been signed up for or to update the member on the website, for example any changes to terms and conditions.
-
-Fringe and Core membership
-
-Access to register events is based on the membership level and the default is Fringe member.
-Core memberships is available to all NHS, public sector, civil servants, voluntary sector, charities and academia and allows registration to all workshops and webinars.
-
-We also allow Core membership for anyone who has retired and was in these service and ask that you contact in advance, if possible, of your retirement and from a work address.
-
-We restrict the numbers to workshops and so restrict places to just Core members.
-Webinars though, don't have the same restrictions and so are open to both Core and Fringe members to attend the live event. 
-The site automatically detects emails according to a white list that is maintained through the website and so we can add to that when notified at [the core development team](#contact-us).
-
-Author membership 
-
-Authors are a status in the system given to those who have submitted a blog and this links their details with the blog.
-WordPress only allows for one status so this may affect the joining of events.
-
-Changes of emails on website
-
-As emails can be changed we will periodically go through and update personal emails to Fringe from Core, particularly around events like the conference.
-
-Deletion of website membership
-
-Accounts cannot be deleted by the member themselves but can be deleted by emailing us through the [unsubscribe](mailto:nhs.rcommunity@nhs.net?subject=unsubscribe) link which creates a blank email with the word `unsubscribe` in the header. No other detail is required for the email and we will confirm when the account has been deleted.
-
-Periodically we will email to update members on information in relation the website, for example any changes to terms and conditions, and delete any accounts with emails that are not delivered.
-Consequently, please always use a real email address if you want your account to stay active.
-
-We use the [Government Notify](https://www.notifications.service.gov.uk/) system which is also available for Public Sector organisations to use.
-Data is kept for 90 days and links from the emails are not tracked, however, we use Google Analytics on our published sites and books.
-
-Password resets
-
-It is possible to request a password reset, however, if this is going to an address that has changed due to organisational change or you have moved job, please contact [the core development team](#contact-us) for this to be updated manually.
-
-Issues with apostrophes in emails
-
-Unfortunately, where work email addresses have included the apostrophe in a person's surname the WordPress site prevents sign up but doesn't give a meaningful message.
-We've attempted to force the system by updating the email in the back, however, this still means a person cannot access the account as functionality is impaired because of the non-standard character. 
-As we understand it, this is an issue on many systems so suggest that, where work emails have provided the email with an apostrophe that an alias account is linked without it to get around this issue.
-
-For NHS-R Community it's possible to sign up with a personal email and notify the [the core development team](#contact-us) about having your account set to Core Member.
-
-## Membership access to courses {#pretix}
+## [To be used once agreement in place for external booking system] Membership access to courses {#pretix}
 
 We restrict the numbers to workshops and offer these to Core members.
 Webinars though, don't have the same restrictions and so are open to everyone.
@@ -330,23 +281,43 @@ We are copying Podcasts over to YouTube to include subtitles and are using [Clip
 
 # Blogs
 
-We host blogs on the NHS-R Community website and are currently moving them over to a [Quarto site](https://nhsrcommunity.nhsrcommunity.com/) (in development) and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code.
+We host blogs on the NHS-R Community website which is a [Quarto site](https://nhsrcommunity.nhsrcommunity.com/) and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code.
 We review blogs before posting and will give feedback if there are any reasons that we can't publish.
 Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.
 
-Submissions for blogs can be in any format but need to be easily copied and pasted by [the core development team](#contact-us). 
-For this reason pdf formats are not necessarily the easiest to share content.
+Blogs can be submitted as a Pull Request to the [Quarto website GitHub](https://github.com/nhs-r-community/nhs-r-community).
 
-Blogs can also be submitted as a Pull Request to the dedicated (in development) [Quarto website GitHub](https://github.com/nhs-r-community/nhs-r-community).
+# Accessibility
+
+We have an accessibility statement on the [NHS-R Community website](https://nhsrcommunity.com/accessibility.html) outlining the design decisions and detailing non-accessible content.
+It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.
+
+We have not currently assessed for compliant status as this is not something we can confidently assess ourselves.
+We have checked pages using the [Web Accesbility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
+
+We collate useful Government, Public Sector and R based links related to accessibility in the [Open Analytics book](https://resources.nhsrcommunity.com/accessibility.html).
+
+## Subtitles
+
+Currently our YouTube recordings only have automatically generated subtitles which are not sufficiently accessible.
+It is an ongoing project to check recordings and correct text and we welcome assistance in this.
+
+The move of podcasts from Soundcloud to YouTube has offered the opportunity to apply subtitles and this has been generated using the free software Clipchamp.
+
+## Alternative text {#alt-text}
+
+Pictures and charts in any of the NHS-R Community outputs including the website, blogs and books are expected to have alternative text or Captions for greater accessibility.
+There are good practice guides like [Webaim](https://webaim.org/techniques/alttext/) and [Turing Way](https://book.the-turing-way.org/community-handbook/accessibility/alt-text).
+Public bodies have a responsibility to produce accessible products and details are explained in Government pages like [Digital accessibility](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and for specific analytical publications guidance from the [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/).
+
+We encourage corrections that need to be made for accessibility in all NHS-R Community products and code and these can be through issues, pull requests or emailing [the core development team](#contact-us).
+Where appropriate our courses include details on how to code for alternative text, for example in the [Introduction to Quarto](https://intro-quarto.nhsrcommunity.com/session-images.html#/alt-text).
 
 :::{.callout-important collapse=false appearance='default' icon=true}
-## Alternative text
-Pictures and charts can be included in the blogs and these are expected to have Alternative Text or Captions for greater accessibility.
-
-This includes any pictures used for visual impact and not necessarily to add to the content directly.
+## Keep learning (important)
+As with anything new, getting started with something like adding alternative text to pictures and charts will take effort and not necessarily be correct first time.
+We have certainly made mistakes in NHS-R Community but we constantly strive to make improvements.
 :::
-
-People who have submitted blogs and who have accounts on the website have their account altered to be a `Author` which shows their name in the Post and means they can amend the blog and respond to any comments.
 
 # Coffee and coding
 
