@@ -12,6 +12,7 @@ The purpose of the committee is to:
 * develop and deliver a programme to support the purpose which has included webinars, workshops, and conferences.
 * make the NHS-R Community a welcome and inclusive space where members can share, connect and support each other.  
 * steer the direction and vision of NHS-R Community by making use of available data such as survey results, engagement statistics and event attendance reports. 
+
 ## Governance
 
 The working group is chaired by a representative from the hosting body, the Strategy Unit, who will have overall responsibility for the governance and financial running of NHS-R Community.
