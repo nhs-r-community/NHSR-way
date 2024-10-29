@@ -11,7 +11,7 @@ book:
   # If building your own site, replace our GA tag with your own GA tag before deployment.
   # This will prevent your activity being tracked and counted in our analytics dashboard.
   # Thank you!
-  #google-analytics: "G-3LD2BMRRL4"
+  google-analytics: "G-3LD2BMRRL4"
   title: "NHSR-way"
   author: "NHS-R Community"
   date: last-modified
