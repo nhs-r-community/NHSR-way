@@ -23,6 +23,7 @@ book:
     - index.qmd
     - code-of-conduct.qmd
     - nhsr-committee.qmd
+    - nhsr-fellows.qmd
     - style-guides.qmd
     - community-handbook.qmd
     - training.qmd
