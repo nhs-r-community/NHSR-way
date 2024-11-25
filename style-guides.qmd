@@ -130,7 +130,7 @@ Further information on the types of licences and how to get the text required fo
 
 Following the [GDS Way](https://gds-way.cloudapps.digital/manuals/licensing.html#language) the NHS-R Community Way will:
 
->When using a proper name, use the appropriate spelling for that thing (e.g. the MIT License.)
+>When using a proper name, use the appropriate spelling for that thing (for example the MIT License.)
 
 and:
 
