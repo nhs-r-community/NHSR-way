@@ -37,7 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="https://github.com/nhs-r-community/NHSR-way/commits?author=Lextuga007" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="https://github.com/nhs-r-community/NHSR-way/commits?author=Lextuga007" title="Code">💻</a> <a href="#content-Lextuga007" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://chrisbeeley.github.io/chris_beeley_blog/"><img src="https://avatars.githubusercontent.com/u/1259867?v=4?s=100" width="100px;" alt="Chris Beeley"/><br /><sub><b>Chris Beeley</b></sub></a><br /><a href="https://github.com/nhs-r-community/NHSR-way/issues?q=author%3AChrisBeeley" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
