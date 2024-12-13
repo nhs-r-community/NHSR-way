@@ -7,8 +7,11 @@ import argparse
 from pull_files import filter_files
 
 HERE = os.getcwd()
+"""
+Not used
 ABSOLUTE_HERE = os.path.dirname(HERE)
-IGNORE_LIST = ["config.yml", "style.md", "contributors-record.md", "references.bib"]
+"""
+IGNORE_LIST = ["style-guides.qmd", "references.bib"]
 
 
 def parse_args():
@@ -100,7 +103,7 @@ def read_and_check_files(files):
         else:
             try:
                 with open(
-                os.path.join(ABSOLUTE_HERE, filename), encoding="utf8",
+                os.path.join(HERE, filename), encoding="utf8",
                 errors="ignore") as f:
                     text = f.read()
                     text = remove_comments(text)
@@ -119,7 +122,7 @@ def read_and_check_files(files):
     return failing_files
 
 
-def get_all_files(directory=os.path.join(ABSOLUTE_HERE, "book", "website")):
+def get_all_files(directory=HERE):
     """
     Get a list of files to be checked. Ignores image files.
 

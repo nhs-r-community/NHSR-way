@@ -8,7 +8,10 @@ import argparse
 from pull_files import filter_files
 
 HERE = os.getcwd()
+"""
+Not used
 ABSOLUTE_HERE = os.path.dirname(HERE)
+"""
 BAD_PHRASE = "lorem ipsum"
 
 
@@ -59,7 +62,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
     for filename in filenames:
         try:
             with open(
-            os.path.join(ABSOLUTE_HERE, filename), encoding="utf8", errors="ignore"
+            os.path.join(HERE, filename), encoding="utf8", errors="ignore"
             ) as f:
                 text = f.read()
                 text = remove_comments(text)
@@ -73,7 +76,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
 
 def check_all_files(
     bad_phrase=BAD_PHRASE,
-    directory_to_check=os.path.join(ABSOLUTE_HERE, "book", "website"),
+    directory_to_check=HERE,
 ):
     """Check all files in a given directory for an undesirable phrase
 
