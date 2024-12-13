@@ -133,7 +133,7 @@ def get_all_files(directory=HERE):
         {list} -- List of files to check
     """
     files = []
-    filetypes_to_ignore = (".png", ".jpg")
+    filetypes_to_ignore = (".png", ".jpg", ".html", ".PNG", ".css")
 
     for rootdir, _, filenames in os.walk(directory):
         for filename in filenames:
