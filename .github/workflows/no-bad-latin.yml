@@ -14,8 +14,6 @@ on:
   pull_request:
     branches:
       - main
-    paths:
-      - "_book/"
 
 # Set up the Continuous Integration job
 jobs:
