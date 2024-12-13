@@ -1,7 +1,6 @@
-# Acknowledgements:
-# Copyright © The Turing Way Community and, where practical
-# https://github.com/the-turing-way/the-turing-way)
-
+"""
+Copyright The Turing Way Community https://github.com/the-turing-way/the-turing-way
+"""
 import os
 import re
 import argparse
