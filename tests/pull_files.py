@@ -43,7 +43,7 @@ def get_files_from_pr(pr_num):
     return files
 
 
-def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
+def filter_files(pr_num, start_phrase="", ignore_suffix=None):
     """Filter modified files from a Pull Request by a start phrase
 
     Arguments:
@@ -51,7 +51,7 @@ def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
 
     Keyword Arguments:
         start_phrase {str} -- Start phrase to filter changed files by
-                              (default: {"book/website"})
+                              (default: {""})
 
         ignore_suffix {str} -- File suffix or tuple of suffixes to ignore.
 
