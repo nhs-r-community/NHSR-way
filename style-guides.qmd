@@ -99,7 +99,7 @@ Write external links using "http://" instead of "www". This ensures they are cor
 ## Chunks with code or special text
 
 You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question.
-As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (<code>\`\`\`</code> becomes <code>\`\`\`R</code>).
+As an example, if you want to have some R code, when you open the chunk with three back ticks you can add the language name immediately after it (<code>\`\`\`</code> becomes <code>\`\`\`R</code>).
 
 Markdown source:
 
@@ -178,7 +178,7 @@ The case will also match the original package and function.
 
 ## Logo
 
-The logo incorporates the [R logo](https://commons.wikimedia.org/wiki/File:R_logo.svg) available under the Creative Commons Atrribution-Share Alike 4.0 International licence and is available in png and svg formats through the [assets repository](https://github.com/nhs-r-community/assets/tree/main/logo).
+The logo incorporates the [R logo](https://commons.wikimedia.org/wiki/File:R_logo.svg) available under the Creative Commons Attribution-Share Alike 4.0 International licence and is available in png and svg formats through the [assets repository](https://github.com/nhs-r-community/assets/tree/main/logo).
 
 The NHS-R logo has been in use since 2018.
 
@@ -218,7 +218,7 @@ As standard all NHS-R GitHub repository READMEs should include the following tex
 ```
 # Installation 
 
-You can install the current version of {name of pacakge} from GitHub with:
+You can install the current version of {name of package} from GitHub with:
 ```
 ```{r}
 #| eval: false

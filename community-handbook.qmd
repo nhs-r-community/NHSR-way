@@ -150,7 +150,7 @@ We also allow Core membership for anyone who has retired and was in these servic
 
 Please contact [the core development team](#contact-us) for any of the following:
 
-To delete or change and account we can `Anonymize` your account where:
+To delete or change and account we can `Anonymise` your account where:
 
 >All orders will be disconnected from this customer account. The orders themselves will not be anonymized and can still contain personal information!
 The customer will no longer be able to log in and will lose access to any membership benefits.
@@ -218,7 +218,7 @@ The following questions were used for Coffee and Coding, `*`are next to mandator
   - plotly
   - Plotting but not using ggplot2 or plotly
   - Quarto
-  - Rmarkdown
+  - RMarkdown
   - Shiny
   - gt (tables)
   - dt tables
@@ -293,7 +293,7 @@ We have an accessibility statement on the [NHS-R Community website](https://nhsr
 It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.
 
 We have not currently assessed for compliant status as this is not something we can confidently assess ourselves.
-We have checked pages using the [Web Accesbility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
+We have checked pages using the [Web Accessibility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
 
 We collate useful Government, Public Sector and R based links related to accessibility in the [Open Analytics book](https://resources.nhsrcommunity.com/accessibility.html).
 
