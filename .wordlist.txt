@@ -22,7 +22,8 @@ CVs
 Cyber
 cyber
 destdir
-de-anonymising
+de
+anonymising
 DM
 dt
 doxing
@@ -31,6 +32,8 @@ Fosstodon
 Frutiger
 generalisable
 GDS
+ggplot2
+ggplot
 gh
 github
 GitHub
@@ -52,11 +55,13 @@ mortem
 Netlify
 NHS
 nhs
+nhsr
 NHSD
 NHSR
 nhs-r
 NHS-R
 nhsrcommunity
+NHSRdatasets
 NHSRtheme
 nhsrway
 NHSRway
@@ -86,7 +91,7 @@ Repo
 repo
 responders
 RMarkdown
-rOpenSci’s
+rOpenSci's
 rOpenSci
 RPySOC
 RPySoc
@@ -101,6 +106,7 @@ SPSS
 socio
 SOPs
 SoundCloud
+Soundcloud
 SRCCON
 stringsAsFactors
 styler
