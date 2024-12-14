@@ -9,7 +9,7 @@ from pull_files import filter_files
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
-IGNORE_LIST = ["config.yml", "style.md", "contributors-record.md", "references.bib"]
+IGNORE_LIST = ["no-bad-latin.py", "references.bib"]
 
 
 def parse_args():
@@ -93,7 +93,7 @@ def read_and_check_files(files):
                   containing the offending line.
     """
     failing_files = {}
-    bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie ", "et cetera"]
+    bad_latin = ["i.e.", "e.g.", "e.t.c.", " etc", " ie ", "et cetera", " eg ", " ect "]
 
     for filename in files:
         if os.path.basename(filename) in IGNORE_LIST:
