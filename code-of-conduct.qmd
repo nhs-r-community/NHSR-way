@@ -7,11 +7,11 @@ Accordingly, everyone who participates in the NHS-R Community and the NHS-R Comm
 :::{.callout-important collapse=false appearance='default' icon=true}
 ## Organisations (important)
 NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation.
-The hosting organisation is The Strategy Unit, which is part of NHS Midlands and Lancashire Commissioning Support Unit.
+The hosting organisation is [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), which is part of NHS Midlands and Lancashire Commissioning Support Unit.
 :::
 
 
-Zoë Turner, as lead investigator in this community, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
+All project members are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
@@ -35,13 +35,14 @@ If the slides are shared or hosted by NHS-R Community, these should also contain
 
 The NHS-R Community has a core development team which consists of:
 
-* [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct
+* [Claire Welsh](claire.welsh8@nhs.net) - NHS-R Community 
+<span style="color:grey;">* [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct (On secondment) </span>
 
 Escalation, as detailed in this book, are to [Chris Beeley](chris.beeley1@nhs.net), a senior manager in The Strategy Unit. 
 
-The [central email](#contact-us) is accessed by Zoë Turner and administrative/support staff in The Strategy Unit.
+The [central email](#contact-us) is accessed by Claire Welsh, Zoë Turner and administrative/support staff in The Strategy Unit.
 
-Zoë Turner is an employee of NHS Midlands and Lancashire Commissioning Support Unit and is not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+Claire Welsh and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Support Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
@@ -96,19 +97,20 @@ It may be that behaviour deemed unacceptable within the NHS-R Community does not
 ## Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting Zoë Turner at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net) or by making a pull request to this document on GitHub.
+Rather, you are invited to make suggestions for updates or clarifications by making a pull request to this document on GitHub.
 
 # Incident Reporting Guidelines
 
 ## Contact points
 
-If you feel able to, please contact Zoë Turner by email at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net).
+If you feel able to, please contact [our inbox](nhs.rcommunity@nhs.net) or email
+[claire.welsh8@nhs.net](mailto:claire.welsh@nhs.net).
 
 ## Alternate contact points
 
-If you do not feel comfortable contacting Zoë Turner, please report an incident to Chris Beeley by email at [chris.beeley1@nhs.net](mailto:chris.beeley1@nhs.net).
+If you do not feel comfortable contacting either of the above, please report an incident to Chris Beeley by email at [chris.beeley1@nhs.net](mailto:chris.beeley1@nhs.net).
 
-If you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+If you do not feel comfortable contacting either Claire, the inbox, or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 ## What to do if someone is in physical danger
 
@@ -127,8 +129,9 @@ Enforcement of the Code of Conduct should be respectful and not include any hara
 
 The Code of Conduct committee is:
 
-* Zoë Turner: zoe.turner3@nhs.net
+* <span style="colour:grey;">Zoë Turner: zoe.turner3@nhs.net (On secondment)</span>
 * Chris Beeley: chris.beeley1@nhs.net
+* Claire Welsh: claire.welsh8@nhs.net
 
 We will always seek to build a larger committee including members outside of the core development team.
 
@@ -182,7 +185,7 @@ Possible responses may include:
 * A public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
-  Zoë Turner and Chris Beeley will communicate this "time out" to the individual(s) involved.
+  Zoë Turner, Claire Welsh and Chris Beeley will communicate this "time out" to the individual(s) involved.
 * A permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events and so on).
   The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
@@ -193,7 +196,7 @@ However, the Code of Conduct committee is not required to act on this feedback.
 
 ## Conflicts of Interest
 
-In the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit and/or NHS Midland and Lancashire Commissioning Support Unit.
+In the event of any conflict of interest such that Zoë Turner or Claire Welsh are not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that all are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit and/or NHS Midland and Lancashire Commissioning Support Unit.
 
 # GitHub code of contribution
 
@@ -214,7 +217,7 @@ Upon receipt of notification we will:
 
 1. Acknowledge receipt of your complaint and will make an initial assessment of the validity and plausibility of the complaint
 1. Upon receipt of a valid notice the material will be temporarily removed from our published website pending an agreement to remove permanently and from all records
-1. Were appropriate, we will contact the contributor who deposited the material
+1. Where appropriate, we will contact the contributor who deposited the material
 The contributor will be notified that the material is subject to a removal request
 1. The notifier and the contributor, if different, will be encouraged to discuss and resolve any issues swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
     - The material is replaced on our website unchanged
@@ -251,7 +254,7 @@ In the event that sensitive information exists in forks/clones or is from anothe
 
 The majority of this Code of Conduct code is adapted from [The Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) under the creative commons attribution license.
 
-Some parts have been added from the Code of Conduct that was originally list on the NHS-R Community website and had acknowledgements: [SRCCON](https://srccon.org/conduct/) This code of conduct was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/) which was a revision of the code of conduct used at previous useR!s and also drew from [rOpenSci's code of conduct.](https://ropensci.org/coc/). 
+Some parts have been added from the Code of Conduct that was originally list on the NHS-R Community website and had acknowledgements: [SRCCON](https://srccon.org/conduct/) This code of conduct was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/) which was a revision of the code of conduct used at previous useR's and also drew from [rOpenSci's code of conduct.](https://ropensci.org/coc/). 
 Exact text added can be found related to [issue 11](https://github.com/nhs-r-community/NHSR-way/issues/11) on the GitHub.
 
 We really appreciate the work that all of the communities that helped build The Turing Way, with credit particularly to Kirstie Whitaker. The Turing Way acknowledged many communities in their work and we also extend our appreciation to those groups and individuals (listed below). The ease of producing this comprehensive Code of Conduct is because of the acknowledged work being published under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA). This too is released under the same licence which means you are free to share and adapt the work so long as the attribution to and the NHS-R Community is retained, along with the attribution to The Turing Way, the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.

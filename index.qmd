@@ -5,7 +5,7 @@
 Welcome to the NHS-R Community Way book to the [NHS-R Community](https://nhsrcommunity.com/) based on [The Turing Way](https://the-turing-way.netlify.app/index.html#) guides and Community Handbook. 
 Like The Turing Way, this is an open source, open collaboration, and community-driven project. 
 We are called NHS-R Community but our contributors come from Local Authorities, Civil Service, Public Sector, Academia, Voluntary Sector, Charities and as individuals with no organisational connection. 
-Our goal is to promote R - extended to data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences. 
+Our goal is to promote R - extended to other free and open source data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences. 
 
 ## Contact us {#contact-us}
 
@@ -42,7 +42,7 @@ Write and issue, do a pull request or even [the core development team](#contact-
 
 The NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. 
 There is no restriction to who you work for, what your background is or what skills you have as we are the sum of all our parts and the more diverse and varied we are, the better our work together will be. 
-The NHS-R Community is now hosted by the Strategy Unit, part of NHS Midlands and Lancashire Commissioning Support Unit, which includes some administrative support, the hosting of an nhs.net email and two data scientists roles with NHS-R Community in their job descriptions. 
+The NHS-R Community is now hosted by the [Strategy Unit](https://www.strategyunitwm.nhs.uk/), part of NHS Midlands and Lancashire Commissioning Support Unit, which includes some administrative support, the hosting of an nhs.net email and two data scientists roles with NHS-R Community in their job descriptions. 
 Over the years the NHS-R Community has been involved in many activities from blogs to podcasts. 
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience. 

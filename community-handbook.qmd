@@ -1,16 +1,22 @@
 # Community Handbook {.unnumbered}
 
-NHS-R Community regularly host webinars, workshops, blogs and podcasts to share the communities knowledge, experience and often, enthusiasm, for subjects ranging from specifically technical (R, Python, git) to where data science has helped analytical problems in healthcare data. There is always scope for trying things out with the community and the following sections are guidelines on what we have tried and is in no way a definitive list.
+NHS-R Community regularly host webinars, workshops and blogs to share the community's knowledge, experience and enthusiasm for subjects ranging from discussions and showcases of tools (R, Python, Git) to their applications to analytical problems in healthcare data. 
+The following describes some of our existing outputs, but is not exhaustive. 
 
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Virtual hosting platforms (important)
 
-Until October 2024 NHS-R Community used a Zoom account as well as hosting events using MS Teams. Zoom is no longer used as the hosting organisation NHS Midlands and Lancashire CSU do not have it on their approved software list.
+Until October 2024 NHS-R Community used a Zoom account as well as hosting events using Microsoft Teams. 
+Zoom is no longer in use as our hosting organisation (NHS Midlands and Lancashire Commissioning Support Unit) do not have it on their approved software list.
+The default platform currently in use is therefore Microsoft Teams.
 :::
 
 # Webinars {#webinar}
 
-NHS-R Community host an hour long virtual webinar most often on a Thursday, usually the last of the month. Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist Webinars. Content can relate to anything healthcare (including social care) and/or R coding. Webinars on other data science subjects like Python and Git/GitHub are also very welcome.
+NHS-R Community host an hour long virtual webinar most often on a Thursday, usually the last of the month. 
+Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist 'Webinars'. 
+Content can relate to anything in health or social care and/or R coding. 
+Webinars on other data science subjects like Python and Git/GitHub are also very welcome.
 
 There is no restriction on who can attend the webinar and people can join/sign up through the [NHS-R Community website](#website).
 
@@ -22,29 +28,39 @@ To volunteer any workshops please contact [the core development team](#contact-u
 
 ## Introduction to R and R Studio
 
-NHS-R Community host volunteers running the Introduction to R and R Studio course once a month virtually. This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to the availability of the person leading the workshop.
+NHS-R Community host volunteers running the Introduction to R and R Studio course once a month virtually. 
+This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to the availability of the person leading the workshop.
 
 Co-hosts can also attend and assist with:
 
 -   checking the chat,
--   any technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting it closes for everyone) and
+-   any technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting, it closes for everyone) and
 -   it can be agreed between the host and co-host to share sections of the training.
 
-[Materials](#training) are available in a chapter form from NHS-R Community GitHub to allow people the flexibility on what to cover in a session according to the time available. There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.
+[Materials](#training) are available in a chapter form from NHS-R Community GitHub to allow people the flexibility of what to cover in a session according to the time available. 
+There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.
 
-These courses are very popular and are often fully subscribed and have a waiting list. We encourage people to join a full workshop as people have been offered places as people have notified they cannot attend and we also use these lists for future courses to invite people in advance of sharing publicly.
+These courses are very popular and are often fully subscribed and have a waiting list. 
+If your desired course appears full, we encourage you apply to join anyway.
+This may mean you can attend if others have cancelled, but if that is not the case,
+we can use your email address to invite you to future courses in advance of them being sharing publicly.
 
-Recordings are always made available to attendees but are not always made public as recordings are already on available. However, if you wish to have a workshop you have led included these can be added if permission has been sought from the attendees before recordings have been started. See section [Video Recording](#recordings) for more information.
+Recordings are always made available to attendees but are not always made public. 
+However, if you wish to have a workshop you have led made public, these can be added to the public archive, provided permission has been sought from the attendees before recordings have been started. 
+See section [Video Recording](#recordings) for more information.
 
 Contributions and changes to the materials are always welcome and can be made via the GitHub repository.
 
 ## Other workshops
 
-Workshops, other than the regular Introduction to R and R Studio, are very welcome and we've had talks from other languages (Python) as well as specific subjects like statistics. All workshops are recorded and, unless specifically requested not to, are shared publicly. See section [Video Recording](#recordings) for more information.
+Workshops, other than the regular Introduction to R and R Studio, are very welcome and we've had talks from other languages (Python) as well as specific subjects like statistics. 
+All workshops are recorded and, unless specifically requested otherwise, are shared publicly. 
+See section [Video Recording](#recordings) for more information.
 
-The length of a workshop can vary according to the content the person/people wish to deliver and have been 1 hour long, half a day or a whole day.
+The length of a workshop can vary according to the content the person/people wish to deliver. 
+In the past, we have supported workshops of 1 hour, half a day or a whole day.
 
-Workshop formats often include some code along or exercises.
+Workshop formats often include some 'code-along' sections or exercises.
 
 # Podcasts
 
@@ -58,7 +74,10 @@ If you are interested in being in a podcast please contact [the core development
 
 <https://nhsrcommunity.slack.com/>
 
-The NHS-R Community use the free version of Slack to facilitate conversations between members. Many people join the Slack group and enjoy reading the conversations without ever joining in and that's ok as this is the best place to find out what's happening with the community and a lot can be learned from others' conversations. Because this is a free account we don't have a history of posts but they would be available if we moved to a paid account.
+The NHS-R Community use the free version of Slack to facilitate conversations between members. 
+Many people join the Slack group and enjoy reading the conversations without ever joining in, and that's ok as this is the best place to find out what's happening with the community. 
+A lot can be learned from others' conversations. 
+Because this is a free account we don't have a history of posts but they would be available if we moved to a paid account.
 
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Managing own Slack accounts
@@ -71,24 +90,28 @@ The NHS-R Community use the free version of Slack to facilitate conversations be
 
 ### Accessing the Slack
 
-Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. Please contact the central email [the core development team](#contact-us) for the link. Links that are shared are only available for several days.
+Some organisations' emails have been added to the white list but because there are so many public sector organisations it may be that you require an individual link to join. 
+Please contact the central email [the core development team](#contact-us) for the link. 
+Links that are shared are only available for several days.
 
-It's best to use an organisational email for the group, but not necessary, and you are also able to change the email once you've joined.
+It's best to use an organisational email for the group, but not necessary, and you are also able to change the email address used(yourself) once you've joined.
 
 ### Deletion of accounts on Slack
 
-Unfortunately with the free account we are unable to change email addresses which has affected some people when they move to a new organisation and require a password reset or use the Slack system of emailing a joining link. However, we can delete any old account to avoid confusion to others on the Slack so they will only tag or direct message the active account.
+Unfortunately with the free account we are unable to change email addresses which has affected some people when they move to a new organisation and require a password reset or use the Slack system of emailing a joining link. 
+However, we can delete any old account to avoid confusion to others on the Slack so they will only tag or direct message the active account.
 
 Other than this situation, we would only ever delete an account due to [Code of Conduct](#code-of-conduct) issues.
 
 ### Slack security
 
-Administrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators.
+Administrators on the Slack can see email addresses and we can bulk email, however, we do not and have not used emails to contact people in bulk. 
+Emails are not visible to others on the Slack workspace but people can Direct Message (DM) and those messages are not visible to administrators.
 
 In line with good security principles we strongly suggest using two factor authentication for the Slack group.
 
 ::: callout-note
-You will need this for each Slack workspace that you have joined.
+You will need 2-factor authentication for each Slack workspace that you have joined.
 :::
 
 ## X (formerly Twitter)
@@ -97,7 +120,8 @@ The account for X is no longer used for active content; however, the account wil
 
 ## Fosstodon server on Mastodon
 
-With the change in ownership to X and a great deal of the NHS-R Community audience moving to Mastodon an NHS-R Community account is also managed through the open source content server, Fosstodon. This account is managed by the administrative support for NHS-R Community.
+With the change in ownership to X and a great deal of the NHS-R Community audience moving to Mastodon, an NHS-R Community account is also managed through the open source content server, Fosstodon. 
+This account is managed by the administrative support for NHS-R Community.
 
 ## Website {#website}
 
@@ -107,17 +131,22 @@ With the change in ownership to X and a great deal of the NHS-R Community audien
 As of October 2024 we closed the WordPress site and moved to Quarto published through GitHub.
 :::
 
-We use a redirect on the GitHub URL to `www.nhsrcommunity.com` and as this is a private URL it is owned by an individual as the hosting NHS organisation does not manage private URLs.
+We use a redirect on the GitHub URL to `www.nhsrcommunity.com` and, as this is a private URL it is owned by an individual as the hosting NHS organisation does not manage private URLs.
 
 We explored the creation of an nhs.uk URL in 2024 but as the rules required the URL to include the name of the hosting organisation this would have meant the URL would have been `www.midlandsandlancashirecsu.nhsrcommunity.nhs.uk` which was felt by the [NHS-R Community Committee](#committee) to be too long and organisational specific.
 
 ## Membership access to courses {#pretix}
 
-We restrict the numbers to workshops and offer these to Core members. Webinars though, often don't have the same restrictions and are open to everyone.
+We restrict the numbers to workshops and offer these to Core members. 
+Webinars though, often don't have the same restrictions and are open to everyone.
 
-`Core membership` is available to all NHS, public sector, civil servants, voluntary sector, charities and academia. Ticket systems like [Pretix](https://pretix.eu/about/en/) allow for accounts to be set up directly with them and through this we can offer "season tickets" once accounts have been accepted as `Core members` based on the email address. Any restricted ticket event will be restricted to all or mostly `Core membership` tickets. Sign up to the specific [event](https://events.nhsrcommunity.com/core-membership/) which has an accepted email list attached to it.
+`Core membership` is available to all NHS, public sector, civil servants, voluntary sector, charities and academia. 
+Ticket systems like [Pretix](https://pretix.eu/about/en/) allow for accounts to be set up directly with them and through this we can offer "season tickets" once accounts have been accepted as `Core members` based on an email address. 
+Any restricted ticket event will be restricted to all or mostly `Core membership` tickets. 
 
-::: aside
+To become a Core member, sign up to the specific [event](https://events.nhsrcommunity.com/core-membership/) which has an accepted email list attached to it.
+
+::: {.callout-note collapse="false" appearance="default" icon="true"}
 We are currently going through NHS Midlands and Lancashire CSU Information Governance and Cyber security systems to approve the Pretix system.
 
 Pretix is an open source ticket system built on Python. Whilst it's possible to host your own server we will be using the managed hosting system from Pretix itself.
@@ -131,19 +160,20 @@ If your organisation's email is not accepted but is NHS, public sector, civil se
 
 Also, if you are in a situation where you would like a Core membership but wish to use a non-work address please contact [the core development team](#contact-us) with details of your situation.
 
-We allow Core membership for anyone who has retired and was in these services and ask that you contact in advance, if possible, of your retirement and from a work address.
+We allow Core membership for colleagues who have retired from the above services. 
+Where possible we ask that you contact us in advance of your retirement, from your work email address, if possible, of your retirement and from a work address.
 
 ### Account deletion or changes
 
 Please contact [the core development team](#contact-us) for any of the following:
 
-To delete or change and account we can `Anonymise` your account where:
+To delete or change an account we can `Anonymise` your account where:
 
 > All orders will be disconnected from this customer account. The orders themselves will not be anonymized and can still contain personal information! The customer will no longer be able to log in and will lose access to any membership benefits. This action is irreversible.
 
 ### Event data retention {#retention}
 
-Pretix offers the use of [data shredders](https://docs.pretix.eu/en/latest/api/resources/shredders.html) and we will remove all data from an event 3 to 6 months.
+Pretix offers the use of [data shredders](https://docs.pretix.eu/en/latest/api/resources/shredders.html) and we will remove all data from an event after 3 to 6 months.
 
 If this is an event that occurs on a series of days (as for Coffee and Coding) we will delete the event which is distinct to the order so future registrations are unaffected.
 
@@ -153,15 +183,17 @@ We recommend using 2FA (two-factor authentication) for any ticket system account
 
 ### Password resets and updating of details
 
-It is possible to change email addresses/names and request a password reset directly with Pretix or contact [the core development team](#contact-us) where we can trigger a manual password reset.
+It is possible to change email addresses/names and request a password reset directly with Pretix, or contact [the core development team](#contact-us) where we can trigger a manual password reset.
 
 ### Waiting list
 
-Event systems like Pretix allow for automatic waiting list management which means that a ticket can be automatically reassigned to a person next on the waiting list. We can change the settings for this and the default is 48 hours, but for popular events or those that are occurring in a few days we will reduce this response time.
+Event systems like Pretix allow for automatic waiting list management which means that a ticket can be automatically reassigned to a person next on the waiting list. 
+We can change the settings for this and the default is 48 hours, but for popular events or those that are occurring in a few days we will reduce this response time.
 
 ### Surveys
 
-We will use surveys for events to collect data that helps us understand. The following questions were used for Coffee and Coding, `*`are next to mandatory questions:
+We will use surveys for events to collect data that helps us improve. 
+The following questions were used for Coffee and Coding, `*`are next to mandatory questions:
 
 -   Where you heard about the event? \*
     -   Social media
@@ -209,9 +241,17 @@ We will use surveys for events to collect data that helps us understand. The fol
     -   data.table
     -   Other (expand in a separate question)
 
-Further questions for coffee and coding: - What would you like to see more of in coffee and coding? - What would you like to see less of in coffee and coding? - Are there any topics you would like us to cover in the future? - Any other comments?
+Further questions for coffee and coding: 
 
-We can extract the data from the surveys from Orders \> Export \> Order data which provides an Excel document with email addresses, order dates and times as well as answers to questions.
+-  What would you like to see more of in coffee and coding? 
+
+-  What would you like to see less of in coffee and coding? 
+
+-  Are there any topics you would like us to cover in the future? 
+
+-  Any other comments?
+
+We can extract the data from the surveys from Orders \> Export \> Order data, which provides an Excel document with email addresses, order dates and times as well as answers to questions.
 
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Protected characteristic questions
@@ -227,11 +267,12 @@ We will back up who has signed up an event and will not have access to these lis
 
 Depending on the type of event, when it is running and how long access to the registration system is expected to be unavailable we may either ask people to contact us about their registration, cancel and reschedule or cancel until further notice.
 
-Alternative arrangements will be to use another event system that does not charge for free events or, if this is not possible to use, collect registrations manually. Under these circumstances we may not be able to offer a waiting list process.
+Alternative arrangements will be to use another event system that does not charge for free events or, if this is not possible, to collect registrations manually. 
+Under these circumstances we may not be able to offer a waiting list process.
 
 # Mailing list/Newsletter {#newsletter}
 
-We have a free newsletter through [Substack](https://nhsrcommunity.substack.com/) which is open to view or subscribe to. Subscriptions are managed directly by the user with Substack but emails are viewable to the NHS-R account.
+We have a free newsletter available through [Substack](https://nhsrcommunity.substack.com/) which is open to view or subscribe to. Subscriptions are managed directly by the user with Substack but emails are viewable to the NHS-R account.
 
 Podcasts are also connected to Substack.
 
@@ -239,45 +280,58 @@ Podcasts are also connected to Substack.
 
 ## YouTube
 
-We always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings. We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.
+We always intend to share recordings through YouTube publicly, however, we do respect where trainers or presenters ask specifically not to share recordings. 
+We are able to edit parts of videos using YouTube editing, cutting or blurring parts and will do this when notified.
 
-All videos are first uploaded as Unlisted which means that anyone can access the video with the share link. We ask that this link is not shared beyond the original people emailed.
+All videos are first uploaded as Unlisted which means that anyone can access the video with the share link. 
+We ask that this link is not shared further.
 
-If a video is not to be made public it will be moved to Private where only people can be given direct access to view the video. This cannot be the default setting, unfortunately, as it relies upon having a Google mail and because the videos are often signed up from a work email we cannot use this functionality.
+If a video is not to be made public it will be moved to 'Private', where only those given direct access can view the video. 
+This cannot be the default setting, unfortunately, as it relies upon having a Google email address, whereas our videos are uploaded via workplace email addresses.
 
-If you had access to a video that becomes Private and still require access, please contact the [central email](#contact-us) with details, and if you are happy to share a Google email then please email this, from a work email so that we can verify your details.
+If you previously had access to a video that subsequently becomes Private and still require access, please contact the [central email](#contact-us) with details, and if you are happy to share a Google email address with us then please email this, from a work email so that we can verify your details.
 
 ## Subtitles
 
-YouTube applies automatic subtitles after a period of time of uploading but at the moment we don't currently amend those subtitles given the time it requires. However, this is something that we would like to do in the future and this may mean we get support from community members.
+YouTube applies automatic subtitles after uploading. Currently we do not amend those subtitles manually,
+given the time it requires. 
+However, this is something that we would like to do in the future, provided we can source support from community members.
 
 We are copying Podcasts over to YouTube to include subtitles and are using [Clipchamp](https://app.clipchamp.com/signup) to tidy them.
 
 # Blogs
 
-We host blogs on the NHS-R Community website which is a [Quarto site](https://nhsrcommunity.nhsrcommunity.com/) and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques and can be just text or can include code. We review blogs before posting and will give feedback if there are any reasons that we can't publish. Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.
+We host blogs on the NHS-R Community website which is a [Quarto site](https://nhsrcommunity.nhsrcommunity.com/) and we welcome contributions from anyone who wishes to write about R, health and social care, data science techniques. 
+We review blogs before posting and will give feedback if there are any reasons that we can't publish. 
+Blogs are rarely removed so some will be out of date due to the changes in the programs like R and best practice.
 
 Blogs can be submitted as a Pull Request to the [Quarto website GitHub](https://github.com/nhs-r-community/nhs-r-community).
 
 # Accessibility
 
-We have an accessibility statement on the [NHS-R Community website](https://nhsrcommunity.com/accessibility.html) outlining the design decisions and detailing non-accessible content. It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.
+We have an accessibility statement on the [NHS-R Community website](https://nhsrcommunity.com/accessibility.html) outlining the design decisions and detailing non-accessible content. 
+It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.
 
-We have not currently assessed for compliant status as this is not something we can confidently assess ourselves. We have checked pages using the [Web Accessibility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
+We have not currently assessed for compliant status as this is not something we can confidently assess ourselves. 
+We have checked pages using the [Web Accessibility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
 
 We collate useful Government, Public Sector and R based links related to accessibility in the [Open Analytics book](https://resources.nhsrcommunity.com/accessibility.html).
 
 ## Subtitles
 
-Currently our YouTube recordings only have automatically generated subtitles which are not sufficiently accessible. It is an ongoing project to check recordings and correct text and we welcome assistance in this.
+Currently our YouTube recordings only have automatically generated subtitles which are not sufficiently accessible. 
+It is an ongoing project to check recordings and correct text and we welcome assistance in this.
 
 The move of podcasts from Soundcloud to YouTube has offered the opportunity to apply subtitles and this has been generated using the free software Clipchamp.
 
 ## Alternative text {#alt-text}
 
-Pictures and charts in any of the NHS-R Community outputs including the website, blogs and books are expected to have alternative text or Captions for greater accessibility. There are good practice guides like [Webaim](https://webaim.org/techniques/alttext/) and [Turing Way](https://book.the-turing-way.org/community-handbook/accessibility/alt-text). Public bodies have a responsibility to produce accessible products and details are explained in Government pages like [Digital accessibility](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and for specific analytical publications guidance from the [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/).
+Pictures and charts in any of the NHS-R Community outputs including the website, blogs and books are expected to have alternative text or Captions for greater accessibility. 
+There are good practice guides like [Webaim](https://webaim.org/techniques/alttext/) and [Turing Way](https://book.the-turing-way.org/community-handbook/accessibility/alt-text). 
+Public bodies have a responsibility to produce accessible products and details are explained in Government pages like [Digital accessibility](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and for specific analytical publications guidance from the [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/).
 
-We encourage corrections that need to be made for accessibility in all NHS-R Community products and code and these can be through issues, pull requests or emailing [the core development team](#contact-us). Where appropriate our courses include details on how to code for alternative text, for example in the [Introduction to Quarto](https://intro-quarto.nhsrcommunity.com/session-images.html#/alt-text).
+We encourage corrections that need to be made for accessibility in all NHS-R Community products and code and these can be through issues, pull requests or emailing [the core development team](#contact-us). 
+Where appropriate our courses include details on how to code for alternative text, for example in the [Introduction to Quarto](https://intro-quarto.nhsrcommunity.com/session-images.html#/alt-text).
 
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Keep learning (important)
@@ -287,9 +341,11 @@ As with anything new, getting started with something like adding alternative tex
 
 # Coffee and coding
 
-Coffee and coding is a group that was originally set up from NHS England and has been extended to anyone within the NHS-R Community. Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/).
+Coffee and coding is a group that was originally set up from NHS England and has been extended to anyone within the NHS-R Community. 
+Details are in the [blog](https://nhsrcommunity.com/coffee-and-code/).
 
-In response to feedback and to assist with accessing these sessions, we have decided to mix up the days and times these meetings are on. We have an hour meeting every two weeks, with the day: Wednesday, Thursday, and Friday.
+In response to feedback and to assist with accessing these sessions, we have decided to mix up the days and times these meetings are on. 
+We have an hour meeting every two weeks, with the day: Wednesday, Thursday, and Friday.
 
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Get involved!
@@ -297,9 +353,13 @@ In response to feedback and to assist with accessing these sessions, we have dec
 We strive to maintain community led content and would very much like to tailor these sessions to be useful, no matter what stage you at with your R journey.
 :::
 
-There is a constant call to show us what you have been up to, anything you are working on, any issues you may have. This is an opportunity to share what you have learned and to ask a wider audience how to do things. Get some friendly feedback and QA. We very much want to foster this as a safe space to ask questions, get advice and create possible spin off sessions if there are specific areas to cover.
+There is a constant call to show us what you have been up to, anything you are working on, any issues you may have. 
+This is an opportunity to share what you have learned and to ask a wider audience how to do things. 
+Get some friendly feedback and QA. 
+We very much want to foster this as a safe space to ask questions, get advice and create possible spin off sessions if there are specific areas to cover.
 
-Your input into making these sessions interactive and your feedback is critical in steering these sessions. These are your sessions, and you have a voice as to what you would like to see.
+Your input into making these sessions interactive and your feedback is critical in steering these sessions. 
+These are your sessions, and you have a voice as to what you would like to see.
 
 ## Getting calendar invitations
 
@@ -309,7 +369,8 @@ Your input into making these sessions interactive and your feedback is critical 
 There is no requirement to book in for Coffee and Coding but the following information details how to get the joining link if you haven't already got it and how to get calendar appointments.
 :::
 
-The group is virtual and through MS Teams on the same link and this is shared with you via Pretix once you sign up to a Coffee and code through the page: <https://events.nhsrcommunity.com/coffee-and-code/>. The automatically generated email will also have a diary `.ics` that can be saved to Outlook.
+The group is virtual and through MS Teams on the same link and this is shared with you via Pretix once you sign up to a Coffee and code through the page: <https://events.nhsrcommunity.com/coffee-and-code/>. 
+The automatically generated email will also have a diary `.ics` that can be saved to Outlook.
 
 ::: {.callout-tip collapse="false" appearance="default" icon="true"}
 ## Coffee and Coding as a series of events
@@ -319,7 +380,8 @@ Signing up to Coffee and Coding will result in an email with a one event `ics`, 
 
 ![](img/pretix-calendar-invitations.PNG){fig-alt="Screenshot of the confirmation page with 3 links to download the calendar series for Wed, Thurs and Fri"}
 
-There is a short survey, which appears for each event, but there are only a few questions that are mandatory and these can be copied from the first event using a `Copy answers from above` button. The following short clip shows how to select multiple events, fill in the survey and copy the answer and confirming selection as a guest:
+There is a short survey, which appears for each event, but there are only a few questions that are mandatory and these can be copied from the first event using a `Copy answers from above` button. 
+The following short clip shows how to select multiple events, fill in the survey and copy the answer and confirming selection as a guest:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SaL7Q0k_0Jc?si=tmdSNyvMWb8yqI-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
@@ -341,4 +403,5 @@ More information about the ticket system see the section on [membership access](
 
 ## Recordings
 
-Recordings are available through Future NHS which is a platform that anyone can join but workspaces are sometimes restricted. The NHS England R Community workspace where the [Coffee and Coding recordings](https://future.nhs.uk/NHSERcommunity/view?objectID=41908688) are not restricted.
+Recordings are available through Future NHS which is a platform that anyone can join but workspaces are sometimes restricted. 
+The NHS England R Community workspace where the [Coffee and Coding recordings](https://future.nhs.uk/NHSERcommunity/view?objectID=41908688) are not restricted.
