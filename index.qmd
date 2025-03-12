@@ -2,7 +2,7 @@
 
 <a alt="NHS-R Community's logo" href='https://nhsrcommunity.com/'><img src='https://raw.githubusercontent.com/nhs-r-community/assets/main/logo/nhsr-logo.svg' align="center" height="100" /></a>
 
-Welcome to the NHS-R Community Way book to the [NHS-R Community](https://nhsrcommunity.com/) based on [The Turing Way](https://the-turing-way.netlify.app/index.html#) guides and Community Handbook. 
+Welcome to the NHS-R Community Way book for the [NHS-R Community](https://nhsrcommunity.com/) based on [The Turing Way](https://the-turing-way.netlify.app/index.html#) guides and Community Handbook. 
 Like The Turing Way, this is an open source, open collaboration, and community-driven project. 
 We are called NHS-R Community but our contributors come from Local Authorities, Civil Service, Public Sector, Academia, Voluntary Sector, Charities and as individuals with no organisational connection. 
 Our goal is to promote R - extended to other free and open source data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences. 
