@@ -15,6 +15,7 @@ callout
 Carpentries
 cc'ing
 chris
+claire
 Clipchamp
 CRAN
 CSU
@@ -129,6 +130,7 @@ unconference
 upskilling
 url
 useR
+useR's
 usethis
 vickers
 VPN
