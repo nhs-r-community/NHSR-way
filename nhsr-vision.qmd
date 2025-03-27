@@ -71,7 +71,7 @@ There also continues to be a friendly and health specific question forum through
 6. Considerably change amongst national bodies has occurred since the workshop, nevertheless the NHS-R Community is present at some of the national body meetings in England and Wales.
 NHS-R Community is also working closely with the Government Data Science Community and is constantly seeking to connect with colleagues from across the UK and beyond the NHS, for example with Local Authority and Public Health.
 
-7. The Health and Care Analyst Conference (2023) has secured funding for such an event which is closely tied to the NHS-R Community through their both being hosted by The Strategy Unit (part of NHS Midlands & Lancashire Commissioning Support Unit).
+7. The Health and Care Analyst Conference (2023) has secured funding for such an event which is closely tied to the NHS-R Community through their both being hosted by The Strategy Unit (part of NHS Midlands and Lancashire).
 
 7. The GitHub repository [Demos and How tos](https://github.com/nhs-r-community/demos-and-how-tos) is a shared open resource for solutions to common problems.
 :::

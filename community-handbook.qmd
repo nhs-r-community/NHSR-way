@@ -147,7 +147,7 @@ Any restricted ticket event will be restricted to all or mostly `Core membership
 To become a Core member, sign up to the specific [event](https://events.nhsrcommunity.com/core-membership/) which has an accepted email list attached to it.
 
 ::: {.callout-note collapse="false" appearance="default" icon="true"}
-We are currently going through NHS Midlands and Lancashire CSU Information Governance and Cyber security systems to approve the Pretix system.
+We are currently going through NHS Midlands and Lancashire Information Governance and Cyber security systems to approve the Pretix system.
 
 Pretix is an open source ticket system built on Python. Whilst it's possible to host your own server we will be using the managed hosting system from Pretix itself.
 :::

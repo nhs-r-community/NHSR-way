@@ -67,7 +67,7 @@ If that is not possible, use an alternative such as ‘meaning’ or ‘that is�
 
 The NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like 
 
-> NHS Midland and Lancashire Commissioning Support Unit 
+> NHS Midland and Lancashire 
 
 becomes MLCSU.
 
