@@ -7,7 +7,7 @@ The following describes some of our existing outputs, but is not exhaustive.
 ## Virtual hosting platforms (important)
 
 Until October 2024 NHS-R Community used a Zoom account as well as hosting events using Microsoft Teams. 
-Zoom is no longer in use as our hosting organisation (NHS Midlands and Lancashire Commissioning Support Unit) do not have it on their approved software list.
+Zoom is no longer in use as our hosting organisation (NHS Midlands and Lancashire) do not have it on their approved software list.
 The default platform currently in use is therefore Microsoft Teams.
 :::
 

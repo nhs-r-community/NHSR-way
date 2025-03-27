@@ -7,7 +7,7 @@ Accordingly, everyone who participates in the NHS-R Community and the NHS-R Comm
 ::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Organisations (important)
 
-NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation. The hosting organisation is [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), which is part of NHS Midlands and Lancashire Commissioning Support Unit.
+NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation. The hosting organisation is [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), which is part of NHS Midlands and Lancashire.
 :::
 
 All core team members are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
@@ -36,7 +36,7 @@ Escalation, as detailed in this book, are to [Chris Beeley](chris.beeley1@nhs.ne
 
 The [central email](#contact-us) is accessed by Claire Welsh, Zoë Turner and administrative/support staff in The Strategy Unit.
 
-Claire Welsh and Zoë Turner are employees of NHS Midlands and Lancashire Commissioning Support Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit\@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+Claire Welsh and Zoë Turner are employees of NHS Midlands and Lancashire and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit\@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, class or experience level.
 
@@ -126,7 +126,7 @@ If the act is ongoing, any community member may act immediately, before reaching
 
 In situations where an individual community member acts unilaterally, they must inform [the core development team](#contact-us) as a central point of contact as soon as possible, and report their actions for review within 24 hours.
 
-It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
+It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
 
 ## Less-Urgent Situations
 
@@ -210,7 +210,7 @@ Examples include but are not restricted to:
 -   small numbers which make groups identifiable
 -   authorisation codes that are not Patient Access Tokens as these are automatically deleted (as tokens) by GitHub.
 
-It is likely that this situation will also require incidents being raised in NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations and may be considered as breaches.
+It is likely that this situation will also require incidents being raised in NHS Midlands and Lancashire as well as any other corresponding organisations and may be considered as breaches.
 
 ### Pull Requests/Forks/clones with sensitive information
 
