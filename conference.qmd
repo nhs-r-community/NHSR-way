@@ -6,8 +6,8 @@ A reminder that all our events are covered by our [Code of Conduct](#code-of-con
 
 Successful speakers are expected to follow the following guidelines:
 
-- if your talk changes details are emailed to [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) as soon as possible. 
-If your talk changes substantially it may not be possible to accommodate your new talk as this hasn't been agreed through the sifting.
+- if you make changes to your talk, details should be emailed to [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) as soon as possible. 
+If your talk changes substantially it may not be possible to accommodate your new talk as this hasn't been agreed through the sifting process.
 - you may use your own or organisation's slides.
 We just ask that these are published publicly and a link shared.
 - we accept various formats of presentations and offer our [own Quarto slides](https://github.com/nhs-r-community/NHSR-presentations) as templates - these are free to copy, change and reuse.
@@ -16,7 +16,7 @@ This is because the audience often do not hold budgets and are attending the con
 More information can be found in the section on [sponsorship](#sponsor) with regard to the financing of the conference and community.
 - the default is to share all recordings so please let us know if you don't want your recording to be shared on YouTube.
 - if you cannot attend, for whatever reason and at any time, please do let us know as we will have some talks prepared for this eventuality or we may be able to extend breaks.
-These are much easier to accommodate when we have notice to prepare and where we have to change the agenda this can help online attendees with managing their attendance.
+These are much easier to accommodate when we have notice to prepare, and where we have to change the agenda, this can help online attendees with managing their attendance.
 
 We also offer the following advice:
 
@@ -30,7 +30,7 @@ This is a tough one as work often takes priority but technical issues can occur 
 
 :::{.callout-important collapse=false appearance='default' icon=true}
 ## Alternative text (important)
-We ask in the pre-survey question if the presenter agrees to include alternative text in their presentations and this is a mandatory agreement.
+We ask in a pre-survey question if the presenter agrees to include alternative text in their presentations, and this is a mandatory agreement.
 As an open source conference we hope that people will share their presentations after the event and we can either host these in an NHS-R Community GitHub repository or link to them. 
 Consequently, in line with our own requirements to be accessible we ask that every image and chart has [alternative text](#alt-text) and will offer support to those new to doing this.
 :::
@@ -69,8 +69,6 @@ Full details are shared: <https://github.com/matt-dray/nhs-r-2023>
 # RPySOC 24 Conference - call for abstracts
 
 21 and 22 November 2024, Hall 11, ICC Birmingham
-
-We are now inviting the submission of abstracts of presentations for inclusion in the conference programme.
 
 ## Programme
 

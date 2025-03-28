@@ -67,7 +67,7 @@ If that is not possible, use an alternative such as ‘meaning’ or ‘that is�
 
 The NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like 
 
-> NHS Midland and Lancashire Commissioning Support Unit 
+> NHS Midland and Lancashire 
 
 becomes MLCSU.
 
@@ -167,12 +167,6 @@ It is highly recommended that code that is produced for and by NHS-R Community h
 
 The use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.
 
-## Package and function formatting
-
-As packages and functions in R sometimes use real words and can be confused in text, NHS-R Community refers to packages within curly brackets, for example, {tidyverse}, {ggplot2}, {janitor}.
-Functions are formatted with back ticks to change the rendered format and include the rounded brackets, for example, `summarise()` and `filter()`.
-
-The case will also match the original package and function.
 
 # Branding
 
@@ -206,7 +200,7 @@ More information can be found on the [brand.yml](https://posit-dev.github.io/bra
 
 Where possible all other guidance from the [NHS Service Manual](https://service-manual.nhs.uk/design-system/styles/typography) is followed.
 
-NHS-R Community does use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to.
+NHS-R Community does not use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to.
 Code is available in the `_brand.yml` but is commented out and so will not run.
 
 Arial is used in all outputs following NHS guidance of using Arial where Frutiger is not available.
@@ -229,7 +223,6 @@ remotes::install_github("nhs-r-community/name-of-package")
 
 ```
 
-```
 ## Contributing
 
 Please see our 

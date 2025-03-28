@@ -4,111 +4,97 @@ We value the participation of every member of our community and want to ensure t
 
 Accordingly, everyone who participates in the NHS-R Community and the NHS-R Community Way project is expected to show respect and courtesy to other community members at all times.
 
-:::{.callout-important collapse=false appearance='default' icon=true}
+::: {.callout-important collapse="false" appearance="default" icon="true"}
 ## Organisations (important)
-NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation.
-The hosting organisation is The Strategy Unit, which is part of NHS Midlands and Lancashire Commissioning Support Unit.
+
+NHS-R Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation. The hosting organisation is [The Strategy Unit](https://www.strategyunitwm.nhs.uk/), which is part of NHS Midlands and Lancashire.
 :::
 
-
-Zoë Turner, as lead investigator in this community, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
+All core team members are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
 To make clear what is expected, we ask all members of the community to conform to the following Code of Conduct.
 
-# Introduction 
+# Introduction
 
-The NHS-R Community Way is a community-oriented and -led project, although supported through the NHS it is not exclusively open to just NHS employees and, as such, we have members from other public sector organisations, academia, charities, the voluntary sector as well as individuals who have an interest in healthcare data and data science.
-We value the involvement of everyone in the community.
-We are committed to creating a friendly and respectful place for learning, teaching and contributing.
-All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
+The NHS-R Community Way is a community-oriented and -led project, although supported through the NHS it is not exclusively open to just NHS employees and, as such, we have members from other public sector organisations, academia, charities, the voluntary sector as well as individuals who have an interest in healthcare data and data science. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
 
-To make clear what is expected, everyone participating in activities associated with the NHS-R Community and the NHS-R Community Way project is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in-person meetings, conferences, workshops, and communications online via GitHub and the NHS-R Community Slack.
+To make clear what is expected, everyone participating in activities associated with the NHS-R Community and the NHS-R Community Way project is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in-person meetings, conferences, workshops, and communications online via GitHub and the NHS-R Community Slack.
 
-Presentation slides and posters should not contain material that does not follow this Code of Conduct, for example, anything offensive or sexualised. 
-If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted in the abstract and, in the case of oral contributions, at the start of the talk or session.
-If the slides are shared or hosted by NHS-R Community, these should also contain a covering slide and details in the README to highlight the inclusion of this content.
+Presentation slides and posters should not contain material that does not follow this Code of Conduct, for example, anything offensive or sexualised. If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted in the abstract and, in the case of oral contributions, at the start of the talk or session. If the slides are shared or hosted by NHS-R Community, these should also contain a covering slide and details in the README to highlight the inclusion of this content.
 
 ## Core Development Team {#core-team}
 
 The NHS-R Community has a core development team which consists of:
 
-* [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct
+-   [Claire Welsh](claire.welsh8@nhs.net) - NHS-R Community Manager
 
-Escalation, as detailed in this book, are to [Chris Beeley](chris.beeley1@nhs.net), a senior manager in The Strategy Unit. 
+-   [Zoë Turner](mailto:zoe.turner3@nhs.net) - who is also the lead investigator of the NHS-R Community Way and is responsible for enforcing the Code of Conduct (On secondment)
 
-The [central email](#contact-us) is accessed by Zoë Turner and administrative/support staff in The Strategy Unit.
+Escalation, as detailed in this book, are to [Chris Beeley](chris.beeley1@nhs.net), a senior manager in The Strategy Unit.
 
-Zoë Turner is an employee of NHS Midlands and Lancashire Commissioning Support Unit and is not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+The [central email](#contact-us) is accessed by Claire Welsh, Zoë Turner and administrative/support staff in The Strategy Unit.
 
-The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
-As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
-We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, class or experience level.
+Claire Welsh and Zoë Turner are employees of NHS Midlands and Lancashire and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through [strategy.unit\@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
-Everyone who participates in the NHS-R Community activities is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in person focus groups and workshops, and communications online via GitHub and the NHS-R Slack group.
-By participating, contributors indicate their acceptance of the procedures by which the NHS-R Community resolves any Code of Conduct incidents, which may include storage and processing of their personal information as well as sharing of that information with organisations.
+The NHS-R Community Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, class or experience level.
+
+Everyone who participates in the NHS-R Community activities is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the NHS-R Community including, but not limited to, in person focus groups and workshops, and communications online via GitHub and the NHS-R Slack group. By participating, contributors indicate their acceptance of the procedures by which the NHS-R Community resolves any Code of Conduct incidents, which may include storage and processing of their personal information as well as sharing of that information with organisations.
 
 ## Expected Behaviour
 
-We are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications.
-The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:
+We are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications. The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:
 
-* **Be respectful of different viewpoints and experiences**. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.
-* **Use welcoming and inclusive language**. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.
-* **Do not harass people**. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.
-* **Respect the privacy and safety of others**. Do not take photographs or screen shares of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent ("doxing") is a form of harassment.
-* **Be considerate of others’ participation**. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.
-* **Don’t be a bystander**. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.
-* As an overriding general rule, please **be intentional in your actions and humble in your mistakes**.
+-   **Be respectful of different viewpoints and experiences**. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.
+-   **Use welcoming and inclusive language**. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.
+-   **Do not harass people**. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.
+-   **Respect the privacy and safety of others**. Do not take photographs or screen shares of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent ("doxing") is a form of harassment.
+-   **Be considerate of others’ participation**. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.
+-   **Don’t be a bystander**. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.
+-   As an overriding general rule, please **be intentional in your actions and humble in your mistakes**.
 
-All interactions should be professional regardless of platform: either online or in-person.
-See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actuallys, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
+All interactions should be professional regardless of platform: either online or in-person. See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actuallys, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
 
 ## Unacceptable Behaviour
 
 Examples of unacceptable behaviour by the NHS-R community members at any project event or platform include:
 
-* written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
-* causing someone to fear for their safety, such as through stalking, following, or intimidation
-* violent threats or language directed against another person
-* the display of sexual or violent images
-* unwelcome sexual attention
-* nonconsensual or unwelcome physical contact
-* sustained disruption of talks, events or communications
-* insults or put downs
-* sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
-* excessive swearing
-* incitement to violence, suicide, or self-harm
-* continuing to initiate interaction (including photography or recording) with someone after being asked to stop
-* publication of private communication without consent
+-   written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+-   causing someone to fear for their safety, such as through stalking, following, or intimidation
+-   violent threats or language directed against another person
+-   the display of sexual or violent images
+-   unwelcome sexual attention
+-   nonconsensual or unwelcome physical contact
+-   sustained disruption of talks, events or communications
+-   insults or put downs
+-   sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+-   excessive swearing
+-   incitement to violence, suicide, or self-harm
+-   continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+-   publication of private communication without consent
 
 ## Consequences of Unacceptable Behaviour
 
-Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
-This applies to all NHS-R Community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund if a cost has been incurred), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to all NHS-R Community events and platforms, either online or in-person. If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund if a cost has been incurred), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
 
-It may be that behaviour deemed unacceptable within the NHS-R Community does not necessarily correspond to regulations or policies from hosting organisations to an event or to the organisation (where applicable) that a person is representing. Under these circumstances we expect that any missing behaviours from either organisation or group are respected but that the NHS-R Community Code of Conduct is adhered to and amended to include any missing behaviours as soon as possible. 
+It may be that behaviour deemed unacceptable within the NHS-R Community does not necessarily correspond to regulations or policies from hosting organisations to an event or to the organisation (where applicable) that a person is representing. Under these circumstances we expect that any missing behaviours from either organisation or group are respected but that the NHS-R Community Code of Conduct is adhered to and amended to include any missing behaviours as soon as possible.
 
 ## Feedback
 
-This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting Zoë Turner at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net) or by making a pull request to this document on GitHub.
+This Code of Conduct is not intended as a static set of rules by which everyone must abide. Rather, you are invited to make suggestions for updates or clarifications by making a pull request to this document on GitHub.
 
 # Incident Reporting Guidelines
 
 ## Contact points
 
-If you feel able to, please contact Zoë Turner by email at [zoe.turner3@nhs.net](mailto:zoe.turner3@nhs.net).
+If you feel able to, please contact [our inbox](nhs.rcommunity@nhs.net) or email [claire.welsh8\@nhs.net](mailto:claire.welsh@nhs.net).
 
 ## Alternate contact points
 
-If you do not feel comfortable contacting Zoë Turner, please report an incident to Chris Beeley by email at [chris.beeley1@nhs.net](mailto:chris.beeley1@nhs.net).
+If you do not feel comfortable contacting either of the above, please report an incident to Chris Beeley by email at [chris.beeley1\@nhs.net](mailto:chris.beeley1@nhs.net).
 
-If you do not feel comfortable contacting either Zoë Turner or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
+If you do not feel comfortable contacting either Claire, the inbox, or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through [strategy.unit\@nhs.net](mailto:strategy.unit@nhs.net) which neither have access to.
 
 ## What to do if someone is in physical danger
 
@@ -120,109 +106,92 @@ A detailed enforcement policy is available in the Enforcement Manual below.
 
 # Enforcement Manual
 
-This enforcement manual is used when we respond to an issue to make sure we're consistent and fair.
-Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
+This enforcement manual is used when we respond to an issue to make sure we're consistent and fair. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
 ## The Code of Conduct Committee
 
 The Code of Conduct committee is:
 
-* Zoë Turner: zoe.turner3@nhs.net
-* Chris Beeley: chris.beeley1@nhs.net
+-   [Zoë Turner: zoe.turner3\@nhs.net (On secondment)]{style="colour:grey;"}
+-   Chris Beeley: chris.beeley1\@nhs.net
+-   Claire Welsh: claire.welsh8\@nhs.net
 
 We will always seek to build a larger committee including members outside of the core development team.
 
 ## Urgent Situations: Acting Unilaterally
 
-If the incident involves physical danger, or involves a threat to anyone's safety (for example threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
-This can include contacting law enforcement (or other local personnel) and speaking on behalf of the NHS-R Community.
+If the incident involves physical danger, or involves a threat to anyone's safety (for example threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member. This can include contacting law enforcement (or other local personnel) and speaking on behalf of the NHS-R Community.
 
-If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation.
-In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
+If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
 
 In situations where an individual community member acts unilaterally, they must inform [the core development team](#contact-us) as a central point of contact as soon as possible, and report their actions for review within 24 hours.
 
-It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
+It is likely that a situation at this level will require incidents being raised in the NHS Midlands and Lancashire as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with [the core development team](#contact-us).
 
 ## Less-Urgent Situations
 
 Upon receiving a report of an incident, the Code of Conduct committee will review the incident and determine, to the best of their ability:
 
-- whether this is an ongoing situation
-- whether there is a threat to anyone's physical safety
-- what happened
-- whether this event constitutes a Code of Conduct violation
-- who, if anyone, was the bad actor
-- what action, if any, needs to be taken with organisations
+-   whether this is an ongoing situation
+-   whether there is a threat to anyone's physical safety
+-   what happened
+-   whether this event constitutes a Code of Conduct violation
+-   who, if anyone, was the bad actor
+-   what action, if any, needs to be taken with organisations
 
-This information will be collected either in person or in writing.
-The Code of Conduct committee will provide a written summary of the information surrounding the incident.
-All participants will be anonymised in the summary report, referred to as "Community Member 1", "Community Member 2", or "Core Development Team Member 1".
-The "de-anonymising key" will be kept in a separate file and only accessed to link repeated reports against the same person over time.
+This information will be collected either in person or in writing. The Code of Conduct committee will provide a written summary of the information surrounding the incident. All participants will be anonymised in the summary report, referred to as "Community Member 1", "Community Member 2", or "Core Development Team Member 1". The "de-anonymising key" will be kept in a separate file and only accessed to link repeated reports against the same person over time.
 
-The Code of Conduct committee will aim to have a resolution agreed upon within 5 working days.
-In the event that a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution.
+The Code of Conduct committee will aim to have a resolution agreed upon within 5 working days. In the event that a resolution can't be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution.
 
 ## Resolutions
 
-The Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach consensus and deadlocks for over a week, Zoë Turner, as lead investigator of the NHS-R Community Way project, will break the tie.
-If Zoë Turner is unable to take part in the discussion due to a conflict of interest, Chris Beeley, as a second member of the Code of Conduct committee, will make the decision.
+The Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question. If the committee cannot reach consensus and deadlocks for over a week, Zoë Turner, as lead investigator of the NHS-R Community Way project, will break the tie. If Zoë Turner is unable to take part in the discussion due to a conflict of interest, Chris Beeley, as a second member of the Code of Conduct committee, will make the decision.
 
 Possible responses may include:
 
-* A mediated conversation or agreement between the impacted community members.
-* A request for a verbal or written apology, public or private, from a community member.
-* A public announcement clarifying community responsibilities under the Code of Conduct.
-* Nothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.
-* A private in-person conversation between a member of the team and the individual(s) involved.
-  In this case, the person who has the conversation will provide a written summary for record keeping.
-* A private written reprimand from a member of the core development team to the individual(s) involved.
-  In this case, the core development team member will deliver that reprimand to the individual(s) over email, cc'ing [the core development team](#contact-us) for record keeping.
-* A public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on).
-  The committee may choose to publish this message elsewhere for posterity.
-* An imposed "time out" from online spaces.
-  Zoë Turner and Chris Beeley will communicate this "time out" to the individual(s) involved.
-* A permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events and so on).
-  The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
-  If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
+-   A mediated conversation or agreement between the impacted community members.
+-   A request for a verbal or written apology, public or private, from a community member.
+-   A public announcement clarifying community responsibilities under the Code of Conduct.
+-   Nothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.
+-   A private in-person conversation between a member of the team and the individual(s) involved. In this case, the person who has the conversation will provide a written summary for record keeping.
+-   A private written reprimand from a member of the core development team to the individual(s) involved. In this case, the core development team member will deliver that reprimand to the individual(s) over email, cc'ing [the core development team](#contact-us) for record keeping.
+-   A public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on). The committee may choose to publish this message elsewhere for posterity.
+-   An imposed "time out" from online spaces. Zoë Turner, Claire Welsh and Chris Beeley will communicate this "time out" to the individual(s) involved.
+-   A permanent or temporary ban from some or all NHS-R Community project spaces (GitHub, in-person events and so on). The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained. If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
-Once a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution.
-The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record.
-However, the Code of Conduct committee is not required to act on this feedback.
+Once a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution. The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record. However, the Code of Conduct committee is not required to act on this feedback.
 
 ## Conflicts of Interest
 
-In the event of any conflict of interest such that Zoë Turner is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that both are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit and/or NHS Midland and Lancashire Commissioning Support Unit.
+In the event of any conflict of interest such that Zoë Turner or Claire Welsh are not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that all are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit and/or NHS Midland and Lancashire Commissioning Support Unit.
 
 # GitHub code of contribution
 
-As well as the Code of Conduct outlined in this chapter, specific Code of Conducts are required for contributions through GitHub.
-Details on how to generate this file can be found in the [Statements on Tools](https://tools.nhsrcommunity.com/contribution.html#code-of-conduct).
+As well as the Code of Conduct outlined in this chapter, specific Code of Conducts are required for contributions through GitHub. Details on how to generate this file can be found in the [Statements on Tools](https://tools.nhsrcommunity.com/contribution.html#code-of-conduct).
 
 # Notice and Takedown policy
 
 If you are a rights holder and are concerned that you have found material on GitHub or any published web page for which you have not given permission, or is not covered by a limitation or exception in national law, please [contact us](#contact-us) immediately with the following information:
 
-1. Your contact details
-1. The full details of the material
-1. The exact and full url where you found the material
-1. Details if you are the rights holder and a statement that, under penalty of perjury, you are the rights holder or are an authorised representative
-1. If you are not the rights holder, details of who to contact.
+1.  Your contact details
+2.  The full details of the material
+3.  The exact and full url where you found the material
+4.  Details if you are the rights holder and a statement that, under penalty of perjury, you are the rights holder or are an authorised representative
+5.  If you are not the rights holder, details of who to contact.
 
 Upon receipt of notification we will:
 
-1. Acknowledge receipt of your complaint and will make an initial assessment of the validity and plausibility of the complaint
-1. Upon receipt of a valid notice the material will be temporarily removed from our published website pending an agreement to remove permanently and from all records
-1. Were appropriate, we will contact the contributor who deposited the material
-The contributor will be notified that the material is subject to a removal request
-1. The notifier and the contributor, if different, will be encouraged to discuss and resolve any issues swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
-    - The material is replaced on our website unchanged
-    - The material is replaced on our website with changes
-    - The material is permanently removed from our website including the GitHub code history which will remove the material using the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) as recommended by GitHub.
-   
-:::{.callout-warning collapse=false appearance='default' icon=true}
+1.  Acknowledge receipt of your complaint and will make an initial assessment of the validity and plausibility of the complaint
+2.  Upon receipt of a valid notice the material will be temporarily removed from our published website pending an agreement to remove permanently and from all records
+3.  Where appropriate, we will contact the contributor who deposited the material The contributor will be notified that the material is subject to a removal request
+4.  The notifier and the contributor, if different, will be encouraged to discuss and resolve any issues swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
+    -   The material is replaced on our website unchanged
+    -   The material is replaced on our website with changes
+    -   The material is permanently removed from our website including the GitHub code history which will remove the material using the [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) as recommended by GitHub.
+
+::: {.callout-warning collapse="false" appearance="default" icon="true"}
 ## Permanent change to GitHub history (warning)
+
 Note that the use of the BFG Repo Cleaner will result in there being no further record of deleted material and will result in a fundamental change to the GitHub history which will mean that any forks or clones will no longer be linked to the original repository.
 
 A note that a change like this has occurred to the GitHub history will appear on the `README.md` to notify people of the change but will not detail the reasons why.
@@ -234,14 +203,14 @@ If the contributor and the complainant are unable to agree a solution, the mater
 
 In the event that any sensitive information has been published changes will be made immediately to the text and code (including history) to redact the data.
 
-Examples include but are not restricted to: 
+Examples include but are not restricted to:
 
-- patient data
-- staff data
-- small numbers which make groups identifiable 
-- authorisation codes that are not Patient Access Tokens as these are automatically deleted (as tokens) by GitHub.
+-   patient data
+-   staff data
+-   small numbers which make groups identifiable
+-   authorisation codes that are not Patient Access Tokens as these are automatically deleted (as tokens) by GitHub.
 
-It is likely that this situation will also require incidents being raised in NHS Midlands and Lancashire Commissioning Support Unit as well as any other corresponding organisations and may be considered as breaches.
+It is likely that this situation will also require incidents being raised in NHS Midlands and Lancashire as well as any other corresponding organisations and may be considered as breaches.
 
 ### Pull Requests/Forks/clones with sensitive information
 
@@ -251,8 +220,6 @@ In the event that sensitive information exists in forks/clones or is from anothe
 
 The majority of this Code of Conduct code is adapted from [The Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) under the creative commons attribution license.
 
-Some parts have been added from the Code of Conduct that was originally list on the NHS-R Community website and had acknowledgements: [SRCCON](https://srccon.org/conduct/) This code of conduct was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/) which was a revision of the code of conduct used at previous useR!s and also drew from [rOpenSci's code of conduct.](https://ropensci.org/coc/). 
-Exact text added can be found related to [issue 11](https://github.com/nhs-r-community/NHSR-way/issues/11) on the GitHub.
+Some parts have been added from the Code of Conduct that was originally list on the NHS-R Community website and had acknowledgements: [SRCCON](https://srccon.org/conduct/) This code of conduct was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/) which was a revision of the code of conduct used at previous useR's and also drew from [rOpenSci's code of conduct.](https://ropensci.org/coc/). Exact text added can be found related to [issue 11](https://github.com/nhs-r-community/NHSR-way/issues/11) on the GitHub.
 
 We really appreciate the work that all of the communities that helped build The Turing Way, with credit particularly to Kirstie Whitaker. The Turing Way acknowledged many communities in their work and we also extend our appreciation to those groups and individuals (listed below). The ease of producing this comprehensive Code of Conduct is because of the acknowledged work being published under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA). This too is released under the same licence which means you are free to share and adapt the work so long as the attribution to and the NHS-R Community is retained, along with the attribution to The Turing Way, the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
-

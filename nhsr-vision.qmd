@@ -28,12 +28,12 @@ Better collaboration between R users working in academia and those in the NHS wo
 
 ## Training
 
-The NHS-R Community has developed/is developing training with many of the workshops being made available on the NHS-R Community YouTube channel and course material available on its GitHub (brought together in a [Training book](http://training.nhsrcommunity.com/)). 
+The NHS-R Community has developed/is developing training, with many of the workshops being made available on the NHS-R Community YouTube channel and course material available on its GitHub (brought together in a [Training book](http://training.nhsrcommunity.com/)). 
 
 ## Development 
 
 The NHS-R Community comprises members with a very wide diversity of job roles and skills. 
-Although there is no one route to being a skilled and useful analyst/data scientist/R or python developer in health and social care nonetheless the NHS-R Community could usefully contribute to supporting recruitment, training and development of those who use R and other open code approaches to data science and analysis. 
+Although there is no one route to being a skilled and useful analyst/data scientist/R or python developer in health and social care, nonetheless the NHS-R Community could usefully contribute to supporting recruitment, training and development of those who use R and other open code approaches to data science and analysis. 
 
 ## Appendix A: workshop
 
@@ -63,15 +63,15 @@ The following areas were identified.
 3.	Provide an ‘Ask us’ hub where leaders and analysts can refer their questions or issues so that they can get a "grass roots" view from the NHS-R Community on how these might be best addressed.
 
 ::: aside
-3. Since the workshop the NHS-R Community has started a "drop in" regular hour once a week.
+3. Since the workshop the NHS-R Community has started a "drop-in" regular hour once a week.
 There also continues to be a friendly and health specific question forum through the NHS-R Community Slack in the #help-with-r channel.
 
-5. A Quarto book [Statement on Tools](https://tools.nhsrcommunity.com/) has been set up to help and support people address tackle these issues. 
+5. A Quarto book [Statement on Tools](https://tools.nhsrcommunity.com/) has been set up to help and support people tackle these issues. 
 
 6. Considerably change amongst national bodies has occurred since the workshop, nevertheless the NHS-R Community is present at some of the national body meetings in England and Wales.
 NHS-R Community is also working closely with the Government Data Science Community and is constantly seeking to connect with colleagues from across the UK and beyond the NHS, for example with Local Authority and Public Health.
 
-7. The Health and Care Analyst Conference (2023) has secured funding for such an event which is closely tied to the NHS-R Community through their both being hosted by The Strategy Unit (part of NHS Midlands & Lancashire Commissioning Support Unit).
+7. The Health and Care Analyst Conference (2023) has secured funding for such an event which is closely tied to the NHS-R Community through their both being hosted by The Strategy Unit (part of NHS Midlands and Lancashire).
 
 7. The GitHub repository [Demos and How tos](https://github.com/nhs-r-community/demos-and-how-tos) is a shared open resource for solutions to common problems.
 :::
