@@ -59,14 +59,14 @@ nominees who can evidence **3 or more** of the following within the past
 -   Leading (or co-piloting) a training session
 -   Delivering a webinar
 -   Delivering a workshop
--   Submitting a useable non-code contribution, e.g. NHS-R artwork
+-   Submitting a usable non-code contribution, e.g. NHS-R artwork
 -   Representation of the NHS-R Community at external events, for
     example
 -   Any other contribution deemed 'significant' by the core team.
 
 Your submission could contain a mixture of different types of
-contribution, for example one blog, one training session and a PR, or
-alternatively, three PRs.
+contribution, for example one blog, one training session and a pull request, or
+alternatively, three pull requests.
 
 Nominations for Fellows will be brought to the NHS-R [core development
 team](#core-team). Should your nomination not meet the above criteria,
@@ -79,7 +79,7 @@ required to confirm no conflict of interest at the outset of any
 decision making. Should a conflict of interest be noted, that committee
 member will recuse themselves and alternative will be found. The results
 of this adjudication will be emailed to you on completion of the
-process. If after 2 months from the date of submition the adjudication
+process. If after 2 months from the date of submission the adjudication
 committee have not declined your nomination, a Fellowship will be
 awarded.
 
