@@ -1,31 +1,106 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # NHS-R Community Fellowship {.unnumbered}
 
 ## Purpose
 
-NHS-R Community gives the honorary title of Fellow in recognition and acknowledgement to those members of the NHS-R Community who have made a significant contribution to the Community. 
+NHS-R Community awards the honorary title of Fellow in recognition and
+acknowledgement to those members of the NHS-R Community who have made a
+significant contribution to the Community.
 
-Examples of contribution may be creating a workshop; running workshops; being on the NHS-R Committee meetings; submitting several blogs or contributing significantly to code hosted through NHS-R Community. 
+Examples of contributions may be creating a workshop, running workshops,
+attending NHS-R Committee meetings, submitting several blogs or
+contributing significantly to code hosted through NHS-R Community (see
+[below](#criteria) for fellowship qualification details).
 
-It is also a way for active members to be able to refer to their commitment to NHS-R Community in social media and/or on CVs. Because the Fellowship is given to members who are active in the Community there is no restriction on membership (core or fringe), time involved with the community or working in any particular industry or organisation. 
+This is a way for active members to be able to refer to their commitment
+to the NHS-R Community in social media and/or on CVs. Because the
+Fellowship is given to members who are active in the Community there is
+no restriction on membership (core or fringe), time involved with the
+community or working in any particular industry or organisation.
 
 ## Use of Fellow title
 
-As an honorary title, those awarded Fellowship are at liberty to use it as they see appropriate. It is expected that Fellows will be aware of, promote and follow the NHS-R Community Code of Conduct when contributing to any NHS-R Community events.
+As an honorary title, those awarded Fellowship are at liberty to use it
+as they see appropriate. It is expected that Fellows will be aware of,
+promote and follow the NHS-R Community Code of Conduct when contributing
+to any NHS-R Community events.
 
-Fellows agree to their name and organisation (if appropriate as Fellows can be students or not currently in work) at the time of nomination, being promoted through the NHS-R Community website for 3 years, after which their Fellowship will be reviewed by the NHS-R Community Committee for renewal or details removed from the website. We ask that details are updated in personal areas to reflect this or refer to being a Previous Fellow. 
+Fellows agree to their name and organisation (if appropriate as Fellows
+can be students or not currently in work) at the time of nomination,
+being promoted through the NHS-R Community website for 3 years, after
+which their Fellowship will be reviewed by the NHS-R Community Committee
+for renewal or details removed from the website. We ask that details are
+updated in personal areas to reflect this or refer to being a Previous
+Fellow.
 
-## Becoming a Fellow
+## Becoming a Fellow {#criteria}
 
-All members of the [NHS-R Community Committee](nhsr-committee.qmd) will be a Fellow and membership of the Committee itself is subject to membership conditions which need to be fulfilled for this title.
+Nominees who are members of the [NHS-R Community
+Committee](nhsr-committee.qmd) and who have attended 3 or more committee
+meetings within the past 12 months will be awarded Fellow status (see the 
+[membership criteria](#committee) for joining the committee). 
+Similarly, community members
+who are on the Conference organisation committee, and all members of the
+[core development team](#core-team) will automatically qualify for
+Fellowships. Outside of these groups, Fellowships will be awarded to
+nominees who can evidence **3 or more** of the following within the past
+12 months:
 
-Nominations for Fellows will be brought to the NHS-R Community Committee and discussions on Fellowship approval will be noted in the minutes. Where Fellowship is discussed and not agreed this will be given back to the nominee and will not be recorded formally.
+-   Blog submission and publication on the [NHS-R
+    website](https://nhsrcommunity.com/blog/)
+-   Pull request of reasonable size\* submitted to one of the [NHS-R
+    Community GitHub repositories](https://github.com/nhs-r-community).
+    \**As judged by the [core team](#core-team)*
+-   Leading (or co-piloting) a training session
+-   Delivering a webinar
+-   Delivering a workshop
+-   Submitting a useable non-code contribution, e.g. NHS-R artwork
+-   Representation of the NHS-R Community at external events, for
+    example
+-   Any other contribution deemed 'significant' by the core team.
 
-Nominations can be from anyone, for themselves or on behalf of someone else, and they do not have to currently be on the Committee or a Fellow. The nomination will be via email to [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net) giving the following details:
+Your submission could contain a mixture of different types of
+contribution, for example one blog, one training session and a PR, or
+alternatively, three PRs.
 
--	Name
--	Organisation
--	Details and publicly shareable links to work and activities completed in the name of or on behalf of NHS-R Community. These activities should be in the open, reflect the Code of Conduct of the NHS-R Way and be numerous. For example, writing a blog is a great way to contribute to the community but to be seen as a Fellow of NHS-R Community several blogs will need to be published on the NHS-R Community website.
- 
-The committee will review nominations as they are submitted and they can be throughout the year.
+Nominations for Fellows will be brought to the NHS-R [core development
+team](#core-team). Should your nomination not meet the above criteria,
+but be thought worthy of further consideration, we will submit your
+nomination to the Fellowship Adjudication Committee.
 
+This committee will contain the [core development team](#core-team) and
+one or more non-Strategy Unit NHS-R Committee members, who will be
+required to confirm no conflict of interest at the outset of any
+decision making. Should a conflict of interest be noted, that committee
+member will recuse themselves and alternative will be found. The results
+of this adjudication will be emailed to you on completion of the
+process. If after 2 months from the date of submition the adjudication
+committee have not declined your nomination, a Fellowship will be
+awarded.
 
+The name, organisation (if applicable), contribution type(s) and date of
+award will be recorded and displayed on the NHS-R website for 3 years,
+at which time the Fellowship will expire unless renewed (using the same
+criteria as above).
+
+## Submit your nomination
+
+Nominations can be from anyone, for themselves or on behalf of someone
+else.
+Nomination will be via email to
+[nhs.rcommunity\@nhs.net](nhs.rcommunity@nhs.net) giving the following
+details:
+
+-   Name
+-   Organisation
+-   Details and publicly shareable links to work and activities
+    completed in the name of or on behalf of NHS-R Community. These
+    activities should be in the open and reflect the Code of Conduct of the
+    NHS-R Way.
+
+The committee will review nominations as they are submitted throughout the year.
