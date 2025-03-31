@@ -59,7 +59,7 @@ nominees who can evidence **3 or more** of the following within the past
 -   Leading (or co-piloting) a training session
 -   Delivering a webinar
 -   Delivering a workshop
--   Submitting a usable non-code contribution, e.g. NHS-R artwork
+-   Submitting a usable non-code contribution, for example NHS-R artwork
 -   Representation of the NHS-R Community at external events, for
     example
 -   Any other contribution deemed 'significant' by the core team.
