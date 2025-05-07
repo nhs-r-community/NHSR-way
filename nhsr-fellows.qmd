@@ -9,7 +9,7 @@ editor:
 ## Purpose
 
 NHS-R Community awards the honorary title of Fellow in recognition and
-acknowledgement to those members of the NHS-R Community who have made a
+acknowledgement of those members of the NHS-R Community who have made a
 significant contribution to the Community.
 
 Examples of contributions may be creating a workshop, running workshops,
