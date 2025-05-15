@@ -1,0 +1,31 @@
+# Accessibility {#accessibility .unnumbered}
+
+We have an accessibility statement on the [NHS-R Community website](https://nhsrcommunity.com/accessibility.html) outlining the design decisions and detailing non-accessible content. 
+It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.
+
+We have not currently assessed for compliant status as this is not something we can confidently assess ourselves. 
+We have checked pages using the [Web Accessibility Evaluation Tool](https://wave.webaim.org/) to highlight areas for concern and improvement and acted upon many of its recommendations.
+
+We collate useful Government, Public Sector and R based links related to accessibility in the [Open Analytics book](https://resources.nhsrcommunity.com/accessibility.html).
+
+## Subtitles
+
+Currently our YouTube recordings only have automatically generated subtitles which are not sufficiently accessible. 
+It is an ongoing project to check recordings and correct text and we welcome assistance in this.
+
+The move of podcasts from Soundcloud to YouTube has offered the opportunity to apply subtitles and this has been generated using the free software Clipchamp.
+
+## Alternative text {#alt-text}
+
+Pictures and charts in any of the NHS-R Community outputs including the website, blogs and books are expected to have alternative text or Captions for greater accessibility. 
+There are good practice guides like [Webaim](https://webaim.org/techniques/alttext/) and [Turing Way](https://book.the-turing-way.org/community-handbook/accessibility/alt-text). 
+Public bodies have a responsibility to produce accessible products and details are explained in Government pages like [Digital accessibility](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) and for specific analytical publications guidance from the [Government Analysis Function](https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/).
+
+We encourage corrections that need to be made for accessibility in all NHS-R Community products and code and these can be through issues, pull requests or emailing [the core development team](#contact-us). 
+Where appropriate our courses include details on how to code for alternative text, for example in the [Introduction to Quarto](https://intro-quarto.nhsrcommunity.com/session-images.html#/alt-text).
+
+::: {.callout-important collapse="false" appearance="default" icon="true"}
+## Keep learning (important)
+
+As with anything new, getting started with something like adding alternative text to pictures and charts will take effort and not necessarily be correct first time. We have certainly made mistakes in NHS-R Community but we constantly strive to make improvements.
+:::

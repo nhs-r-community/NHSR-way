@@ -21,15 +21,24 @@ book:
       repo: nhs-r-community/NHSR-way
   chapters:
     - index.qmd
-    - code-of-conduct.qmd
-    - nhsr-committee.qmd
-    - nhsr-fellows.qmd
-    - style-guides.qmd
-    - community-handbook.qmd
-    - training.qmd
-    - conference.qmd
     - nhsr-vision.qmd
-    - references.qmd
+    - part: get-involved.qmd
+      chapters:
+        - Coffee_and_code.qmd
+        - training.qmd
+        - webinars.qmd
+        - workshops.qmd
+        - conference.qmd
+        - blogs.qmd
+        - code_contribution.qmd
+    - part: our_ways.qmd
+      chapters:
+        - nhsr-committee.qmd
+        - code-of-conduct.qmd
+        - nhsr-fellows.qmd
+        - style-guides.qmd
+        - accessibility.qmd
+
   page-footer:
     left: |
       NHS-R Way by the NHS-R Community
@@ -41,9 +50,6 @@ book:
   repo-branch: main
   repo-actions: [edit, issue]
   site-url: https://nhsrway.nhsrcommunity.com/
-
-
-bibliography: references.bib
 
 format:
   html:

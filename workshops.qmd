@@ -1,0 +1,39 @@
+# Hosting (or cohosting) Workshops {#workshops .unnumbered}
+
+To volunteer any workshops please contact [the core development team](#contact-us).
+
+## Introduction to R and R Studio
+
+NHS-R Community host volunteers running the [Introduction to R and R Studio](#training) course once a month virtually. 
+This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to the availability of the person leading the workshop.
+
+Co-hosts can also attend and assist with:
+
+-   checking the chat,
+-   any technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting, it closes for everyone) and
+-   it can be agreed between the host and co-host to share sections of the training.
+
+[Materials](#training) are available in a chapter form from NHS-R Community GitHub to allow people the flexibility of what to cover in a session according to the time available. 
+There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.
+
+These courses are very popular and are often fully subscribed and have a waiting list. 
+If your desired course appears full, we encourage you apply to join anyway.
+This may mean you can attend if others have cancelled, but if that is not the case,
+we can use your email address to invite you to future courses in advance of them being sharing publicly.
+
+Recordings are always made available to attendees but are not always made public. 
+However, if you wish to have a workshop you have led made public, these can be added to the public archive, provided permission has been sought from the attendees before recordings have been started. 
+See section [Video Recording](#recordings) for more information.
+
+Contributions and changes to the materials are always welcome and can be made via the GitHub repository.
+
+## Other workshops
+
+Workshops, other than the regular Introduction to R and R Studio, are very welcome and we've had talks from other languages (Python) as well as specific subjects like statistics. 
+All workshops are recorded and, unless specifically requested otherwise, are shared publicly. 
+See section [Video Recording](#recordings) for more information.
+
+The length of a workshop can vary according to the content the person/people wish to deliver. 
+In the past, we have supported workshops of 1 hour, half a day or a whole day.
+
+Workshop formats often include some 'code-along' sections or exercises.

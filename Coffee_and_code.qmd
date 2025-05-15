@@ -1,0 +1,66 @@
+# Coffee and Code {#coffeeandcode .unnumbered}
+
+
+Coffee and coding is a group that was originally set up from NHS England and has been extended to anyone within the NHS-R Community. 
+
+In response to feedback and to assist with accessing these sessions, we have decided to mix up the days and times these meetings are on. 
+We have an hour meeting every two weeks, with the day: Wednesday, Thursday, and Friday.
+
+::: {.callout-important collapse="false" appearance="default" icon="true"}
+## Get involved!
+
+We strive to maintain community led content and would very much like to tailor these sessions to be useful, no matter what stage you at with your R journey.
+:::
+
+There is a constant call to show us what you have been up to, anything you are working on, any issues you may have. 
+This is an opportunity to share what you have learned and to ask a wider audience how to do things. 
+Get some friendly feedback and QA. 
+We very much want to foster this as a safe space to ask questions, get advice and create possible spin off sessions if there are specific areas to cover.
+
+Your input into making these sessions interactive and your feedback is critical in steering these sessions. 
+These are your sessions, and you have a voice as to what you would like to see.
+
+## Getting calendar invitations
+
+::: {.callout-tip collapse="false" appearance="default" icon="true"}
+## No need to book
+
+There is no requirement to book in for Coffee and Coding but the following information details how to get the joining link if you haven't already got it and how to get calendar appointments.
+:::
+
+The group is virtual and through MS Teams on the same link and this is shared with you via Pretix once you sign up to a Coffee and code through the page: <https://events.nhsrcommunity.com/coffee-and-code/>. 
+The automatically generated email will also have a diary `.ics` that can be saved to Outlook.
+
+::: {.callout-tip collapse="false" appearance="default" icon="true"}
+## Coffee and Coding as a series of events
+
+Signing up to Coffee and Coding will result in an email with a one event `ics`, however, if you want the series of events you will get the option to download the specific days' `ics` when you get to the confirmation page.
+:::
+
+![](img/pretix-calendar-invitations.PNG){fig-alt="Screenshot of the confirmation page with 3 links to download the calendar series for Wed, Thurs and Fri"}
+
+There is a short survey, which appears for each event, but there are only a few questions that are mandatory and these can be copied from the first event using a `Copy answers from above` button. 
+The following short clip shows how to select multiple events, fill in the survey and copy the answer and confirming selection as a guest:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SaL7Q0k_0Jc?si=tmdSNyvMWb8yqI-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+If you do create an account the survey answers you have made can be retained for future events (there is a tick box at the bottom of each survey):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZIl1X0qF7Y?si=_Z8VQVaqtHYYCwge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+The email that is sent to confirm will contain an `.ics` file for each of the events which can be opened and saved as an Outlook appointment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3smQUFYMroY?si=c9OjyF44rURaeA7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+More information about the ticket system see the section on [membership access](#pretix).
+
+## Recordings
+
+Recordings are available through Future NHS which is a platform that anyone can join but workspaces are sometimes restricted. 
+The NHS England R Community workspace where the [Coffee and Coding recordings](https://future.nhs.uk/NHSERcommunity/view?objectID=41908688) are not restricted.

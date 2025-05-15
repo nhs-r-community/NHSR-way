@@ -1,35 +1,48 @@
 # Training {#training .unnumbered}
 
-## Posit Cloud
+We host some regular training courses that are very popular. These are:
 
-As of September 2024 NHS-R Community no longer has a paid account to use workspaces and projects for training/workshops.
+- [**Introduction to R and RStudio**](#intro-r-course)
+- [**Intermediate R**](#intermediate)
+- [**Introuction to Git and GitHub using R**](#intro-git)
+- [**Shiny for Beginners**](#shiny)
+- [**Introduction to Quarto**](#intro-quarto)
+
+All course materials are freely available through our [GitHub](https://github.com/nhs-r-community).
+Use the links above to skip to the relevant 'guide for attendees' section.
+
+## Where to do the course?
+
+With these courses, you need to have the relevant software and a place to store the files. Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. For that reason, we often provide training using Posit Cloud - an onine space you can log into that already has most of the relevant tools. You are also welcome to complete the course on your work computer if you can, or on a personal computer. To help you explain to your work's IT departement about what tools you need on your machine and why, see our [Statement on Tools book](https://nhsrcommunity.com/books/posts/statement-on-tools/) for guidance.
+
+### If you are using Posit Cloud
 
 ::: callout-warning
 As Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to never use the Cloud for analysis of any sensitive data.
 :::
 
-### Posit Cloud terminology
+#### Posit Cloud terminology
 
 The *workspace* is the overall work area that is managed by a person for a training session or workshop. 
 The *projects* are set up within the workspace and are set to duplicate for individuals to also join the workspace.
 
-### Actively used workspaces \[Archived For Information\]
+#### Actively used workspaces \[Archived For Information\]
 
 Projects in active workspaces, like the Introduction to R and R Studio workshop, will be archived after 3 months which means the project isn't counted in the Cloud usage but is still retrievable.
 
-### One-off workspaces \[Archived For Information\]
+#### One-off workspaces \[Archived For Information\]
 
 Workspaces for one-off events like conferences will be archived after 3 months and deleted after 6 months.
 
-## Prework for attendees
+#### Prework for attendees
 
-### Equipment - screens
+#### Equipment - screens
 
 Many of the course and workshop formats expect a "code-along" approach which is best done with 2 screens for comfort of moving between the demonstration and using RStudio on your computer.
 
 Where users use two separate computers to enable having 2 screens, this may cause issues with sharing code in the chat functions and it will not be possible to share the coding screen for debugging support.
 
-### Set up Posit Cloud {#own-cloud}
+#### Set up Posit Cloud {#own-cloud}
 
 ::: {.callout-tip collapse="false" appearance="default" icon="true"}
 ## Why use the Posit Cloud? (tip)
@@ -57,8 +70,8 @@ VPNs sometimes do work but block parts of the R functionality, this is particula
 If you are using your own computer please ensure you have the **latest** versions of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
 Technical guidance on which programs are required and how to get those installed can be found in the NHS-R Community [Statement on Tools](https://tools.nhsrcommunity.com/technical-r.html) book.
 
-It is important to have the latest R installed as older versions have had issues when installing {tidyverse} packages. 
-Errors may come up saying that packages like `broom` or `readr` cannot be installed but even when this has been installed separately there continue to be other errors. 
+It is important to have the latest R installed as older versions have had issues when installing '{tidyverse}' packages. 
+Errors may come up saying that packages like `{broom}` or `{readr}` cannot be installed but even when this has been installed separately there continue to be other errors. 
 Some of the [answers](https://community.rstudio.com/t/having-trouble-installing-and-loading-tidyverse-readr-no-hms-package/11268/7) in this post from Posit community may help.
 
 ::: callout-warning
@@ -72,6 +85,8 @@ One way of getting files from the GitHub repositories is to download a zip file:
 ![Screenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted](img/github-download-files.PNG)
 
 However, there are alternatives that are detailed in each course under the header 'Get data', including whether this is a good way for your own computer or Posit Cloud.
+
+-----
 
 ## Introduction to R and RStudio course materials {#intro-r-course}
 
@@ -125,6 +140,8 @@ Slides can be downloaded from a separate repository <https://github.com/nhs-r-co
 
 These are just the slides and not the underlying code used to produce the slides, which can be found in the main repository <https://github.com/nhs-r-community/intro-r-rstudio>. 
 We have separated the code from the published slides and the data to not overwhelm beginners to R as there a lot of files!
+
+-----
 
 ## Intermediate R {#intermediate}
 
@@ -186,6 +203,8 @@ To use GitHub you will need to:
 
 To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github> follow the instructions on [downloading data](#step-two).
 
+---- 
+
 ## Introduction to Quarto course materials {#intro-quarto}
 
 ### Viewing published slides
@@ -237,6 +256,8 @@ From the drop down that appears select `New Project from Git Repository`, then c
 
 If you want to have the slides on your computer, they can be downloaded from the repository [`intro-quarto`](https://github.com/nhs-r-community/intro-quarto). 
 Using the same process as for `Downloading files` above you can download these to your computer by clicking on the green button and selecting the zip download.
+
+-----
 
 ## Shiny beginners course materials {#shiny}
 

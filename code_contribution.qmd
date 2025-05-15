@@ -1,0 +1,27 @@
+# Contributing to our codebase {#code-contribution .unnumbered}
+👩‍💻👨‍💻 
+
+The NHS-R Community hosts all its code on our [GitHub site](https://github.com/nhs-r-community).
+
+### _Not familiar or confident with Git or GitHub? No problem!_
+
+If you'd like help submitting any suggested changes or additions to any of our code-based resources (like our books or website), [email us](#contact-us) or ask for help in the [NHS-R Slack](https://nhsrcommunity.com/getting-started.html#contact) group and a member of the community would be happy to help you get started!
+
+If you spot any errors, have any suggested changes or additions you'd like to make to anny of our code-based resources, you can [submit a Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Please ensure you follow our [Code of Conduct](#code-of-conduct)while doing so. If your PR concerns a bug you've found, you'll get a better response if you include a **rep**roducible **ex**ample and there is a package that can help called [{reprex}](https://reprex.tidyverse.org/). Here's a [video](https://www.youtube.com/watch?v=iLfzNWh2dLI) on how to do this!
+
+### How to submit a Pull Request
+
+Before the instructions on what to do to contribute make sure you have Git installed on your computer and a GitHub account.
+Details on how to get set up can be found in the [Introduction to Git and GitHub using R course](https://intro-git-github.nhsrcommunity.com/session-setup.html#/title-slide).
+
+The first step to contributing is to `clone` the site to your own GitHub account.
+As with many programs and coding there are numerous ways to do this but one nice way in R is to use the package {usethis}.
+
+From your own repository you should create a new branch.
+Again, using {usethis} you can follow the steps from the course <https://intro-git-github.nhsrcommunity.com/session-usethis-gert.html#/start-new-work> and then create a [pull request](https://intro-git-github.nhsrcommunity.com/session-pull-requests.html#/pushing-to-the-remote-github).
+
+:::{.callout-tip collapse=false appearance='default' icon=true}
+## PR to which repository? (tip)
+By following these instructions you will have created a new branch in your repository so the PR (pull request) will go automatically to your own repository's `main` branch. 
+You can either complete this which updates your `main` or redirect the PR in GitHub to the original NHS-R Community repository which will be possible as the two are linked.
+:::
