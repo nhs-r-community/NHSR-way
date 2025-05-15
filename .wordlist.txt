@@ -11,6 +11,7 @@ attractors
 Beeley
 beeley
 BFG
+Bluesky
 callout
 Carpentries
 cc'ing
@@ -32,6 +33,7 @@ eval
 Fosstodon
 Frutiger
 generalisable
+gert
 GDS
 ggplot2
 ggplot
@@ -45,9 +47,12 @@ http
 https
 ICB
 ICS
+img
+jpg
 Jahn
 Kirstie
 licenced
+LinkedIn
 lintr
 listserv
 MLCSU
@@ -90,6 +95,7 @@ readme
 readmes
 Repo
 repo
+reprex
 responders
 RMarkdown
 rOpenSci's
@@ -143,6 +149,7 @@ wikipedia
 Wikipedia
 www
 yml
+YAML
 Zoë
 zoe
 cetera

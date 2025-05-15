@@ -4,7 +4,7 @@ We host some regular training courses that are very popular. These are:
 
 - [**Introduction to R and RStudio**](#intro-r-course)
 - [**Intermediate R**](#intermediate)
-- [**Introuction to Git and GitHub using R**](#intro-git)
+- [**Introduction to Git and GitHub using R**](#intro-git)
 - [**Shiny for Beginners**](#shiny)
 - [**Introduction to Quarto**](#intro-quarto)
 
@@ -13,7 +13,7 @@ Use the links above to skip to the relevant 'guide for attendees' section.
 
 ## Where to do the course?
 
-With these courses, you need to have the relevant software and a place to store the files. Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. For that reason, we often provide training using Posit Cloud - an onine space you can log into that already has most of the relevant tools. You are also welcome to complete the course on your work computer if you can, or on a personal computer. To help you explain to your work's IT departement about what tools you need on your machine and why, see our [Statement on Tools book](https://nhsrcommunity.com/books/posts/statement-on-tools/) for guidance.
+With these courses, you need to have the relevant software and a place to store the files. Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. For that reason, we often provide training using Posit Cloud - an online space you can log into that already has most of the relevant tools. You are also welcome to complete the course on your work computer if you can, or on a personal computer. To help you explain to your work's IT department about what tools you need on your machine and why, see our [Statement on Tools book](https://nhsrcommunity.com/books/posts/statement-on-tools/) for guidance.
 
 ### If you are using Posit Cloud
 

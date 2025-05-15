@@ -1,4 +1,4 @@
-# Contributing to our codebase {#code-contribution .unnumbered}
+# Contributing to our code base {#code-contribution .unnumbered}
 👩‍💻👨‍💻 
 
 The NHS-R Community hosts all its code on our [GitHub site](https://github.com/nhs-r-community).
@@ -7,7 +7,7 @@ The NHS-R Community hosts all its code on our [GitHub site](https://github.com/n
 
 If you'd like help submitting any suggested changes or additions to any of our code-based resources (like our books or website), [email us](#contact-us) or ask for help in the [NHS-R Slack](https://nhsrcommunity.com/getting-started.html#contact) group and a member of the community would be happy to help you get started!
 
-If you spot any errors, have any suggested changes or additions you'd like to make to anny of our code-based resources, you can [submit a Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Please ensure you follow our [Code of Conduct](#code-of-conduct)while doing so. If your PR concerns a bug you've found, you'll get a better response if you include a **rep**roducible **ex**ample and there is a package that can help called [{reprex}](https://reprex.tidyverse.org/). Here's a [video](https://www.youtube.com/watch?v=iLfzNWh2dLI) on how to do this!
+If you spot any errors, have any suggested changes or additions you'd like to make to any of our code-based resources, you can [submit a Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Please ensure you follow our [Code of Conduct](#code-of-conduct)while doing so. If your PR concerns a bug you've found, you'll get a better response if you include a reproducible example and there is a package that can help called [{reprex}](https://reprex.tidyverse.org/). Here's a [video](https://www.youtube.com/watch?v=iLfzNWh2dLI) on how to do this!
 
 ### How to submit a Pull Request
 

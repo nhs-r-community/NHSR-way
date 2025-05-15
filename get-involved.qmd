@@ -27,7 +27,7 @@ All are welcome to make use of our open source resources, which include:
 
 Core members (meaning employees of the NHS, public sector, civil servants, voluntary sector, charities and academia, or who are retirees from any of these sectors) are given preference when applying to attend our workshops, training courses and any other restricted ticketing event, but if there is sufficient space on the event anyone is welcome to get involved!
 
-- [Coffee and Code](#coffeeandcode)
+- [Coffee and Code](#coffee_and_code)
 - [Training](#training)
 - [Webinars](#webinar)
 - [Workshops](https://events.nhsrcommunity.com/)
@@ -37,9 +37,9 @@ Core members (meaning employees of the NHS, public sector, civil servants, volun
 
 This community is what we decide to make it - so come and help us shape everything from our ethos and aims to our code and public image! Those who make significant contributions to the community can apply to show off this commitment to the world by becoming an NHS-R Community Fellow! You could contribute:
 
-- To our [codebase](#code-contribution)
+- To our [code base](#code-contribution)
 - To our [committee](#committee)
-- By hosting or cohosting [training](#workshops)
+- By hosting or co-hosting [training](#workshops)
 - By creating training, a workshop or webinar
 - By delivering a workshop or webinar 
 - By writing a [blog](#blogs)
