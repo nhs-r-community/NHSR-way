@@ -1,4 +1,4 @@
-# NHS-R Community Committee {.unnumbered}
+# NHS-R Community Committee {#committee .unnumbered}
 
 NHS-R Community has a Committee, details are below, and this reports to a Steering Group whose membership is made up of The Strategy Unit colleagues.
 

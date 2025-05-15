@@ -11,10 +11,6 @@ Our goal is to promote R - extended to other free and open source data science t
 
 The NHS-R Community can be found on [Slack](#slack) and the [core development team](#core-team) through the email [nhs.rcommunity@nhs.net](nhs.rcommunity@nhs.net).
 
-::: {.callout-tip title="Where to start?"}
-This book is not meant to be read from start to finish and we recommend that you read the Code of Conduct first. 
-:::
-
 ::: {.callout-tip title="Other books!"}
 This is a book about the NHS-R Community, how it works and its values. 
 
@@ -35,10 +31,9 @@ The NHS-R Community Way reflects our:
 
 * values
 * activities
-* above all the community
+* above all, the community
 
 Everything here is available for free under a CC0 1.0 licence. Please use and re-use whatever you need, for any purpose and all the book is collaboratively written and open from the start. To make this book and the community truly accessible to everyone, we invite you to contribute your skills and bring your perspectives into this project. 
-Write and issue, do a pull request or even [the core development team](#contact-us). 
 
 The NHS-R Community initially received funding for its activities but is now completely reliant upon volunteers. 
 There is no restriction to who you work for, what your background is or what skills you have as we are the sum of all our parts and the more diverse and varied we are, the better our work together will be. 
