@@ -1,0 +1,52 @@
+# Get Involved! {#get-involved}
+
+There are lots of ways of making use of the NHS-R Community:
+
+## 🍨 Use our resources! 📚
+
+### 💻 Online resources
+
+All are welcome to make use of our open source resources, which include:
+
+- Chat and ask questions on social media! We can be found at:
+  + [Slack](https://nhsrcommunity.slack.com/)
+  + [Fosstodon](https://fosstodon.org/@NHSrCommunity)
+  + [LinkedIn](https://www.linkedin.com/in/nhs-r-community-2555a6282/)
+  + [Bluesky](https://bsky.app/profile/nhsrcommunity.bsky.social)
+
+- [Books](https://nhsrcommunity.com/books/)
+- [Code repositories](https://github.com/nhs-r-community)
+- [R Packages](https://nhsrcommunity.com/packages.html)
+- Webinar and workshop [recordings on YouTube](https://www.youtube.com/@NHSRCommunity)
+- [Blogs](https://nhsrcommunity.com/blog/)
+- Previous [conference recordings](https://www.youtube.com/@NHSRCommunity)
+- [Podcasts](https://www.youtube.com/@NHSRCommunity/podcasts)
+
+
+### 🗣 In person (virtually) 
+
+Core members (meaning employees of the NHS, public sector, civil servants, voluntary sector, charities and academia, or who are retirees from any of these sectors) are given preference when applying to attend our workshops, training courses and any other restricted ticketing event, but if there is sufficient space on the event anyone is welcome to get involved!
+
+- [Coffee and Code](#coffee_and_code)
+- [Training](#training)
+- [Webinars](#webinar)
+- [Workshops](https://events.nhsrcommunity.com/)
+- [Conference](#conference)
+
+## 🎁 Contribute!
+
+This community is what we decide to make it - so come and help us shape everything from our ethos and aims to our code and public image! Those who make significant contributions to the community can apply to show off this commitment to the world by becoming an NHS-R Community Fellow! You could contribute:
+
+- To our [code base](#code-contribution)
+- To our [committee](#committee)
+- By hosting or co-hosting [training](#workshops)
+- By creating training, a workshop or webinar
+- By delivering a workshop or webinar 
+- By writing a [blog](#blogs)
+- By tidying up the automatically generated subtitles on our [YouTube videos](https://www.youtube.com/@NHSRCommunity)
+- Helping redesign any of our assets (website, books, repositories for example)
+- By representing the community to the outside world
+
+To show our gratitude for your contributions, you can apply (or nominate someone) to become an [NHS-R Fellow](#fellow). This is a great way to receive recognition and publicise your involvement. 
+
+

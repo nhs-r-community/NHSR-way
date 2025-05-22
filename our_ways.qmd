@@ -1,0 +1,13 @@
+# NHS-R Community Ways of working {.unnumbered}
+
+## Committee
+We are steered by our [committee](#committee), itself made of volunteers.
+
+## Code of Conduct
+All who intend to interact in any way with our community are required to uphold our [Code of Conduct](#code-of-conduct).
+
+## Accessibility
+We aim to make all our resources as [accessible](#accessibility) as possible, and would [welcome your help](#get-involved) in improving how we can do this!
+
+## Style
+We would like all our products, and thus also your contributions, to follow our [style guide](#style_guides).

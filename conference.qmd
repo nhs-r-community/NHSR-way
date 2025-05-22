@@ -1,4 +1,4 @@
-# Conference {.unnumbered}
+# Conference {#conference .unnumbered}
 
 ## Guidelines and tips
 

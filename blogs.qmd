@@ -1,0 +1,48 @@
+# Blogs ✍ {#blogs .unnumbered}
+
+
+Tell us about your career, your work, your favourite packages, your R or open-source based journey, or anything you think the community would be interested in!
+
+We'd love to receive blogs for the website and these can be emailed to [nhs.rcommunity@nhs.net](https://nhsrcommunity.slack.com/).
+
+If you want to submit the blog as a Quarto document directly to the repository we'd love to receive a pull request from you (see [get involved](#get-involved) for tips on how).
+
+See our [existing blogs](https://nhsrcommunity.com/blog/) for tips on how to set your Quarto blog document up.
+
+If you are writing a blog and are submitting this through a Pull Request in GitHub, please save a `.qmd` file into the folder called `blog` and any images you've used in the `img` sub-folder.
+Also ensure that all images used have suitable [alternative text as good practice](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text/) and this will need to be a short description of the image.
+
+The format for the header part of the `.qmd` YAML template is often set out like this:
+
+```
+---
+title: "Your title here"
+date: "17 October 2022"
+date-modified: "27 July 2024"
+categories:
+  - Something
+  - Something Else
+author: Your name
+image: img/picture.jpg
+image-alt: "Please add a short description"
+subtitle: >
+  "Please add a short description of the blog if you'd like or remove this text"
+---
+```
+The default for all blogs' YAML is:
+
+```
+execute:
+  `eval: true
+   echo: true
+```
+
+so is not necessary in the blogs themselves.
+However, if you wish to change the default so the blog, for example, shows code but does not run it then the YAML needs the following added to the individual blog `.qmd` YAML:
+
+```
+execute: 
+  eval: false
+```
+
+More details on the [execution options](https://quarto.org/docs/computations/execution-options.html) are available from the Quarto documentation website.

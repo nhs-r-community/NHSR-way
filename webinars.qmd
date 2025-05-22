@@ -1,0 +1,10 @@
+# Webinars {#webinar .unnumbered}
+
+NHS-R Community host an hour long virtual webinar most often on a Thursday, usually the last of the month. 
+Sessions are recorded and posted onto the NHS-R Community [YouTube channel](https://www.youtube.com/watch?v=668k5sBkKus&list=PLXCrMzQaI6c36jqIWc9AgHzowzZ2ak9DL) and collated together in the playlist 'Webinars'. 
+Content can relate to anything in health or social care and/or R coding. 
+Webinars on other data science subjects like Python and Git/GitHub are also very welcome.
+
+There is no restriction on who can attend the webinar and people can join/sign up through the [NHS-R Community website](#website).
+
+Suggestions for webinars can be emailed to [the core development team](#contact-us).

@@ -4,7 +4,7 @@ editor:
     wrap: 72
 ---
 
-# NHS-R Community Fellowship {.unnumbered}
+# NHS-R Community Fellowship {#fellow .unnumbered}
 
 ## Purpose
 
