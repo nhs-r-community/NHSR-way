@@ -157,7 +157,7 @@ Creative Commons licences are to be avoided for software (by implication code) d
 ## Copyright
 
 Copyright is held by a person or a legal entity and it should be noted that NHS-R Community is not a legal entity.
-NHS-R Community is currently hosted by The Strategy Unit which is part of NHS Midlands and Lancashire, however, most contributors to NHS-R Community work do so under their own organisation's time or even their own time and so will copyright would be to their employer or themselves.
+NHS-R Community is currently hosted by The Strategy Unit, however, most contributors to NHS-R Community work do so under their own organisation's time or even their own time and so will copyright would be to their employer or themselves.
 
 Discussions are ongoing to the use of Crown Copyright (with corresponding licences of [OGL](https://en.wikipedia.org/wiki/Open_Government_Licence)), however, this may require regular submissions of the work with this copyright.
 
